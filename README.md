@@ -5,6 +5,8 @@
 </p>
 <br/>
 
+Join the chat at #ipfs-camp@freenode using any IRC client or [through the Matrix bridge](https://riot.im/app/#/room/#freenode_#ipfs-camp:matrix.org)
+
 ## Schedule Overview
 
 The schedule for the event can be found at https://camp.ipfs.io/schedule
@@ -17,3 +19,4 @@ The schedule for the event can be found at https://camp.ipfs.io/schedule
 - [⚡️ Lighting Talks](LIGHTING_TALKS)
 - [🧩 Unconf](UNCONF)
 - [🧬 Sci-Fi Fair](SCI-FI_FAIR)
+
