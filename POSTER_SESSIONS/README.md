@@ -2,9 +2,9 @@
 
 ## Description
 
-Poster Sessions are one of the all times IPFS Events favourites. These sessions are designed to propagate knowledge by having small teams of people explore together one of the many pieces of the IPFS stack with the goal to understand it well, so well that they can present it to the whole group aided by a Poster. 
+Poster Sessions are one of the all times favorite IPFS Events. These sessions are designed to propagate knowledge by having small teams of people explore one of the many pieces of the IPFS stack together, with the goal to understand it so well that they can present it to the whole group aided by a Poster.
 
-This session is inspired by the famous Feynman Technique, developed by Richard Feynman himself. The technique is simple and powerful, it suggests that for one to understand something well, it needs to be able to explain it.
+This session is inspired by the famous [Feynman Technique](https://collegeinfogeek.com/feynman-technique/), developed by Richard Feynman himself. The technique is simple and powerful, it suggests that for one to understand something well, it needs to be able to explain it.
 
 <TODO: insert photos from previous Berlin Dev Meetings Poster Session here>
 
