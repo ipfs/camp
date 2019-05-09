@@ -7,7 +7,7 @@ Instructions
 
 ## Overview
 
-- **Objective: Allow many projects to disseminate information across the entire set of attendees.
+- **Objective**: Allow many projects to disseminate information across the entire set of attendees.
 - **Activity**: In a lecture format, allow a group of people to give pre-prepared 5-minute updates on their projects.
 - **Outcome**: Recordings of all the project updates and shared context for conference attendees to operate from.
 
