@@ -7,7 +7,7 @@ Instructions
 
 ## Overview
 
-- **Objective: Create a space to host all sorts of discussions to be had in person that didn’t fit all the other sessions
+- **Objective**: Create a space to host all sorts of discussions to be had in person that didn’t fit all the other sessions
 - **Activity**: Each participant gets to propose sessions or attend sessions from others.
 - **Outcome**: The results from the unconf sessions should be uploaded to the IPFS Camp repo by the session attendees.
 
