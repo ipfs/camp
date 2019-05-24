@@ -27,6 +27,7 @@ Topics:
 * What the difference is between content and location addressing
     * What the benefits of verifying data are
 * Why content addressing allows us to get from anyone & anywhere
+* Lead into part 2: How do we content address in IPFS?
 
 ## Part 2 - Anatomy of a CID
 
