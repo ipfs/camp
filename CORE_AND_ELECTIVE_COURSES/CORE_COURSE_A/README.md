@@ -19,7 +19,14 @@ Big wow: ???
 
 Topics:
 
-TODO
+* Why there's no trust in p2p networks
+* What immutable content is
+    * What resource integrity checking is
+    * What a cryptographic hash is
+    * Why immutable content is good for caching
+* What the difference is between content and location addressing
+    * What the benefits of verifying data are
+* Why content addressing allows us to get from anyone & anywhere
 
 ## Part 2 - Anatomy of a CID
 
@@ -28,13 +35,7 @@ Big wow: CID inspector https://cid.ipfs.io/
 
 Topics:
 
-* What a CID is
-    * Unique identifier (very probably)
-    * Generated from the content itself
-    * Address for content
-    * Contrast to location addressing (?)
 * Why a CID is different from a hash (part 1 - intro to multihash)
-    * What a cryptographic hash is
     * The existence of different hashing algos
         * Why insecure algos necessitate change
     * What multicodec is
@@ -106,7 +107,7 @@ Topics:
 
 ## Part 5 - MFS
 
-Duration: 12 min
+Duration: 20 min
 Big wow: ProtoSchool MFS workshopper
 
 Topics:
@@ -121,4 +122,4 @@ Topics:
     * Why the MFS root CID changes
         * How propagation up the merkle dag works
         * Where discarded branches go (gc)
-* Do the MFS ProtoSchool workshop
+* Start the MFS ProtoSchool workshop
