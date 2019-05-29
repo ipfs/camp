@@ -31,15 +31,17 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | Adrian Lanzafame  | A quick look into the Pinning API proposal  |
 | Rüdiger Klaehn  | Actyx's experiences on building with IPFS  |
 | Héctor Sanjuán  | An IPFS storage driver for the Docker registry  |
-| Alex Potsides  | npm on IPFS: Using IPFS to install your JavaScript dependencies  |
+| Alex Potsides  | npm on IPFS: Using IPFS to install your JavaScript dependencies 📦  |
 | Dmitry Starodubcev  | CYB: Your personal robot on the Great Web  |
-| Andrew Nesbitt  | Republishing a project's npm dependencies to IPFS as a micro-registry  |
+| Andrew Nesbitt  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  |
 | Héctor Sanjuán  | go-libp2p-gorpc: Simple, permissioned libp2p RPC  |
-| Eric Myhre  | Solving the distributed naming problem (!) in the applied caes of package management  |
+| Eric Myhre  | Solving the distributed naming problem (!) in the applied caes of package management 📦  |
 | Justin Maier  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  |
 | Brendan O'Brien  | Using dsync for point-to-point DAG transfer  |
 | Andrew Hill | Content addressing and personal data sovereignty |
 | Stefan Hans | Thoughts about contexting |
+
+Note: topics relevant to package managers have a 📦 suffix.
 
 ## Overview
 
