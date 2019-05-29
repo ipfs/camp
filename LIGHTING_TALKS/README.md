@@ -40,6 +40,7 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | Brendan O'Brien  | Using dsync for point-to-point DAG transfer  |
 | Andrew Hill | Content addressing and personal data sovereignty |
 | Stefan Hans | Thoughts about contexting |
+| Edgar Lee | Containerd meets IPFS |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
