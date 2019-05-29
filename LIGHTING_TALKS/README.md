@@ -19,6 +19,28 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 - While everyone in attendance at IPFS Camp has been hand-selected for dweb enthusiasm, evangelism and expertise, people's subject matter knowledge does vary quite a bit, as do individual learning styles, caffeine intake on any given day, or fluency in your home country's awesome but obscure cultural references. When you put together your presentation, cast it to a wide audience; if attendees want to zoom in deeper with you, there'll be plenty of opportunities to do so during camp.
 - And finally: No pitch decks! If you want to tell us about the awesome thing your org/company is building, that's great. If we look at your deck and it makes us feel like you're pitching to us, we're going to tell you to try again. (Also, that's great if you're hiring, but this is not the venue to actively promote that! If your talk is sufficiently amazing, folks will look you up and find your job posts. Trust us on this one.)
 
+## Confirmed Lightning Talk Presentations
+
+... with more to come!
+
+| Presenter  | Topic |
+| ------------- | ------------- |
+| Jim Pick  | Privacy-preserving P2P research  |
+| Victor Grischenko  | An overview of RON  |
+| Héctor Sanjuán  | go-ds-crdt: CRDT KV stores arrive in go-land  |
+| Adrian Lanzafame  | A quick look into the Pinning API proposal  |
+| Rüdiger Klaehn  | Actyx's experiences on building with IPFS  |
+| Héctor Sanjuán  | An IPFS storage driver for the Docker registry  |
+| Alex Potsides  | npm on IPFS: Using IPFS to install your JavaScript dependencies  |
+| Dmitry Starodubcev  | CYB: Your personal robot on the Great Web  |
+| Andrew Nesbitt  | Republishing a project's npm dependencies to IPFS as a micro-registry  |
+| Héctor Sanjuán  | go-libp2p-gorpc: Simple, permissioned libp2p RPC  |
+| Eric Myhre  | Solving the distributed naming problem (!) in the applied caes of package management  |
+| Justin Maier  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  |
+| Brendan O'Brien  | Using dsync for point-to-point DAG transfer  |
+| Andrew Hill | Content addressing and personal data sovereignty |
+| Stefan Hans | Thoughts about contexting |
+
 ## Overview
 
 - **Objective**: Create a venue for many projects, subjects and ideas to disseminate across the entire set of IPFS Camp attendees.
