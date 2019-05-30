@@ -64,3 +64,25 @@ These design sessions are not about explaining how things work, they were focuse
 | 38 | UnixFS v2 | https://github.com/ipfs/unixfs-v2/blob/master/SPEC.md, https://github.com/ipfs/roadmap/issues/19 |
 | 39 | Using CRDTs to build real-time collaborative DApps | What are the hurdles to using CRDTs in dapps with IPFS? How can we make peer-base easier to understand and use? |
 | 40 | libp2p resource/connection management | When you lose the server/client roles and networks become collaborative, the volume of peering increases, and so does connection count. This can kill residential routers. We have a rudimentary connection manager that keeps connection count within bounds, but we are conceptualising connection manager v2 with things like protocol quotas, burst modelling, and lazy scoring. Help us navigate the design choices we have to make! |
+
+### Topic description template
+
+Use this template to create your one-pager description about your topic:
+
+```markdown
+# <Deep Dive Topic NAME>
+
+<Short summary of topic including Open Problem(s) to solve>
+
+## Goal
+
+<Define what we would get if the Open Problem(s) are solved for this Deep Dive>
+
+## Requirements to consider
+
+<Do we have requirements (i.e. work with 1MM nodes)?>
+
+## Where to learn about it
+
+<List of talks, links to github issues, code, notes and so on>
+```
