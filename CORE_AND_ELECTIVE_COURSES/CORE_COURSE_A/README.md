@@ -1,5 +1,16 @@
 # Understanding how the InterPlanetary File System deals with Files
 
+> INSERT DESCRIPTION
+
+## Trainers
+
+| **Alan Shaw**                                        	| **Steven Allen**                                     	| **Mikeal Rogers**                                 	|
+|------------------------------------------------------	|------------------------------------------------------	|---------------------------------------------------	|
+| ![](https://avatars3.githubusercontent.com/u/152863) 	| ![](https://avatars0.githubusercontent.com/u/310393) 	| ![](https://avatars1.githubusercontent.com/u/579) 	|
+| [@alanshaw](https://github.com/alanshaw/)            	| [@stebalien](https://github.com/stebalien)           	| [@mikeal](https://github.com/mikeal)              	|
+
+## What you will learn with this Course
+
 Welcome space ranger to Core Course A. In this course, you can expect to:
 
 1. Learn about immutability and why it's important - isn't change the one true constant?
@@ -10,7 +21,12 @@ Welcome space ranger to Core Course A. In this course, you can expect to:
 
 Warning, content may contain traces of the following: content vs location addressing, trust issues, IPLD format multicodecs, hash functions, multibase encoding, balanced vs trickle DAG layouts, chunking, content deduping, UnixFS.
 
+## Preparation for the course
+
+`TBW`
+
 ---
+# The Course Outline & Follow Guide
 
 ## Part 1 - Why immutability
 
