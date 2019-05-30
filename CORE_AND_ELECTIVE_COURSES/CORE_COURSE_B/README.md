@@ -1,4 +1,4 @@
-# Processing Addressing wut? A packet epic adventure through the Internet
+# `Core B` Processing Addressing wut? A packet epic adventure through the Internet
 
 > INSERT DESCRIPTION
 

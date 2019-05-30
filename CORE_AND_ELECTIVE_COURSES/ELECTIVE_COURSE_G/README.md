@@ -1,4 +1,4 @@
-# Managing Datasets with QRI
+# `Elective G` Managing Datasets with QRI
 
 > INSERT DESCRIPTION
 
