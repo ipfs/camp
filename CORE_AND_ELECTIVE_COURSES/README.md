@@ -14,7 +14,7 @@ The courses list is:
 | A              | Understanding how the InterPlanetary File System deals with Files       |           |                    | [CORE_COURSE_A](CORE_COURSE_A) |
 | B              | Processing Addressing wut? A packet epic adventure through the Internet       |           |                    | [CORE_COURSE_B](CORE_COURSE_B) |
 
-| C              | Developing Apps with IPFS. Pick implementation and way of interacting with it       |           |                    | [CORE_COURSE_C](CORE_COURSE_C) |
+| C              | Developing Apps with IPFS API: pick implementation and a way of interacting with it       |           |                    | [CORE_COURSE_C](CORE_COURSE_C) |
 
 | D              | The lifecycle of data in DWeb.       |           | Providing (Share), Pinning (Store) and Blocking (Delete) Data. How IPFS answers all of these questions.                   | [CORE_COURSE_D](CORE_COURSE_D) |
 
