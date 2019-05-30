@@ -41,6 +41,7 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | Andrew Hill | Content addressing and personal data sovereignty |
 | Stefan Hans | Thoughts about contexting |
 | Edgar Lee | Containerd meets IPFS |
+| Kinuko Yasuda and Jim Pick | Signed exchanges in Chrome |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
