@@ -51,3 +51,51 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 - Before the start of the session, everyone must stand on the poster topic they want to work on. If more than five people try to join a topic, you must re-balance people to other topics.
 - When everyone has chosen a topic and no topics have more than five people, write down the list of participants for that topic.
 - Take a flip chart, markers, etc and work wherever you want to work.
+
+## Topics
+
+| # | Topic | Description |
+| :---: | --- | --- |
+| 1 | UnixfsV1 | Unixfs is the data format used by IPFS to represent files in DAGs using the dag-pb (Protobuf) |
+| 2 | UnixfsV2 | UnixfsV2 is the futuristic version of Unixfs, designed to solve many of the issues from V1 |
+| 3 | Bitswap | The Decision Engine and the ledger; how reproviding happens; what is Bitswap 1.0.0 vs Bitswap 1.1.0? Is there a tit-for-tat? |
+| 4 | IPLD Resolver | The IPLD Resolver is the system that enables IPFS to be able to traverse through multiple data formats (Bitcoin, git, Ethereum, IPFS and others) |
+| 5 | MFS, the Mutable File System | A Unixfs utility library for treating DAGs as traditional files. |
+| 6 | PeerPad Capabilities System |  |
+| 7 | Pinning & GC on IPFS |  |
+| 8 | Libp2p Connection Flow | What is the connection flow of a libp2p connection? What happens internally and why? (what is the libp2p-switch) |
+| 9 | IPFS DHT | How does the DHT of IPFS work? Make the distinction between Peer Routing and Content Routing |
+| 10 | The intricacies of DWeb Addressing | The challenges with the origin policy and all details to have in consideration when adding IPFS natively to Web Browsers resolution. Consider base58 -> base32 migrations, case sensitivity, browser vendors, etc. |
+| 11 | KeyStore & Linked Data Key (aka Multikey) | Self describing keys. What kind of formats are there? How do we handle them all? What do we use them for? |
+| 12 | The design of the IPFS Repo | What is the IPFS Repo? How does it store data? How can users store data in multiple backends (local fs, IndexedDB, S3 and so on) |
+| 13 | DEX - The Importers and Exporters Project | Getting and formatting data into and out of IPFS. |
+| 14 | IPFS/libp2p PubSub | Publisher-Subsciber message model. What implementations exist for this (floodsub, gossipsub)? How do they compare? What are uses of it? How does it interact with (our) other dynamic data systems? |
+| 15 | NPM on IPFS | Bring up left-pad ;^) |
+| 16 | InterPlanetary Test Lab | |
+| 17 | CAR |  Content addressable archive(s). How does it work? What are some applications of it? |
+| 18 | SECIO | Encryption method/protocol. How does it compare to alternatives (like TLS)? |
+| 19 | Rendezvous Protocol | Peer discovery method. |
+| 20 | Circuit Relay | Message relaying. What scenarios is this useful in / what problems does this solve? |
+| 21 | DNSLink | Utilize DNS to point to IPFS data. |
+| 22 | xTP | External Transport Protocol. How do IPFS nodes communicate with foreign protocols? Why would we need this? |
+| 23 | Go-ds-crdt - Merkle CRDTs |  |
+| 24 | DAG walking facilities in IPLD |  |
+| 25 | Core API | Higher level API for interacting with IPFS nodes. |
+| 26 | New Go HTTP API libs  | Lower level node API. |
+| 27 | QUIC | Transport protocol. When and why is it useful to use QUIC over alternatives? What is the importance of good transports in general? |
+| 28 | CRDTs in Peerpad |  |
+| 29 | Stream Muxers | Libp2p mplex, yamux, SPDY etc. |
+| 30 | Websocket Transport | Why Websockets exist? Why TCP and QUIC can be used everywhere? |
+| 31 | Performance | Where and why can things be slow in a typical IPFS publish or request operation? |
+| 32 | CPU | What are the most compute-heavy operations in a production IPFS node and why? |
+| 33 | IPNS | Mutable references. How does it interact with the keystore? How do things get resolved? When to use it over other dynamic systems? |
+| 34 | Routing | How does IPFS handle routing? (how does IPFS abstract peers via IDs instead of location?) What discovery options exist? (kad-dht, rendezvous). How do we take advantage of multiple discovery methods? |
+| 35 | Graphsync | IPLD graph synchronizing. How does it relate to other systems (bitswap, IPLD)?  What benefit does it give us? |
+| 36 | HTTP gateways | Interop bridge between HTTP <-> IPFS. How do I make one of these? Why would I want one? |
+| 37 | CORAL | A non-KAD DHT. How does it compare? How would it benefit IPFS? |
+| 38 | IPLD Selectors | Ways of expressing subsets of IPLD objects. |
+| 39 | Community / World | How does/can IPFS impact various communities in practice? Which communities? Examples: anti-censorship efforts (Wikipedia mirrors), modernized elective systems (Thailand voting), data archival in general (RIP orphaned data), etc. |
+| 40 | Swarming (concept) | Utilization of multiple peers for a single task. E.g. multisource file-transfer / segmented downloading. Speak on redundancy/resilience, efficiency, etc. Compare to centralized systems. |
+| 41 | Bootstrapping | How does IPFS initialize itself? |
+| 42 | IPFS Nodes | What makes an IPFS node an IPFS node? List specs that need to be implemented, examples of (non-PL) implementations (whole or individual components). |
+| 43 | History? | Outline some of the historical changes in IPFS, such as the extraction of libp2p, changes in standards, etc. |
