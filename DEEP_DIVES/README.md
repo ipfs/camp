@@ -67,7 +67,7 @@ These design sessions are not about explaining how things work, they were focuse
 
 ### Topic description template
 
-Use this template to create your one-pager description about your topic:
+Use this template to create your one-pager description about your topic. Send a PR to https://github.com/ipfs/camp/tree/master/DEEP_DIVES with your topic description page e.g. `FAST_IPNS.md`
 
 ```markdown
 # <Deep Dive Topic NAME>
