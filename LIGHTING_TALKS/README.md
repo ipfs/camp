@@ -35,7 +35,7 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | Dmitry Starodubcev  | CYB: Your personal robot on the Great Web  |
 | Andrew Nesbitt  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  |
 | Héctor Sanjuán  | go-libp2p-gorpc: Simple, permissioned libp2p RPC  |
-| Eric Myhre  | Solving the distributed naming problem (!) in the applied caes of package management 📦  |
+| Eric Myhre  | Solving the distributed naming problem (!) in the applied cases of package management 📦  |
 | Justin Maier  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  |
 | Brendan O'Brien  | Using dsync for point-to-point DAG transfer  |
 | Andrew Hill | Content addressing and personal data sovereignty |
