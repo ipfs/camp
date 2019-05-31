@@ -46,8 +46,8 @@ At the end of the day, each group will have 1 minute to present their poster. Ma
 ## How you will choose which poster to work on
 
 Poster teams should have a maximum of 4 people and a minimum of 2. People will choose which poster to work on using this process:
-- Leading up to the session, anyone can propose poster topics using the [instructions below](#proposed-poster-making-sessions)
-- The meeting organizers will draw a spot on the ground for each of the posters.
+- For this event we have a [list of topics](#topics) below.
+- The meeting organizers will draw a spot on the ground for each of the poster topics.
 - Before the start of the session, everyone must stand on the poster topic they want to work on. If more than five people try to join a topic, you must re-balance people to other topics.
 - When everyone has chosen a topic and no topics have more than five people, write down the list of participants for that topic.
 - Take a flip chart, markers, etc and work wherever you want to work.
@@ -99,3 +99,45 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 | 41 | Bootstrapping | How does IPFS initialize itself? |
 | 42 | IPFS Nodes | What makes an IPFS node an IPFS node? List specs that need to be implemented, examples of (non-PL) implementations (whole or individual components). |
 | 43 | History? | Outline some of the historical changes in IPFS, such as the extraction of libp2p, changes in standards, etc. |
+
+## Topic description template
+(File these under `camp/POSTER_SESSIONS/TOPIC_NAME.md`)
+```markdown
+<TOPIC NAME>
+
+<Topic description: what it is, where it gets used, etc.>
+
+## Goal
+
+<Define the goal for this poster: What information will it convey, demonstrate, etc.>
+
+## Questions to Answer
+
+<Series of questions to which the group should look answers for>
+
+## Where to learn about it
+
+<List of websites, code repos, communities, notes, etc.>
+```
+
+Example:
+```markdown
+<IPFS>
+
+A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
+
+## Goal
+
+Broadly convey what IPFS is in concept, practice, and ideal.
+
+## Questions to Answer
+
+What is IPFS? What can I use it for? How does it impact various peoples and tasks?
+
+## Where to learn about it
+
+https://ipfs.io/
+https://github.com/ipfs/
+https://docs.ipfs.io/#community
+IRC: #ipfs, #ipfs-dev
+```
