@@ -42,6 +42,8 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | Stefan Hans | Thoughts about contexting |
 | Edgar Lee | Containerd meets IPFS |
 | Kinuko Yasuda and Jim Pick | Signed exchanges in Chrome |
+| Antoine Eddi | Implementing libp2p over Bluetooth Low Energy |
+| Alexandre Trottier | Why open source matters and how individuals can further the movement |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
