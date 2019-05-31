@@ -44,6 +44,7 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | Kinuko Yasuda and Jim Pick | Signed exchanges in Chrome |
 | Antoine Eddi | Implementing libp2p over Bluetooth Low Energy |
 | Alexandre Trottier | Why open source matters and how individuals can further the movement |
+| Jonathan Budd | Peergos: E2E encrypted storage and social network on IPFS |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
