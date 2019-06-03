@@ -25,7 +25,6 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 
 | Presenter  | Topic |
 | ------------- | ------------- |
-| Jim Pick  | Privacy-preserving P2P research  |
 | Victor Grischenko  | An overview of RON  |
 | Héctor Sanjuán  | go-ds-crdt: CRDT KV stores arrive in go-land  |
 | Adrian Lanzafame  | A quick look into the Pinning API proposal  |
