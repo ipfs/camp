@@ -14,9 +14,8 @@ The schedule for the event can be found at https://camp.ipfs.io/schedule
 ## Sessions
 
 - [👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES)
-- [📃 Poster Sessions](POSTER_SESSIONS)
+- [📃 Poster Projects](POSTER_PROJECTS)
 - [🐋 Deep Dives](DEEP_DIVES)
 - [⚡️ Lightning Talks](LIGHTING_TALKS)
 - [🧩 Unconf](UNCONF)
 - [🧬 Sci-Fi Fair](SCI-FI_FAIR)
-
