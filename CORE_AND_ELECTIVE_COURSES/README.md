@@ -12,7 +12,7 @@ The courses list is:
 |--------------- |------- |---------- |------------------- |------ |
 | **Core**       | | | | |
 | A              | Understanding how the InterPlanetary File System deals with Files       | @alanshaw @Stebalien @mikeal              |                                                                | [CORE_COURSE_A](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_A) |
-| B              | Processing Addressing wut? A packet epic adventure through the Internet | @raulk @jacobheun @achingbrain            |                                                                | [CORE_COURSE_B](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_B) |
+| B              | Solving distributed networking problems with libp2p | @raulk @jacobheun @achingbrain            | An interactive deep dive into the capabilities of libp2p | [CORE_COURSE_B](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_B) |
 | C              | Developing Apps with IPFS API: pick your implementation                 | @lidel @jimpick @hugomrdias               |                                                                | [CORE_COURSE_C](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_C) |
 | D              | The lifecycle of data in DWeb.                                          | @olizilla @kishansagathiya @meiqimichelle | Providing (Share), Pinning (Store) and Blocking (Delete) Data  | [CORE_COURSE_D](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_D) |
 | **Electives**  | | | | |
