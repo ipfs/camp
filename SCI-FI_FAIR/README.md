@@ -13,7 +13,7 @@ TBW
 
 If you've been selected as a presenter, please be sure to fill out this [rider form](https://forms.gle/YZ7iA71fKUcCgTCy6) so your project can be presented in the best possible light.
 
-You'll need to bring (at minimum) a PC/laptop to present your project. We will provide a power hookup, a monitor (on request), and potentially other small supplies: if you have an interesting presentation ideas, let us know! This isn't meant to be a boring old poster session (not to be confused with the [not-at-all-boring Poster Projects](../../POSTER_PROJECTS/README.md)) so **be creative!** You can also bring swag for your project, within reason (stickers, patches, etc)
+You'll need to bring (at minimum) a PC/laptop. We will provide a power hookup, a monitor (on request), and potentially other small supplies: if you have an interesting presentation idea, let us know! This isn't meant to be a boring old poster session (not to be confused with the [not-at-all-boring Poster Projects](../../POSTER_PROJECTS/README.md)) so **be creative!** You can also bring swag for your project, within reason (stickers, patches, etc)
 
 A projector will be running a slideshow in the room throughout the event, so please provide a logo, promo image, or short clip/animation (<10s) that we can include.
 
