@@ -45,7 +45,7 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | Alexandre Trottier | Why open source matters and how individuals can further the movement |
 | Jonathan Budd | Peergos: E2E encrypted storage and social network on IPFS |
 | Irakli Gozalishvili  | Inter Planetary Data Feed (IPDF) |
-| Blake Davis | Who wins in a fight: Superman, HTTPS, or IPFS? |
+| Blake Joyce | Who wins in a fight: Superman, HTTPS, or IPFS? |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
