@@ -67,7 +67,7 @@ These design sessions are not about explaining how things work, they were focuse
 | 41 | Better NAT traversal so that Relay servers are a last (not first) resort | The current cost of running relay servers for IPFS is unsustainable.  We need to implement better NAT hole punching mechanisms in libp2p to reduce the usage of relay servers by NAT’d hosts.  TCP hole punching has a success rate of ~60%, so we should be preferentially hole punching.  TCP simultaneous open is one example.  STUN servers are another example; yet another is making every non-NATed host in a libp2p network a relay node. |
 | 42 | libp2p connection bootstrapping and protocol negotiation 2.0 | Our connection bootstrapping process is chatty and inefficient. We incur in several round trips upfront just to negotiate the basics (encryption, muxing). Stream-level protocol negotiation is also inefficient. We are working on Multiselect 2.0 and a revamped connection bootstrapping process. This is the very heart of libp2p. Help us get this right. |
 | 43 | libp2p message orientation | libp2p is currently stream-oriented. We want to enable message-oriented communication (e.g. UDP). Help us envision what the APIs would look like, and how an application could simultaneously hold stream-based and message-based conversations with peers in the world via libp2p. |
-| 44 | How to collect telemetry like application metrics and usage in a distributed world 📦 | |
+| 44 | IPFS metrics and usage statistics 📦 | How to collect telemetry like application metrics and usage in a distributed world |
 
 **Note**: topics relevant to package managers have a 📦 suffix.
 
