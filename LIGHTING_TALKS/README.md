@@ -46,6 +46,7 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | Jonathan Budd | Peergos: E2E encrypted storage and social network on IPFS |
 | Irakli Gozalishvili  | Inter Planetary Data Feed (IPDF) |
 | Blake Joyce | Who wins in a fight: Superman, HTTPS, or IPFS? |
+| Pierre Neidhardt | Package distribution using IPFS on Guix 📦 |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
