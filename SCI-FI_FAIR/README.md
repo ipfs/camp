@@ -42,7 +42,7 @@ A: No problem! We ask you to be in attendance for at least a full hour of the fa
 
 ---
 
-Q: My demo can unattended before/after the Fair, is that possible?
+Q: My demo can be presented unattended before/after the Fair, is that possible?
 
 A: Great! Please note this in your rider form (above) and we'll do our best to make it run throughout the event
 
