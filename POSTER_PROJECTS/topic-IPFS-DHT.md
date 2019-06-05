@@ -8,8 +8,8 @@ IPFS uses a Distributed Hash Table (DHT) to keep track of various types of data,
 
 ## Questions to Answer
 
-How does the DHT of IPFS work?
-What's the distinction between Peer Routing and Content Routing?
+- How does the DHT of IPFS work?
+- What's the distinction between Peer Routing and Content Routing?
 
 ## Where to learn about it
 

@@ -1,6 +1,6 @@
-<TOPIC NAME>
+# JS-IPFS Infrastructure
 
-<Topic description: what it is, where it gets used, etc.>
+This poster should cover what it takes to initialize a JS-IPFS node, and connect it to a public P2P network.
 
 ## Goal
 
@@ -8,8 +8,13 @@
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+ - How does JS-IPFS establish connections?
+   - What technologies (websockets, etc.)
+   - How is bootstrapping handled
+ - What limitations are imposed by different environments?
+   - browsers, nodejs, etc. 
 
 ## Where to learn about it
-
-<List of websites, code repos, communities, notes, etc.>
+[https://github.com/ipfs/js-ipfs](<https://github.com/ipfs/js-ipfs#-------->)  
+<https://github.com/ipfs/js-ipfs/issues/1459>  
+<https://github.com/ipfs/js-ipfs/issues/2093>

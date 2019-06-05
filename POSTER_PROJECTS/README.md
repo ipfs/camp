@@ -69,17 +69,17 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 | 11 | KeyStore & Linked Data Key (aka Multikey) | Self describing keys. What kind of formats are there? How do we handle them all? What do we use them for? |
 | 12 | The design of the IPFS Repo | What is the IPFS Repo? How does it store data? How can users store data in multiple backends (local fs, IndexedDB, S3 and so on) |
 | 13 | DEX - The Importers and Exporters Project | Getting and formatting data into and out of IPFS. |
-| 14 | IPFS/libp2p PubSub | Publisher-Subsciber message model. What implementations exist for this (floodsub, gossipsub)? How do they compare? What are uses of it? How does it interact with (our) other dynamic data systems? |
+| 14 | IPFS/libp2p PubSub | [PubSub](topic-pubsub.md) |
 | 15 | NPM on IPFS | [NPM-on-IPFS](topic-NPM-on-IPFS.md) |
 | 16 | InterPlanetary Test Lab | |
 | 17 | CAR |  Content addressable archive(s). How does it work? What are some applications of it? |
 | 18 | SECIO | Encryption method/protocol. How does it compare to alternatives (like TLS)? |
-| 19 | Rendezvous Protocol | Peer discovery method. |
-| 20 | Circuit Relay | Message relaying. What scenarios is this useful in / what problems does this solve? |
+| 19 | Rendezvous Protocol | [rendezvous-protocol](topic-rendezvous-protocol.md) |
+| 20 | Circuit Relay | [circuit-relay](topic-circuit-relay.md)|
 | 21 | DNSLink | Utilize DNS to point to IPFS data. |
 | 22 | xTP | External Transport Protocol. How do IPFS nodes communicate with foreign protocols? Why would we need this? |
 | 23 | Go-ds-crdt - Merkle CRDTs |  |
-| 24 | DAG walking facilities in IPLD |  |
+| 24 | DAG walking facilities in IPLD | [topic-DAG-walking-in-IPLD](topic-DAG-walking-in-IPLD.md) |
 | 25 | Core API | Higher level API for interacting with IPFS nodes. |
 | 26 | New Go HTTP API libs  | Lower level node API. |
 | 27 | QUIC | Transport protocol. When and why is it useful to use QUIC over alternatives? What is the importance of good transports in general? |
@@ -88,22 +88,23 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 | 30 | Websocket Transport | Why Websockets exist? Why TCP and QUIC can be used everywhere? |
 | 31 | Performance | Where and why can things be slow in a typical IPFS publish or request operation? |
 | 32 | CPU | What are the most compute-heavy operations in a production IPFS node and why? |
-| 33 | IPNS | Mutable references. How does it interact with the keystore? How do things get resolved? When to use it over other dynamic systems? |
+| 33 | IPNS | [IPNS](topic-IPNS.md) |
 | 34 | Routing | How does IPFS handle routing? (how does IPFS abstract peers via IDs instead of location?) What discovery options exist? (kad-dht, rendezvous). How do we take advantage of multiple discovery methods? |
-| 35 | Graphsync | IPLD graph synchronizing. How does it relate to other systems (bitswap, IPLD)?  What benefit does it give us? |
-| 36 | HTTP gateways | Interop bridge between HTTP <-> IPFS. How do I make one of these? Why would I want one? |
+| 35 | Graphsync | [Graphsync](topic-graphsync.md) |
+| 36 | HTTP gateways | [HTTP-gateways.md](topic-HTTP-gateways.md) |
 | 37 | CORAL | A non-KAD DHT. How does it compare? How would it benefit IPFS? |
 | 38 | IPLD Selectors | Ways of expressing subsets of IPLD objects. |
 | 39 | Community / World | How does/can IPFS impact various communities in practice? Which communities? Examples: anti-censorship efforts (Wikipedia mirrors), modernized elective systems (Thailand voting), data archival in general (RIP orphaned data), etc. |
 | 40 | Swarming (concept) | Utilization of multiple peers for a single task. E.g. multisource file-transfer / segmented downloading. Speak on redundancy/resilience, efficiency, etc. Compare to centralized systems. |
-| 41 | Bootstrapping | How does IPFS initialize itself? |
+| 41 | go-ipfs Infrastructure | [go-ipfs-infra](topic-go-ipfs-infra.md) |
 | 42 | IPFS Nodes | What makes an IPFS node an IPFS node? List specs that need to be implemented, examples of (non-PL) implementations (whole or individual components). |
 | 43 | History? | Outline some of the historical changes in IPFS, such as the extraction of libp2p, changes in standards, etc. |
+| 44 | js-ipfs Infrastructure | [js-ipfs-infra](topic-js-ipfs-infra.md)
 
 ## Topic description template
-(File these under `camp/POSTER_SESSIONS/TOPIC_NAME.md`)
+(File these under `camp/POSTER_PROJECTS/topic-<topic-name>.md`)
 ```markdown
-<TOPIC NAME>
+# <TOPIC NAME>
 
 <Topic description: what it is, where it gets used, etc.>
 
@@ -122,7 +123,7 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 
 Example:
 ```markdown
-<IPFS>
+# Inter-Planetary File System (IPFS)
 
 A peer-to-peer hypermedia protocol to make the web faster, safer, and more open.
 
@@ -136,8 +137,8 @@ What is IPFS? What can I use it for? How does it impact various peoples and task
 
 ## Where to learn about it
 
-https://ipfs.io/
-https://github.com/ipfs/
-https://docs.ipfs.io/#community
+https://ipfs.io/  
+https://github.com/ipfs/  
+https://docs.ipfs.io/#community  
 IRC: #ipfs, #ipfs-dev
 ```

@@ -1,6 +1,6 @@
-<TOPIC NAME>
+# DAG walking in IPLD
 
-<Topic description: what it is, where it gets used, etc.>
+The goal of IPLD is to enable decentralized data-structures that are universally addressable and linkable which in turn will enable more decentralized applications. These hypergeneric data-structures allow us to do for data what hyperlinks did for HTML web pages.
 
 ## Goal
 
@@ -8,8 +8,11 @@
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+- What layer of IPLD does DAG traversal relate to?
+- What's the relation between path's and DAG's?
+- How does one traverse a path using IPLD?
+- How are multiple formats handled?
 
 ## Where to learn about it
-
-<List of websites, code repos, communities, notes, etc.>
+<https://github.com/ipld/specs>  
+<https://github.com/ipld/go-ipld-prime>

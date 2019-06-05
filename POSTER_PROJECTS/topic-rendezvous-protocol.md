@@ -1,6 +1,6 @@
-<TOPIC NAME>
+# Rendezvous Protocol
 
-<Topic description: what it is, where it gets used, etc.>
+The Rendezvous protocol is intended to provide a lightweight mechanism for generalized peer discovery. Any node implementing the rendezvous protocol can act as a rendezvous point, allowing the discovery of relevant peers in a decentralized fashion.
 
 ## Goal
 
@@ -8,8 +8,10 @@
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+- What problems does this solve?
+- How does it get around said problems?
+- When would you use this method over another?
 
 ## Where to learn about it
 
-<List of websites, code repos, communities, notes, etc.>
+<https://github.com/libp2p/specs/tree/master/rendezvous>

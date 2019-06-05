@@ -1,6 +1,6 @@
-<TOPIC NAME>
+# Graphsync
 
-<Topic description: what it is, where it gets used, etc.>
+A protocol to synchronize graphs across peers.
 
 ## Goal
 
@@ -8,8 +8,9 @@
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+- How does it relate to other systems (bitswap, IPLD)? 
+- What benefit does it give us? 
 
 ## Where to learn about it
 
-<List of websites, code repos, communities, notes, etc.>
+<https://github.com/ipld/specs/blob/master/block-layer/graphsync/graphsync.md>

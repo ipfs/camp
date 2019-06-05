@@ -1,6 +1,6 @@
-<TOPIC NAME>
+# Circuit Relay
 
-<Topic description: what it is, where it gets used, etc.>
+The circuit relay is a means to establish connectivity between libp2p nodes (e.g. IPFS nodes) that wouldn't otherwise be able to establish a direct connection to each other.
 
 ## Goal
 
@@ -8,8 +8,11 @@
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+
+- What scenarios is this useful in / what problems does this solve?
+- How is it done?
+- How can/do nodes participate as relays?
 
 ## Where to learn about it
 
-<List of websites, code repos, communities, notes, etc.>
+<https://github.com/libp2p/specs/tree/master/relay>

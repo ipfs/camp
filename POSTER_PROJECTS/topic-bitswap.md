@@ -12,7 +12,8 @@ Bitswap is the data trading module for IPFS. Its purpose is to request blocks fr
 
 ## Questions to Answer
 
-What is Bitswap 1.0.0 vs Bitswap 1.1.0? Does it use "tit-for-tat" negotiation?
+- What is Bitswap 1.0.0 vs Bitswap 1.1.0?
+- Does it use "tit-for-tat" negotiation?
 
 ## Where to learn about it
 

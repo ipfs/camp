@@ -10,7 +10,8 @@ Conversely, data which may be disposed of is considered "garbage" that may be to
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+- How does an IPFS node determine what is and isn't "garbage"?
+- What are the effects of pinning a hash?
 
 ## Where to learn about it
 
