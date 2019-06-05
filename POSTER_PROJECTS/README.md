@@ -18,7 +18,7 @@ These sessions are a lot of fun, it enables you to meet new friends, learn in de
 
 - Objective: Get people to learn some part of the code base in depth and through that process of learning, create materials that can be used by others to learn that part of the code base. Promote collaboration, knowledge transfer through deep dives and generation of materials that can be used by others in the future.
 - Activity: These sessions consist on gathering people into small groups (2~4) to explore and understand in depth one of the selected topics. At the end of the session, everyone should have a poster ready (this will be fun!). At the end of each day, all of the poster groups will give a one-minute presentation of their poster.
-- Outcome: The posters and discussions will then be converted into docs and/or specs to the IPFS repos.
+- Outcome: The posters and discussions will then be converted into a blog post, published to <https://blog.ipfs.io/>
 
 ### How
 
