@@ -56,8 +56,8 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 
 | # | Topic | Description |
 | :---: | --- | --- |
-| 1 | UnixfsV1 | Unixfs is the data format used by IPFS to represent files in DAGs using the dag-pb (Protobuf) |
-| 2 | UnixfsV2 | UnixfsV2 is the futuristic version of Unixfs, designed to solve many of the issues from V1 |
+| 1 | UnixfsV1 | [unixfsv1.md](./TOPICS/unixfsv1.md) |
+| 2 | UnixfsV2 | [unixfsv2.md](./TOPICS/unixfsv2.md) |
 | 3 | Bitswap | The Decision Engine and the ledger; how reproviding happens; what is Bitswap 1.0.0 vs Bitswap 1.1.0? Is there a tit-for-tat? |
 | 4 | IPLD Resolver | The IPLD Resolver is the system that enables IPFS to be able to traverse through multiple data formats (Bitcoin, git, Ethereum, IPFS and others) |
 | 5 | MFS, the Mutable File System | A Unixfs utility library for treating DAGs as traditional files. |
