@@ -23,30 +23,30 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 
 ... with more to come!
 
-| Presenter  | Topic |
-| ------------- | ------------- |
-| Victor Grishchenko ([@gritzko](https://github.com/gritzko))  | An overview of RON  |
-| Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan)) | go-ds-crdt: CRDT KV stores arrive in go-land  |
-| Adrian Lanzafame ([@lanzafame](https://github.com/Lanzafame))  | A quick look into the Pinning API proposal  |
-| Rüdiger Klaehn ([@rklaehn](https://github.com/rklaehn))  | Actyx's experiences on building with IPFS  |
-| Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan))  | An IPFS storage driver for the Docker registry  |
-| Alex Potsides ([@achingbrain](https://gitbhub.com/achingbrain))  | npm on IPFS: Using IPFS to install your JavaScript dependencies 📦  |
-| Dmitry Starodubcev ([@xhipster](https://github.com/xhipster))  | CYB: Your personal robot on the Great Web  |
-| Andrew Nesbitt ([@andrew](https://github.com/andrew))  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  |
-| Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan))  | go-libp2p-gorpc: Simple, permissioned libp2p RPC  |
-| Eric Myhre ([@warpfork](https://github.com/warpfork))  | Solving the distributed naming problem (!) in the applied cases of package management 📦  |
-| Justin Maier ([@justmaier](https://github.com/JustMaier))  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  |
-| Brendan O'Brien ([@b5](https://github.com/b5))  | Using dsync for point-to-point DAG transfer  |
-| Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Content addressing and personal data sovereignty |
-| Stefan Hans ([@stefanhans](https://github.com/stefanhans)) | Thoughts about contexting |
-| Edgar Lee ([@hinshun](https://github.com/hinshun)) | Containerd meets IPFS |
-| Kinuko Yasuda ([@kinu](https://github.com/kinu)) and Jim Pick ([@jimpick](https://github.com/jimpick)) | Signed exchanges in Chrome |
-| Antoine Eddi ([@aeddi](https://github.com/aeddi)) | Implementing libp2p over Bluetooth Low Energy |
-| Alexandre Trottier ([@postables](https://github.com/postables)) | Why open source matters and how individuals can further the movement |
-| Jonathan Budd ([@cesarosum](https://github.com/cesarosum)) | Peergos: E2E encrypted storage and social network on IPFS |
-| Irakli Gozalishvili ([@gozala](https://github.com/gozala))  | Inter Planetary Data Feed (IPDF) |
-| Blake Joyce ([@bjoyce3](https://github.com/bjoyce3)) | Who wins in a fight: Superman, HTTPS, or IPFS? |
-| Pierre Neidhardt ([@ambrevar](https://github.com/ambrevar)) | Package distribution using IPFS on Guix 📦 |
+| Presenter | Name & GitHub handle  | Topic |
+| ------------- | ------------- | ------------- |
+| <img src="https://avatars2.githubusercontent.com/u/81581?s=460&v=4" width="150" /> | Victor Grishchenko ([@gritzko](https://github.com/gritzko))  | An overview of RON  |
+| <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan)) | go-ds-crdt: CRDT KV stores arrive in go-land  |
+| <img src="https://avatars2.githubusercontent.com/u/5924712?s=460&v=4" width="150" /> | Adrian Lanzafame ([@lanzafame](https://github.com/Lanzafame))  | A quick look into the Pinning API proposal  |
+| <img src="https://avatars3.githubusercontent.com/u/248257?s=460&v=4" width="150" /> | Rüdiger Klaehn ([@rklaehn](https://github.com/rklaehn))  | Actyx's experiences on building with IPFS  |
+| <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan))  | An IPFS storage driver for the Docker registry  |
+| <img src="https://avatars0.githubusercontent.com/u/665810?s=460&v=4" width="150" /> | Alex Potsides ([@achingbrain](https://github.com/achingbrain))  | npm on IPFS: Using IPFS to install your JavaScript dependencies 📦  |
+| <img src="https://avatars1.githubusercontent.com/u/410789?s=460&v=4" width="150" /> | Dmitry Starodubcev ([@xhipster](https://github.com/xhipster))  | CYB: Your personal robot on the Great Web  |
+| <img src="https://avatars2.githubusercontent.com/u/1060?s=460&v=4" width="150" /> | Andrew Nesbitt ([@andrew](https://github.com/andrew))  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  |
+| <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan))  | go-libp2p-gorpc: Simple, permissioned libp2p RPC  |
+| <img src="https://avatars0.githubusercontent.com/u/627638?s=460&v=4" width="150" /> | Eric Myhre ([@warpfork](https://github.com/warpfork))  | Solving the distributed naming problem (!) in the applied cases of package management 📦  |
+| <img src="https://avatars1.githubusercontent.com/u/607609?s=460&v=4" width="150" /> | Justin Maier ([@justmaier](https://github.com/JustMaier))  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  |
+| <img src="https://avatars1.githubusercontent.com/u/1154390?s=460&v=4" width="150" /> | Brendan O'Brien ([@b5](https://github.com/b5))  | Using dsync for point-to-point DAG transfer  |
+| <img src="https://avatars3.githubusercontent.com/u/370259?s=460&v=4" width="150" /> | Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Content addressing and personal data sovereignty |
+| <img src="https://avatars1.githubusercontent.com/u/8660482?s=460&v=4" width="150" /> | Stefan Hans ([@stefanhans](https://github.com/stefanhans)) | Thoughts about contexting |
+| <img src="https://avatars2.githubusercontent.com/u/6493975?s=460&v=4" width="150" /> | Edgar Lee ([@hinshun](https://github.com/hinshun)) | Containerd meets IPFS |
+| <img src="https://avatars0.githubusercontent.com/u/860295?s=460&v=4" width="150" /> | Kinuko Yasuda ([@kinu](https://github.com/kinu)) and Jim Pick ([@jimpick](https://github.com/jimpick)) | Signed exchanges in Chrome |
+| <img src="https://avatars1.githubusercontent.com/u/5222525?s=460&v=4" width="150" /> | Antoine Eddi ([@aeddi](https://github.com/aeddi)) | Implementing libp2p over Bluetooth Low Energy |
+| <img src="https://avatars0.githubusercontent.com/u/17089485?s=460&v=4" width="150" /> | Alexandre Trottier ([@postables](https://github.com/postables)) | Why open source matters and how individuals can further the movement |
+| <img src="https://avatars3.githubusercontent.com/u/11004800?s=460&v=4" width="150" /> | Jonathan Budd ([@cesarosum](https://github.com/cesarosum)) | Peergos: E2E encrypted storage and social network on IPFS |
+| <img src="https://avatars1.githubusercontent.com/u/21236?s=460&v=4" width="150" /> | Irakli Gozalishvili ([@gozala](https://github.com/gozala))  | Inter Planetary Data Feed (IPDF) |
+| <img src="https://avatars1.githubusercontent.com/u/11023317?s=460&v=4" width="150" /> | Blake Joyce ([@bjoyce3](https://github.com/bjoyce3)) | Who wins in a fight: Superman, HTTPS, or IPFS? |
+| <img src="https://avatars0.githubusercontent.com/u/1489143?s=460&v=4" width="150" /> | Pierre Neidhardt ([@ambrevar](https://github.com/ambrevar)) | Package distribution using IPFS on Guix 📦 |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
