@@ -25,28 +25,28 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 
 | Presenter  | Topic |
 | ------------- | ------------- |
-| Victor Grischenko  | An overview of RON  |
-| Héctor Sanjuán  | go-ds-crdt: CRDT KV stores arrive in go-land  |
-| Adrian Lanzafame  | A quick look into the Pinning API proposal  |
-| Rüdiger Klaehn  | Actyx's experiences on building with IPFS  |
-| Héctor Sanjuán  | An IPFS storage driver for the Docker registry  |
-| Alex Potsides  | npm on IPFS: Using IPFS to install your JavaScript dependencies 📦  |
-| Dmitry Starodubcev  | CYB: Your personal robot on the Great Web  |
-| Andrew Nesbitt  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  |
-| Héctor Sanjuán  | go-libp2p-gorpc: Simple, permissioned libp2p RPC  |
-| Eric Myhre  | Solving the distributed naming problem (!) in the applied cases of package management 📦  |
-| Justin Maier  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  |
-| Brendan O'Brien  | Using dsync for point-to-point DAG transfer  |
-| Andrew Hill | Content addressing and personal data sovereignty |
-| Stefan Hans | Thoughts about contexting |
-| Edgar Lee | Containerd meets IPFS |
-| Kinuko Yasuda and Jim Pick | Signed exchanges in Chrome |
-| Antoine Eddi | Implementing libp2p over Bluetooth Low Energy |
-| Alexandre Trottier | Why open source matters and how individuals can further the movement |
-| Jonathan Budd | Peergos: E2E encrypted storage and social network on IPFS |
-| Irakli Gozalishvili  | Inter Planetary Data Feed (IPDF) |
-| Blake Joyce | Who wins in a fight: Superman, HTTPS, or IPFS? |
-| Pierre Neidhardt | Package distribution using IPFS on Guix 📦 |
+| Victor Grishchenko ([@gritzko](https://github.com/gritzko))  | An overview of RON  |
+| Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan)) | go-ds-crdt: CRDT KV stores arrive in go-land  |
+| Adrian Lanzafame ([@lanzafame](https://github.com/Lanzafame))  | A quick look into the Pinning API proposal  |
+| Rüdiger Klaehn ([@rklaehn](https://github.com/rklaehn))  | Actyx's experiences on building with IPFS  |
+| Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan))  | An IPFS storage driver for the Docker registry  |
+| Alex Potsides ([@achingbrain](https://gitbhub.com/achingbrain))  | npm on IPFS: Using IPFS to install your JavaScript dependencies 📦  |
+| Dmitry Starodubcev ([@xhipster](https://github.com/xhipster))  | CYB: Your personal robot on the Great Web  |
+| Andrew Nesbitt ([@andrew](https://github.com/andrew))  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  |
+| Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan))  | go-libp2p-gorpc: Simple, permissioned libp2p RPC  |
+| Eric Myhre ([@warpfork](https://github.com/warpfork))  | Solving the distributed naming problem (!) in the applied cases of package management 📦  |
+| Justin Maier ([@justmaier](https://github.com/JustMaier))  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  |
+| Brendan O'Brien ([@b5](https://github.com/b5))  | Using dsync for point-to-point DAG transfer  |
+| Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Content addressing and personal data sovereignty |
+| Stefan Hans ([@stefanhans](https://github.com/stefanhans)) | Thoughts about contexting |
+| Edgar Lee ([@hinshun](https://github.com/hinshun)) | Containerd meets IPFS |
+| Kinuko Yasuda ([@kinu](https://github.com/kinu)) and Jim Pick ([@jimpick](https://github.com/jimpick)) | Signed exchanges in Chrome |
+| Antoine Eddi ([@aeddi](https://github.com/aeddi)) | Implementing libp2p over Bluetooth Low Energy |
+| Alexandre Trottier ([@postables](https://github.com/postables)) | Why open source matters and how individuals can further the movement |
+| Jonathan Budd ([@cesarosum](https://github.com/cesarosum)) | Peergos: E2E encrypted storage and social network on IPFS |
+| Irakli Gozalishvili ([@gozala](https://github.com/gozala))  | Inter Planetary Data Feed (IPDF) |
+| Blake Joyce ([@bjoyce3](https://github.com/bjoyce3)) | Who wins in a fight: Superman, HTTPS, or IPFS? |
+| Pierre Neidhardt ([@ambrevar](https://github.com/ambrevar)) | Package distribution using IPFS on Guix 📦 |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
