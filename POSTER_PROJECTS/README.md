@@ -18,7 +18,7 @@ These sessions are a lot of fun, it enables you to meet new friends, learn in de
 
 - Objective: Get people to learn some part of the code base in depth and through that process of learning, create materials that can be used by others to learn that part of the code base. Promote collaboration, knowledge transfer through deep dives and generation of materials that can be used by others in the future.
 - Activity: These sessions consist on gathering people into small groups (2~4) to explore and understand in depth one of the selected topics. At the end of the session, everyone should have a poster ready (this will be fun!). At the end of each day, all of the poster groups will give a one-minute presentation of their poster.
-- Outcome: The posters and discussions will then be converted into a blog post, published to <https://blog.ipfs.io/>
+- Outcome: The posters and discussions will then be converted into a blog post and published to <https://blog.ipfs.io/>.
 
 ### How
 
@@ -56,21 +56,21 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 
 | # | Topic | Description |
 | :---: | --- | --- |
-| 1 | UnixfsV1 | [unixfsv1.md](./TOPICS/unixfsv1.md) |
-| 2 | UnixfsV2 | [unixfsv2.md](./TOPICS/unixfsv2.md) |
-| 3 | Bitswap | [bitswap.md](./TOPICS/bitswap.md) |
+| 1 | UnixfsV1 | [unixfsv1](topic-unixfsv1.md) |
+| 2 | UnixfsV2 | [unixfsv2](topic-unixfsv2.md) |
+| 3 | Bitswap | [bitswap](topic-bitswap.md) |
 | 4 | IPLD Resolver | The IPLD Resolver is the system that enables IPFS to be able to traverse through multiple data formats (Bitcoin, git, Ethereum, IPFS and others) |
-| 5 | Mutable File System (MFS)| [MFS.md](./TOPICS/MFS.md) |
+| 5 | Mutable File System (MFS)| [MFS](topic-MFS.md) |
 | 6 | PeerPad Capabilities System |  |
-| 7 | Pinning & GC on IPFS | [pinning-gc.md](./TOPICS/pinning-gc.md) |
+| 7 | Pinning & GC on IPFS | [pinning-gc](topic-pinning-gc.md) |
 | 8 | Libp2p Connection Flow | What is the connection flow of a libp2p connection? What happens internally and why? (what is the libp2p-switch) |
-| 9 | IPFS DHT | [IPFS-DHT.md](./TOPICS/IPFS-DHT.md) |
+| 9 | IPFS DHT | [IPFS-DHT](topic-IPFS-DHT.md) |
 | 10 | The intricacies of DWeb Addressing | The challenges with the origin policy and all details to have in consideration when adding IPFS natively to Web Browsers resolution. Consider base58 -> base32 migrations, case sensitivity, browser vendors, etc. |
 | 11 | KeyStore & Linked Data Key (aka Multikey) | Self describing keys. What kind of formats are there? How do we handle them all? What do we use them for? |
 | 12 | The design of the IPFS Repo | What is the IPFS Repo? How does it store data? How can users store data in multiple backends (local fs, IndexedDB, S3 and so on) |
 | 13 | DEX - The Importers and Exporters Project | Getting and formatting data into and out of IPFS. |
 | 14 | IPFS/libp2p PubSub | Publisher-Subsciber message model. What implementations exist for this (floodsub, gossipsub)? How do they compare? What are uses of it? How does it interact with (our) other dynamic data systems? |
-| 15 | NPM on IPFS | [NPM-on-IPFS.md](./TOPICS/NPM-on-IPFS.md) |
+| 15 | NPM on IPFS | [NPM-on-IPFS](topic-NPM-on-IPFS.md) |
 | 16 | InterPlanetary Test Lab | |
 | 17 | CAR |  Content addressable archive(s). How does it work? What are some applications of it? |
 | 18 | SECIO | Encryption method/protocol. How does it compare to alternatives (like TLS)? |
