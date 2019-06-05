@@ -1,6 +1,6 @@
-<TOPIC NAME>
+# IPFS DHT
 
-<Topic description: what it is, where it gets used, etc.>
+IPFS uses a Distributed Hash Table (DHT) to keep track of various types of data, such as content provider records. The currently used DHT is modeled after Kademlia with S/Kademlia modifications.
 
 ## Goal
 
@@ -8,8 +8,12 @@
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+How does the DHT of IPFS work?
+What's the distinction between Peer Routing and Content Routing?
 
 ## Where to learn about it
 
-<List of websites, code repos, communities, notes, etc.>
+<https://en.wikipedia.org/wiki/Kademlia>  
+<https://github.com/libp2p/go-libp2p-kad-dht>  
+<https://github.com/libp2p/js-libp2p-kad-dht>  
+<https://libp2p.io/>

@@ -1,6 +1,10 @@
-<TOPIC NAME>
+# Bitswap
 
-<Topic description: what it is, where it gets used, etc.>
+Bitswap is the data trading module for IPFS. Its purpose is to request blocks from and send blocks to other peers in the network. Bitswap has two primary jobs:
+
+1.  Attempt to acquire blocks from the network that have been requested by the client.
+2.  Judiciously (though strategically) send blocks in its possession to other peers who want them.
+
 
 ## Goal
 
@@ -8,8 +12,10 @@
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+What is Bitswap 1.0.0 vs Bitswap 1.1.0? Does it use "tit-for-tat" negotiation?
 
 ## Where to learn about it
 
-<List of websites, code repos, communities, notes, etc.>
+<https://github.com/ipfs/specs/tree/master/bitswap>  
+<https://github.com/ipfs/go-bitswap>  
+<https://github.com/ipfs/js-ipfs-bitswap>

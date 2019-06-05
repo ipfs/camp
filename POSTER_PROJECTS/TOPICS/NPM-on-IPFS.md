@@ -1,6 +1,6 @@
-<TOPIC NAME>
+# NPM on IPFS
 
-<Topic description: what it is, where it gets used, etc.>
+npm-on-ipfs enables you to install your favourite modules from the distributed web using IPFS, as well as to have a cache always ready and shared on your local network 
 
 ## Goal
 
@@ -8,8 +8,10 @@
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+What benefits are there to using IPFS to fetch NPM packages over conventional HTTP?
+Has NPM's infrastructure ever had issues that caused user's problems?
 
 ## Where to learn about it
 
-<List of websites, code repos, communities, notes, etc.>
+<https://github.com/ipfs-shipyard/npm-on-ipfs>  
+<https://en.wikipedia.org/wiki/Npm_(software)#Notable_breakages>

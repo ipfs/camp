@@ -58,19 +58,19 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 | :---: | --- | --- |
 | 1 | UnixfsV1 | [unixfsv1.md](./TOPICS/unixfsv1.md) |
 | 2 | UnixfsV2 | [unixfsv2.md](./TOPICS/unixfsv2.md) |
-| 3 | Bitswap | The Decision Engine and the ledger; how reproviding happens; what is Bitswap 1.0.0 vs Bitswap 1.1.0? Is there a tit-for-tat? |
+| 3 | Bitswap | [bitswap.md](./TOPICS/bitswap.md) |
 | 4 | IPLD Resolver | The IPLD Resolver is the system that enables IPFS to be able to traverse through multiple data formats (Bitcoin, git, Ethereum, IPFS and others) |
-| 5 | MFS, the Mutable File System | A Unixfs utility library for treating DAGs as traditional files. |
+| 5 | Mutable File System (MFS)| [MFS.md](./TOPICS/MFS.md) |
 | 6 | PeerPad Capabilities System |  |
-| 7 | Pinning & GC on IPFS |  |
+| 7 | Pinning & GC on IPFS | [pinning-gc.md](./TOPICS/pinning-gc.md) |
 | 8 | Libp2p Connection Flow | What is the connection flow of a libp2p connection? What happens internally and why? (what is the libp2p-switch) |
-| 9 | IPFS DHT | How does the DHT of IPFS work? Make the distinction between Peer Routing and Content Routing |
+| 9 | IPFS DHT | [IPFS-DHT.md](./TOPICS/IPFS-DHT.md) |
 | 10 | The intricacies of DWeb Addressing | The challenges with the origin policy and all details to have in consideration when adding IPFS natively to Web Browsers resolution. Consider base58 -> base32 migrations, case sensitivity, browser vendors, etc. |
 | 11 | KeyStore & Linked Data Key (aka Multikey) | Self describing keys. What kind of formats are there? How do we handle them all? What do we use them for? |
 | 12 | The design of the IPFS Repo | What is the IPFS Repo? How does it store data? How can users store data in multiple backends (local fs, IndexedDB, S3 and so on) |
 | 13 | DEX - The Importers and Exporters Project | Getting and formatting data into and out of IPFS. |
 | 14 | IPFS/libp2p PubSub | Publisher-Subsciber message model. What implementations exist for this (floodsub, gossipsub)? How do they compare? What are uses of it? How does it interact with (our) other dynamic data systems? |
-| 15 | NPM on IPFS | Bring up left-pad ;^) |
+| 15 | NPM on IPFS | [NPM-on-IPFS.md](./TOPICS/NPM-on-IPFS.md) |
 | 16 | InterPlanetary Test Lab | |
 | 17 | CAR |  Content addressable archive(s). How does it work? What are some applications of it? |
 | 18 | SECIO | Encryption method/protocol. How does it compare to alternatives (like TLS)? |

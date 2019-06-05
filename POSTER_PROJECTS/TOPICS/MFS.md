@@ -1,6 +1,6 @@
-<TOPIC NAME>
+# Mutable File System (MFS)
 
-<Topic description: what it is, where it gets used, etc.>
+Mutable File System (MFS) is a tool built into IPFS that lets you treat files like you would a normal name-based filesystem — you can add, remove, move, and edit MFS files and have all the work of updating links and hashes taken care of for you.
 
 ## Goal
 
@@ -12,4 +12,6 @@
 
 ## Where to learn about it
 
-<List of websites, code repos, communities, notes, etc.>
+<https://docs.ipfs.io/guides/concepts/mfs/>  
+<https://github.com/ipfs/go-mfs>  
+<https://github.com/ipfs/js-ipfs-mfs>
