@@ -4,7 +4,7 @@
 
 ## Trainers
 
-@nukemandan - @kk3wong - @stefanhans
+[@nukemandan](https://github.com/nukemandan) - [@kk3wong](https://github.com/kk3wong) - [@stefanhans](https://github.com/stefanhans)
 
 ## What you will learn with this Course
 
