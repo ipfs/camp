@@ -4,11 +4,11 @@ Mutable File System (MFS) is a tool built into IPFS that lets you treat files li
 
 ## Goal
 
-<Define the goal for this poster: What information will it convey, demonstrate, etc.>
+Use whatever resources available to you, in order to come up with a visual representation of the topic that can be projected on to a poster (similar in spirit to the [poster description](README.md#description) but with whatever creative freedom your group prefers :^)
 
 ## Questions to Answer
 
-<Series of questions to which the group should look answers for>
+<Series of questions which the group should try to answer>
 
 ## Where to learn about it
 

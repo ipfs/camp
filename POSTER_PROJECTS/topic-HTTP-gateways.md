@@ -4,7 +4,7 @@ An IPFS Gateway acts as a bridge between traditional web browsers and IPFS. Thro
 
 ## Goal
 
-<Define the goal for this poster: What information will it convey, demonstrate, etc.>
+Use whatever resources available to you, in order to come up with a visual representation of the topic that can be projected on to a poster (similar in spirit to the [poster description](README.md#description) but with whatever creative freedom your group prefers :^)
 
 ## Questions to Answer
 
@@ -13,4 +13,6 @@ An IPFS Gateway acts as a bridge between traditional web browsers and IPFS. Thro
 
 ## Where to learn about it
 
-<https://github.com/ipfs/go-ipfs/blob/master/docs/gateway.md>
+<https://github.com/ipfs/go-ipfs/blob/master/docs/gateway.md>  
+<https://godoc.org/github.com/ipfs/go-ipfs/core/corehttp>  
+<https://github.com/ipfs/infra>

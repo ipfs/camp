@@ -1,6 +1,6 @@
-# Unixfs Version 2
+# secio
 
-UnixfsV2 is the futuristic version of Unixfs, designed to solve many of the issues of [UFSv1](topic-unixfsv1.md)
+SecIO may be characterized as an implementation of the [Integrated Encryption Scheme](https://en.wikipedia.org/wiki/Integrated_Encryption_Scheme). And is used to secure connections between nodes.
 
 ## Goal
 
@@ -10,12 +10,9 @@ Use whatever resources available to you, in order to come up with a visual repre
 
 <Series of questions which the group should try to answer>
 
-- How will it differ from UFSv1?
-  - What problems does it solve?
-  - What formats and concepts have changed or been added?
-- How are Unixfs objects used?
+- How does it work?
+- How does it compare to alternatives (like TLS)?
 
 ## Where to learn about it
-
-<https://github.com/ipfs/unixfs-v2>  
-<https://docs.ipfs.io/guides/concepts/unixfs/>
+<https://github.com/libp2p/go-libp2p-secio/issues/7>  
+<https://github.com/libp2p/go-libp2p-secio>  
