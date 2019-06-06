@@ -1,4 +1,5 @@
-# `Elective F` Starting, Growing, and Stewarding your IPFS Community
+# Starting, Growing, and Stewarding your IPFS Community
+## `Elective F` 
 
 > INSERT DESCRIPTION
 
