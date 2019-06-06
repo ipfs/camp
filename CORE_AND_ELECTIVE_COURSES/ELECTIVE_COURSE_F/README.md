@@ -1,10 +1,10 @@
-# `Elective F` TBA
+# `Elective F` Starting, Growing, and Stewarding your IPFS Community
 
 > INSERT DESCRIPTION
 
 ## Trainers
 
-INSERT TABLE
+@nukemandan - @kk3wong - @stefanhans
 
 ## What you will learn with this Course
 
