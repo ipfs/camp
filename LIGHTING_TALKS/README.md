@@ -48,6 +48,7 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | <img src="https://avatars1.githubusercontent.com/u/11023317?s=460&v=4" width="150" /> | Blake Joyce ([@bjoyce3](https://github.com/bjoyce3)) | Who wins in a fight: Superman, HTTPS, or IPFS? |
 | <img src="https://avatars0.githubusercontent.com/u/1489143?s=460&v=4" width="150" /> | Pierre Neidhardt ([@ambrevar](https://github.com/ambrevar)) | Package distribution using IPFS on Guix 📦 |
 | <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="150" /> | Gonçalo Pestana ([@gpestana](https://github.com/gpestana)) | Privacy in P2P networks: DHTs and IPFS |
+| <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="150" /> | Benjamin Kampmann ([@gnunicorn](https://github.com/gnunicorn)) | Changing the record: Using substrate to add a custom blockchain to your IPFS dweb app |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
