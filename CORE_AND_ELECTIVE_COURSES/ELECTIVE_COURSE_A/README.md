@@ -1,6 +1,6 @@
 # `Elective A` Identity on the DWeb
 
-> INSERT DESCRIPTION
+> Understand the state of decentralized identity on the DWeb and current efforts on creating open and interoperable models to solve self-sovereign identities
 
 ## Trainers
 
