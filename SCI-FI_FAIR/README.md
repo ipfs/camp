@@ -32,7 +32,7 @@ If you're just visiting, relax, check out the projects, and don't be shy! Everyo
 ### Overview
 
 - **Objective**: Give a wide selection of projects (internal PL work and community members) to present their work in a relaxed environment, so every attendee can engage with projects they are particularly interested in on their own time, as well as see a broader overview of the ecosystem than is possible in a strictly chronological single-stream presentation format
-- **Activity**: Presenters operate a smnall "station" showcasing their project, usually in an interactive and engaging way. Attendees can wander around at their leisure.
+- **Activity**: Presenters operate a small "station" showcasing their project, usually in an interactive and engaging way. Attendees can wander around at their leisure.
 - **Outcome**: Many new relationships formed. People learn about projects both new and old.
 
 ### How
@@ -49,13 +49,13 @@ A: No problem! We ask you to be in attendance for at least a full hour of the fa
 
 Q: My demo can be presented unattended before/after the Fair, is that possible?
 
-A: Great! Please note this in your rider form (above) and we'll do our best to make it run throughout the event
+A: Great! Please note this in your application and we'll do our best to make it run throughout the event
 
 ---
 
 Q: My project involves lasers/heavy machinery/strobing lights/etc
 
-A: AWESOME! Do note this in your rider form, though
+A: AWESOME! Do note this in your application, though
 
 ---
 
