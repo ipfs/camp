@@ -5,7 +5,13 @@
 Do you fancy Science Fairs? Always felt that there was something missing? Something even more futuristic? Despair no more and welcome to the 🧬 IPFS Camp Sci-Fi Fair 🛸. The Sci-Fi fair was created to give a free roaming space for all our attendees to meet the awesome projects from other event attendees.
 
 ## Projects (so far)
-TK
+| Project  | Presenter | Description |
+| ------------- | ------------- | ------------- |
+| RPi cluster | @hsanjuan, @lanzafame   | ipfs-cluster... on a raspberry pi?? |
+| Actyx  |  @rklaehn  | Industrial automation on IPFS |
+| npm-in-a-box | @achingbrain | what is says on the tin |
+| The Gathering | @JustMaier | conference networking on decentralized networks |
+| Textile Photos |@andrewxhill | a decentralized photo booth |
 
 ## Instructions
 
