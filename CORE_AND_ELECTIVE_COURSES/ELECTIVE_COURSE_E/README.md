@@ -56,7 +56,7 @@ In your terminal:
 1) Download ipfs-update with: `curl -O https://dist.ipfs.io/ipfs-update/v1.5.2/ipfs-update_v1.5.2_linux-amd64.tar.gz`
 2) Unzip it with: `tar -xzf ipfs-update_v1.5.2_linux-amd64.tar.gz`
 3) Go into the ipfs-update folder with: `cd ipfs-update`
-4) Install ipfs-update with: `./install.sh
+4) Install ipfs-update with: `./install.sh`
 
 #### Use IPFS-update to install IPFS
 1) Install the latest ipfs version with: `ipfs-update install latest`
@@ -66,7 +66,7 @@ In your terminal:
 ### Keeping IPFS running
 
 #### Create a system service
-1) Create a system service with: `nano /etc/systemd/system/ipfs.service
+1) Create a system service with: `nano /etc/systemd/system/ipfs.service`
 2) Enter the following instructions:
 ```
 [Unit]
