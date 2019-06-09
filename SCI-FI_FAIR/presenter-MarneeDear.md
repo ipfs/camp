@@ -6,7 +6,7 @@ An amateur radio, ad-hoc APRS network with RaspberryPis and Baofeng UV-82s. Each
 
 FAPRS - F# for APRS, a system I wrote to construct, schedule, and manage APRS messages.
 
-The system will attempt to model an emergency communications system that uses Ham Broadand mesh networks and APRS VHF radio communications to distribute messages and share data.
+The system will attempt to model an emergency communications system that uses Ham Broadband mesh networks and APRS VHF radio communications to distribute messages and share data.
 
 # WHO will PRESENT the project?
 Me, Marnee Dearman. Github handle MarneeDear.
