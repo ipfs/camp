@@ -91,6 +91,9 @@ The next day (graduation day), this is what happens:
 | 42 | [libp2p connection bootstrapping and protocol negotiation 2.0](./42-libp2p-connection-bootstrapping-and-protocol-negotiation-2.0.md) | Our connection bootstrapping process is chatty and inefficient. We incur in several round trips upfront just to negotiate the basics (encryption, muxing). Stream-level protocol negotiation is also inefficient. We are working on Multiselect 2.0 and a revamped connection bootstrapping process. This is the very heart of libp2p. Help us get this right. |
 | 43 | [libp2p message orientation](./43-libp2p-message-orientation.md) | libp2p is currently stream-oriented. We want to enable message-oriented communication (e.g. UDP). Help us envision what the APIs would look like, and how an application could simultaneously hold stream-based and message-based conversations with peers in the world via libp2p. |
 | 44 | [IPFS metrics and usage statistics 📦](./44-ipfs-metrics-and-usage-statistics.md) | How to collect telemetry like application metrics and usage in a distributed world |
+| 45 | [Decentralized Data Processing](./45-decentralized-data-processing.md) | |
+| 46 | [Building Dynamic P2P Applications](./46-building-dynamic-p2p-applications.md) | |
+| 47 | [Better file chunking](./47-better-file-chunking.md) | |
 
 **Note**: topics relevant to package managers have a 📦 suffix.
 
