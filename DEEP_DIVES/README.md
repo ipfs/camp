@@ -20,6 +20,29 @@ These design sessions are not about explaining how things work, they were focuse
 
 - **Duration**: 1:45h
 
+On the day, this is how y'all will Deep Dive 🐋:
+
+1. Large cards with [Deep Dive topics](#topics) will be displayed
+1. You **choose a deep dive** to participate in and **take a slip** from the card
+1. Groups assemble and the **topic owner explains the problem**
+    1. Existing solutions should be briefly enumerated!
+1. Groups discuss their topic
+    1. New ideas are suggested 💭
+    1. Groups **aim to come up one good solution**
+        1. It can be a completely new solution or a change/fix to an existing one
+1. After 1 hour, groups take a **10 minute break** (phew) ☕️
+1. Groups reconvene and **send a PR to [ipfs/camp](https://github.com/ipfs/camp/tree/master/DEEP_DIVES) with their proposal**
+    1. Didn't come up with any solutions?
+        1. List your ideas, and why they weren't suitable so we can bootstrap future discussions
+1. Groups **customise their slide for presenting their solution** at the graduation ceremony
+1. Groups are free to iterate on their PR or their slide overnight
+
+The next day (graduation day), this is what happens:
+
+1. Each group gets **5 minutes to present your solution**
+1. You get **one slide** in the shared slide deck
+1. The best solution(s) win an award 🏆
+
 ### Topics
 
 | # | Topic | Description |
