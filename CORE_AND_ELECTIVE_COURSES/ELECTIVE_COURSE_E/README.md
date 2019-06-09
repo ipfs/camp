@@ -15,7 +15,76 @@
 * How to configure that node for your specific use case
 * Tips and tricks for running IPFS infrastructure in the cloud
 
-## Preparation for the course
+## Course walkthrough / commands
 
-* A link to the written version of this guide: https://medium.com/pinata/how-to-deploy-an-ipfs-node-on-digital-ocean-c59b9e83098e (For easy code copying during the coding part of the workshop)
+The following commands are provided for easy copy / pasting during the node deployment part of the course. During the course, we will go over when and why to use these commands when setting up your infrastructure.
 
+### SSH Setup
+#### Creating your SSH key with OpenSSH
+1) Open up your terminal
+2) Type in `ssh-keygen`
+3) Hit enter to accept the recommended default path. *DO NOT CHOOSE TO OVERWRITE IF A KEY ALREADY EXISTS*
+4) Optionally provide a password to require each time you use your key or just hit enter twice to avoid requiring a password
+
+#### Copying your SSH key
+To copy your SSH Key, do either of these:
+
+* Type: `cat ~/.ssh/id_rsa.pub`
+* Travel to your public key with: `cd ~/.ssh/id_rsa.pub` and open the file to copy the contents
+
+( The above instructions are assuming your key is saved in the default location )
+
+### Connecting to your droplet
+In your terminal type: `ssh root@your_droplet_ip`
+
+You should now be connected to your droplet!
+
+Now, in your terminal type:
+1) `apt-get update`
+2) `apt-get upgrade`
+3) `apt autoremove`
+4) `shutdown -r 0`
+
+Your droplet should now be updated and rebooted.
+
+### Securing your droplet
+
+### Installing IPFS
+
+#### Installing IPFS-update
+In your terminal:
+1) Download ipfs-update with: `curl -O https://dist.ipfs.io/ipfs-update/v1.5.2/ipfs-update_v1.5.2_linux-amd64.tar.gz`
+2) Unzip it with: `tar -xzf ipfs-update_v1.5.2_linux-amd64.tar.gz`
+3) Go into the ipfs-update folder with: `cd ipfs-update`
+4) Install ipfs-update with: `./install.sh
+
+#### Use IPFS-update to install IPFS
+1) Install the latest ipfs version with: `ipfs-update install latest`
+2) Initialize ipfs with `ipfs init --profile server`
+3) Check that IPFS was installed with: `ipfs daemon`
+
+### Keeping IPFS running
+
+#### Create a system service
+1) Create a system service with: `nano /etc/systemd/system/ipfs.service
+2) Enter the following instructions:
+```
+[Unit]
+Description=IPFS Daemon
+[Service]
+ExecStart=/root/go/bin/ipfs daemon --enable-gc
+Restart=always
+Environment="IPFS_PATH=/root/.ipfs"
+[Install]
+WantedBy=multi-user.target
+```
+3) Save your new service by hitting `CTRL + X`, then `y`, then `ENTER`
+
+#### Enable the system service
+1) Reload your system with: `systemctl daemon-reload`
+2) Enable your new service with: `systemctl enable ipfs`
+3) Start your new service with: `systemctl enable ipfs`
+4) Test that this succeeded with: `systemctl status ipfs`
+
+## Bonus written guide for attendees to refer back to
+https://medium.com/pinata/how-to-deploy-an-ipfs-node-on-digital-ocean-c59b9e83098e
