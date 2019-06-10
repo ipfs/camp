@@ -11,8 +11,14 @@
 
 ## What you will learn with this Course
 
-`TBW`
+You will learn about the state of decentralized identity on the DWeb and current efforts on creating open and interoperable models to solve self-sovereign identities. More specifically, we will introduce you to Decentralized Identifiers (DIDs), Verifiable Credentials and DID-Auth. These standards are gaining traction and are being widely adopted by various projects, organizations and companies.
+
+You will also learn about solutions that you may use today to provide authentication to DApps, including their shortcomings and disadvantages.
+
+Finally, you will get to know IDM (Identity Manager), an open Identity Wallet specification, and Nomios, a reference identity wallet of that specification. Besides explaining and showcasing Nomios, we will be integrating it in a DApp to demonstrate how you can easily have authentication and signing in your DApps.
 
 ## Preparation for the course
 
-`TBW`
+- Bring your laptop
+- Make sure you have Node.js >= 10.16.0 installed
+- Clone https://github.com/ipfs-shipyard/workshop-idm-chat-dapp and follow the installation instructions
