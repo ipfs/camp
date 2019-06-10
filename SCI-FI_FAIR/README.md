@@ -11,7 +11,10 @@ Do you fancy Science Fairs? Always felt that there was something missing? Someth
 | Actyx  |  @rklaehn  | Industrial automation on IPFS |
 | npm-in-a-box | @achingbrain | what is says on the tin |
 | The Gathering | @JustMaier | conference networking on decentralized networks |
-| Textile Photos |@andrewxhill | a decentralized photo booth |
+| Textile Photos | @andrewxhill | a decentralized photo booth |
+| Lazer Catbot | @gorhgorh | 😼 |
+| FAPRS | @MarneeDear | IPFS over Ham Radio |
+| Brave | @yrliou, @darkdh, @emerick | Brave browser |
 
 ## Instructions
 
