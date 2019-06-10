@@ -1,7 +1,7 @@
 # IPFS metrics and usage statistics
 
 ## Problem space
-1. Certain user groups (such as scientific research organizations, and binary/library package managers) will not adopt IFPS unless they can track metrics and usage statistics in as good or better ways as they do today. Today, download count is used as a proxy for usage. How could IPFS provide even better metrics/stats?
+1. Certain user groups (such as scientific research organizations, and binary/library package managers) will not adopt IPFS unless they can track metrics and usage statistics in as good or better ways as they do today. Today, download count is used as a proxy for usage. How could IPFS provide even better metrics/stats?
 1. How are applications using IPFS features today? How are those applications themselves being used?
 
 ## Goal
