@@ -4,7 +4,7 @@ Community, evangelism, engagement, on ramp.
 
 ## Goal
 
-We will get some seeds for the singularity of human cooperation.
+We will get some seeds for the singularity of human cooperation 🌱🌱🌱
 
 ## Requirements to consider
 
