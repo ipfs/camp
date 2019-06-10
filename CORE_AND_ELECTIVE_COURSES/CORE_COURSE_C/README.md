@@ -1,6 +1,7 @@
-# `Core C` INSERT TITLE
+# Developing Apps with IPFS API
 
-> INSERT DESCRIPTION
+> Local, Remote or Embedded? go-ipfs or js-ipfs? Core API interface? Command-line? HTTP contexts?    
+> Pick IPFS API implementation and ways of interacting with it.
 
 ## Trainers
 
@@ -11,8 +12,17 @@
 
 ## What you will learn with this Course
 
-`TBW`
+Ways to use IPFS as a building block in your application:
+
+ 1. Identify use cases for Backend, Remote and Embedded nodes
+ 2. Find out when to use go-ipfs vs js-ipfs vs API client
+ 3. Get a hands-on experience in command-line and while building a sandbox web application
+ 4. How IPFS API simplifies handling of immutable data
+ 5. What are strategies for managing mutable pointers to immutable data
 
 ## Preparation for the course
 
-`TBW`
+- Stay hydrated
+- Ensure `ipfs` command is available in your system, if possible
+  - Suggested: install [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop#ipfs-desktop) (GUI+CLI for MacOS/Windows/Linux)
+  - Alternative: [go-ipfs](https://docs.ipfs.io/introduction/usage/) (just CLI)
