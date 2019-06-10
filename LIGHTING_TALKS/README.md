@@ -6,6 +6,8 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 
 ## Instructions
 
+**❗❗ IMPORTANT! All of the available lightning talk slots at this year's IPFS Camp are now full. But if you want to give a presentation, all is not lost! Please consider using your idea as the topic of one of the [unconf sessions](https://github.com/ipfs/camp/tree/master/UNCONF) — or, if your schedule permits, apply to present at the [IPFS Core Developers & Community Meetup](https://www.meetup.com/barcelona-ipfs/events/262101190/) in central Barcelona on Tuesday, June 25.**
+
 **Want to give a lightning talk at IPFS Camp? Here's what you need to do.**
 
 - Think of a great subject for your talk! (Hints for this are below.) We're reaching out to some attendees directly who have already approached us with lightning talk ideas, but if you didn't already do so, email jessica@protocol.ai with a quick summary of your idea and why you think camp attendees would benefit from hearing about it.
