@@ -39,7 +39,7 @@ On the day, this is how y'all will Deep Dive 🐋:
 
 The next day (graduation day), this is what happens:
 
-1. Each group gets **5 minutes to present your solution**
+1. Each group gets **2 minutes to present a summary of your solution**
 1. You get **one slide** in the shared slide deck
 1. The best solution(s) win an award 🏆
 
