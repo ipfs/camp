@@ -18,7 +18,7 @@ Reliable IPFS node accessible by web applications across all the mainstream brow
 ## Requirements to consider
 
 - Seamless upgrade - in-browser IPFS node should discover on device IPFS node (e.g IPFS Desktop) and leverage it for networking, more reliable data storage, etc..
-- User Agency - The largerst problems of the web today are: user tracking, data hoarding and lock-in. We should embed user agency into the core of of the ecosystem (IPFS) to build a better web instead of making these problems worse.
+- User Agency - The largest problems of the web today are: user tracking, data hoarding and lock-in. We should embed user agency into the core of the ecosystem (IPFS) to build a better web instead of making these problems worse.
 - Data availablity (sync) - (Centralized) Web is popular because user can pick up a task on a phone where it was left off on the laptop. Within the walled gardens of Google, Github, ${your_favouite_org} users can access their data regardless of the device they're one & we need to provide that level of access as well.
 
 
