@@ -93,7 +93,7 @@ The next day (graduation day), this is what happens:
 | 44 | [IPFS metrics and usage statistics 📦](./44-ipfs-metrics-and-usage-statistics.md) | **[@lanzafame](https://github.com/lanzafame)** | How to collect telemetry like application metrics and usage in a distributed world |
 | 45 | [Decentralized Data Processing](./45-decentralized-data-processing.md) |  | |
 | 46 | [Building Dynamic P2P Applications](./46-building-dynamic-p2p-applications.md) | **[@jkarni](https://github.com/jkarni)** | |
-| 47 | [Better file chunking](./47-better-file-chunking.md) | **[@mib-kd](https://github.com/mib-kd)**743naq | |
+| 47 | [Better file chunking](./47-better-file-chunking.md) | **[@mib-kd743naq](https://github.com/mib-kd743naq)** | |
 
 **Note**: topics relevant to package managers have a 📦 suffix.
 
