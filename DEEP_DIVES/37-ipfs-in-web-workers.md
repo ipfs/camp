@@ -1,6 +1,6 @@
 # IPFS in Web Workers
 
-Modern web platform offers options for running code off the main thread via [Dedicated](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API), [Shared](https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker) & [Service](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker) Worker APIs. Each with own quirks and unique benefits. We will explore the benefits of running IPFS node in the woker(s), limitations & current efforts to overcome them.
+Modern web platform offers options for running code off the main thread via [Dedicated](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API), [Shared](https://developer.mozilla.org/en-US/docs/Web/API/SharedWorker) & [Service](https://developer.mozilla.org/en-US/docs/Web/API/ServiceWorker) Worker APIs. Each with it's own quirks and unique benefits. We will explore the benefits of running an IPFS node in the worker(s), limitations & current efforts to overcome them.
 
 ### Problem space
 
