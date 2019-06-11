@@ -47,7 +47,7 @@ The next day (graduation day), this is what happens:
 
 | # | Topic | Description |
 | :---: | --- | --- |
-| 1 | [Private DHT](./01-private-dht.md) |  |
+| 1 | [Private DHT](./01-private-dht.md) | Improve privacy of DHT Protocol |
 | 2 | [Scaling up the DHT 📦](./02-scaling-up-the-dht.md) | What can we do to optimise the performance of our DHT? Are there alternatives? |
 | 3 | [Reducing the information leakage on a libp2p dial](./03-reducing-the-information-leakage-on-a-libp2p-dial.md) |  |
 | 4 | [Locking the IPFS repo for concurrent access](./04-locking-the-ipfs-repo-for-concurrent-access.md) | How do we manage concurrent access to an IPFS repo when we have multiple tabs on the same domain or web workers or service workers? How do we avoid being too restrictive (i.e. locking everything) whilst guarding against race conditions and concurrency problems? |
