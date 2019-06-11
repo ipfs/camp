@@ -5,7 +5,7 @@ Modern web platform offers options for running code off the main thread via [Ded
 ### Problem space
 
 - Browser should act as a single IPFS node rather than each app embedding a separate node.
-- Service Worker's are deactivated when they are not serving requests (& for a good reasons).
+- Service Worker's are deactivated when they are not serving requests (& for good reasons).
 - Safari does not support Shared Workers.
 - Sharing IPFS node across origins is quite an undertaking.
 - Access control (which app gets to read what, or what the write quota should be ?)
