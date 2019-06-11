@@ -1,4 +1,6 @@
-# IPFS Education and Documentation
+[WIP] [WIP] [WIP] [WIP] --MHz
+
+# IPFS Docs
 
 What are the biggest improvements we can make to documentation for IPFS?
 
