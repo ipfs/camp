@@ -46,7 +46,7 @@ The next day (graduation day), this is what happens:
 ### Topics
 
 | # | Topic | Owner | Description |
-| :---: | --- | --- |
+| :---: | :--- | :---: | :--- |
 | 1 | [Private DHT](./01-private-dht.md) | @kishansagathiya | Improve privacy of the DHT Protocol |
 | 2 | [Scaling up the DHT 📦](./02-scaling-up-the-dht.md) | @Kubuxu | What can we do to optimise the performance of our DHT? Are there alternatives? |
 | 3 | [Reducing the information leakage on a libp2p dial](./03-reducing-the-information-leakage-on-a-libp2p-dial.md) |  |  |
