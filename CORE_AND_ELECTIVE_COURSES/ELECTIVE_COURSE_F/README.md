@@ -15,8 +15,14 @@
 
 ## What you will learn with this Course
 
-`TBW`
+By the end of this course, you will be prepared to kick butt in:
+- Setting up a [ProtoSchool Chapter](https://proto.school/#/chapters)
+- Run a Protoschool meetup working session
+- Start, Grow, and Steward your local IPFS :blue_heart:s
+- Create your own [ProtoSchool Tutorial](https://proto.school/#/build)
 
 ## Preparation for the course
 
-`TBW`
+You should do a bit of homework beforehand:
+- Please take a look to see what [Protoschool Chapers](https://proto.school/#/chapters) existist in your area, and take note of the organizer
+- 
