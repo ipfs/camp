@@ -10,7 +10,7 @@ This session is inspired by the famous [Feynman Technique](https://collegeinfoge
 
 These sessions are a lot of fun, it enables you to meet new friends, learn in depth DWeb topics and overall boost your knowledge as a builder.
 
-<TODO: Insert video reel from how it went in the Dev Meetings>
+[![](https://raw.githubusercontent.com/ipfs/camp/master/POSTER_PROJECTS/img/poster-projects-video-reel.jpg)](https://www.youtube.com/watch?v=Fpoo3iJjtcY)
 
 ## Instructions
 
