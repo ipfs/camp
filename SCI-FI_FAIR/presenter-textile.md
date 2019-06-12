@@ -1,5 +1,5 @@
 # What is the NAME of your project?
-Textile Photos
+Textile Photos | A digital wallet for your photos that is built on Textile's encrypted, recoverable, schema-based, and cross-application decentralized data wallet. We'll have a photo both for you take photos with friends, and share them via peer-to-peer connections at the event. There will also be a video display so you can see what's going on in real-time at the Camp. Smile!
 
 # WHO will PRESENT the project?
 Carson Farmer <carson@textile.io>, Andrew Hill <andrew@textile.io>, Ben Lupton <benjamin@textile.io>
