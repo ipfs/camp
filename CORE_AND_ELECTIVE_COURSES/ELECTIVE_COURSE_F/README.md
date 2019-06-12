@@ -1,4 +1,4 @@
-# Steward a Protoschool Chapter for Your Local Community
+# Steward a Protoschool Chapter in Your Local Community
 ## `Elective F` 
 
 > Starting, Growing, and Stewarding your local IPFS community is no small feat. But not to fear - there is a community to support you and a *vast* ammount of resources that you can tap into to help you succeed! :rocket: This course will equipt you with **tools** :hammer_and_pick:, **best practices** :ballot_box_with_check:, **support channels** :handshake:, and **confidence** :muscle: in getting a *seed started* :sunflower:
