@@ -42,6 +42,7 @@ instructions to install and configure an IPFS Cluster peer. They are written
 here so that you can easily display them on your computer and copy-paste
 relevant parts.
 
+0. Start your `ipfs` daemon (with the terminal or with IPFS Desktop should be ok).
 1. Download `ipfs-cluster-service`:
    1. For Mac download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2/ipfs-cluster-service_v0.11.0-rc2_darwin-amd64.tar.gz
    2. For Linux download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2/ipfs-cluster-service_v0.11.0-rc2_linux-amd64.tar.gz
