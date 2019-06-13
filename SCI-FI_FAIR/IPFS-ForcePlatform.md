@@ -10,6 +10,8 @@ under a uniform management system, in which the service level is evaluated, and 
 based on the service level and quality, we set up the incentive layer to connect the storage users and providers. 
 With this system, more services could be provided, such as data redundancy, data security. 
 
+Please be aware this sytem is absolutely not something to replace Filecoin though they share some functionalities, but the one could be bundled with Filecoin together to provide higher-throughput higher-performance services via simi-decentralized mode, thus we could expand Filecoin use cases. 
+
 # WHO will PRESENT the project?
 - Presenter: Steven Li
 - E-mail: steven004@gmail.com
