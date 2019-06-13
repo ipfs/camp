@@ -18,6 +18,7 @@ You can find the content description, speakers and trainers at:
 - **[👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES)**
 - **[📃 Poster Projects](POSTER_PROJECTS)**
 - **[🐋 Deep Dives](DEEP_DIVES)**
+- **[🐚 Quiet Room](QUIET_ROOM)**
 - **[⚡️ Lightning Talks](LIGHTING_TALKS)**
 - **[🧩 Unconf](UNCONF)**
 - **[🧬 Sci-Fi Fair](SCI-FI_FAIR)**
