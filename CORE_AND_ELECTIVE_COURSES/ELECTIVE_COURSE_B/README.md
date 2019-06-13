@@ -43,16 +43,16 @@ here so that you can easily display them on your computer and copy-paste
 relevant parts.
 
 1. Download `ipfs-cluster-service`:
-  1. For Mac download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2/ipfs-cluster-service_v0.11.0-rc2_darwin-amd64.tar.gz
-  2. For Linux download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2/ipfs-cluster-service_v0.11.0-rc2_linux-amd64.tar.gz
-  3. For Windows download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2/ipfs-cluster-service_v0.11.0-rc2_windows-amd64.zip
-  4. For other platforms check: http://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2
+   1. For Mac download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2/ipfs-cluster-service_v0.11.0-rc2_darwin-amd64.tar.gz
+   2. For Linux download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2/ipfs-cluster-service_v0.11.0-rc2_linux-amd64.tar.gz
+   3. For Windows download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2/ipfs-cluster-service_v0.11.0-rc2_windows-amd64.zip
+   4. For other platforms check: http://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc2
 
 2. Similarly, download `ipfs-cluster-ctl`:
-  1. For Mac download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc2/ipfs-cluster-ctl_v0.11.0-rc2_darwin-amd64.tar.gz
-  2. For Linux download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc2/ipfs-cluster-ctl_v0.11.0-rc2_linux-amd64.tar.gz
-  3. For Windows download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc2/ipfs-cluster-ctl_v0.11.0-rc2_windows-amd64.zip
-  4. For other platforms check: http://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc2
+   1. For Mac download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc2/ipfs-cluster-ctl_v0.11.0-rc2_darwin-amd64.tar.gz
+   2. For Linux download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc2/ipfs-cluster-ctl_v0.11.0-rc2_linux-amd64.tar.gz
+   3. For Windows download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc2/ipfs-cluster-ctl_v0.11.0-rc2_windows-amd64.zip
+   4. For other platforms check: http://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc2
 
 3. Extract the downloaded `tar.gz` or `zip` files in a `cluster-workshop` folder. You should endup with something like:
 
@@ -73,17 +73,17 @@ cluster-workshop/
 ```
 
 4. Open two terminal windows:
-  1. Use one to navigate to the `ipfs-cluster-ctl` folder. i.e. `cd cluster-workshop/ipfs-cluster-ctl`.
-  2. The second one to navigate to the `ipfs-cluster-service` folder. i.e. `cd cluster-workshop/ipfs-cluster-service`.
+   1. Use one to navigate to the `ipfs-cluster-ctl` folder. i.e. `cd cluster-workshop/ipfs-cluster-ctl`.
+   2. The second one to navigate to the `ipfs-cluster-service` folder. i.e. `cd cluster-workshop/ipfs-cluster-service`.
   
 5. From the `ipfs-cluster-service` folder, run `./ipfs-cluster-service init`.
-  1. Cluster will now write a default configuration and generate a peer identity
-  2. Navigate to the `~/.ipfs-cluster` folder using your file browser or a
+   1. Cluster will now write a default configuration and generate a peer identity
+   2. Navigate to the `~/.ipfs-cluster` folder using your file browser or a
   new terminal. You should see an `identity.json` and a `service.json` file in
   this folder.
 
 6. Open and edit the `service.json` file with an editor of your choice:
-  1. Find the `crdt` section and edit the `trusted_peers` value to `[ "*" ]`. It should look like:
+   1. Find the `crdt` section and edit the `trusted_peers` value to `[ "*" ]`. It should look like:
 
 ```
     "crdt": {
@@ -92,6 +92,6 @@ cluster-workshop/
         "*"
       ]
 ```
-  2. Remember to save the file
+   2. Remember to save the file
 
 7. That's all! From this point you can follow the instructions from the workshop slides!
