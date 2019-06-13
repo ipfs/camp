@@ -15,10 +15,9 @@
 ## What you will gain from participation in the course
 
 By the end of this course, you will be prepared to _kick butt_ in:
-- Starting, Growing, and Stewarding your local IPFS community :blue_heart:s
- - **Launch** an [IPFS Meetup](https://www.meetup.com/pro/ipfs/) and a [ProtoSchool Chapter](https://proto.school/#/chapters) :rocket:
- - **Running** your first IPFS/Protoschool meetups' working session :construction_worker:
- - **Sustaining** your efforts for the long run :runner:
+- **Launching** an [IPFS Meetup](https://www.meetup.com/pro/ipfs/) and a [ProtoSchool Chapter](https://proto.school/#/chapters) :rocket:
+- **Running** your first IPFS/Protoschool meetups' working session :construction_worker:
+- **Sustaining** your efforts for the long run :runner:
 - **Contributing** your own [ProtoSchool Tutorial](https://proto.school/#/build)
 
 ## Preparation for the course
