@@ -92,6 +92,5 @@ cluster-workshop/
         "*"
       ]
 ```
-   2. Remember to save the file
 
 7. That's all! From this point you can follow the instructions from the workshop slides!
