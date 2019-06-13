@@ -42,9 +42,9 @@ If you're just visiting, relax, check out the projects, and don't be shy! Everyo
 
 ### Overview
 
-- **Objective**: Give a wide selection of projects (internal PL work and community members) to present their work in a relaxed environment, so every attendee can engage with projects they are particularly interested in on their own time, as well as see a broader overview of the ecosystem than is possible in a strictly chronological single-stream presentation format
-- **Activity**: Presenters operate a small "station" showcasing their project, usually in an interactive and engaging way. Attendees can wander around at their leisure.
-- **Outcome**: Many new relationships formed. People learn about projects both new and old.
+- **Objective**: Give a platform for experimental and exploratory work from PL members and the IPFS community to be showcased in a relaxed environment, with opportunities for hands-on interaction, delight, and playfulness.  No demo fail anxiety due to time pressure.
+- **Activity**: Presenters operate a small "station" showcasing their project. Attendees can wander around at their leisure, interacting with demos and experiments.
+- **Outcome**: Work that may have otherwise lingered in somebody's experiments folder/drawer sees the light of day. Cutting edge features revealed and tested in front of a non-judgemental crowd. Everyone leaves the Fair with an expanded notion of what is possible.
 
 ### How
 
