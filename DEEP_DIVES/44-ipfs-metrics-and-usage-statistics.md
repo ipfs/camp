@@ -5,7 +5,9 @@
 1. How are applications using IPFS features today? How are those applications themselves being used?
 
 ## Goal
-By the end of the session, we'd like to have a prioritized list of features that would most help applications built on top of IPFS, and provide that list to the IPFS development team to help focus their time and energy on highest-value work.
+By the end of the session, we'd like to have a prioritized list of features that would most help applications built on top of IPFS and an accompanying set of ideas/proposals for how they might be implemented.
+
+We should be able to provide that list to the IPFS development team to help focus their time and energy on highest-value work.
 
 ## Open problems around IPFS metrics and usage statistics
 - Collection Logistics
