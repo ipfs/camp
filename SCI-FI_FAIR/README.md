@@ -23,6 +23,8 @@ Follow <a href="https://github.com/ipfs/camp/new/master/SCI-FI_FAIR/new?filename
 
 Don't worry if your presentation lacks polish or not everything works 100% of the time: what we're looking for is **experimental**, innovative, unexpected — and maybe a little bit of the impossible. Conversation starters, not pitch decks. And if something breaks, chances are your neighbors will be eager to help you fix it! 🤓
 
+To re-iterate: the fair is not intended for sales pitches, business development, or promoting a commercial product: it is not a trade show. We ❤ the ever-expanding ecosystem of commercially successful projects based on IPFS and the DWeb in general, but for this event please bring an interesting hack or experimental feature, not something that you're trying to sell.
+
 ### Presenters
 
 <img width="823" alt="the fair takes place here" src="https://user-images.githubusercontent.com/204986/59112027-82fd5c80-8942-11e9-8d59-89ea1977319f.PNG">
