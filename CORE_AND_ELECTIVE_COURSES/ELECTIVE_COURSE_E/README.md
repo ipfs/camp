@@ -45,6 +45,8 @@ To copy your SSH Key, do either of these:
 ### Connecting to your droplet
 In your terminal type: `ssh root@your_droplet_ip`
 
+( You'll need to type `yes` when ssh-ing into your node for the first time )
+
 You should now be connected to your droplet!
 
 Now, in your terminal type:
