@@ -1,5 +1,5 @@
 # Private content on IPFS
-Can we have a private implementation of a group chat on IPFS?
+Can we have a private group chat implemented on IPFS?
 
 Motivation (goals - solutions):
 0. Don't expose content to the world on IPFS - encrypt before putting in IPFS
