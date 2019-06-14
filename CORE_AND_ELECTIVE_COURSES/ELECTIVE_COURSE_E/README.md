@@ -103,5 +103,9 @@ WantedBy=multi-user.target
 3) Start your new service with: `systemctl start ipfs`
 4) Test that this succeeded with: `systemctl status ipfs`
 
+### Let's try pinning something
+1) In your terminal type: `ipfs pin add -r QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ`
+2) Now in your browser go to http://yourDropletIp:8080/ipfs/QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ
+
 ## Bonus written guide for attendees to refer back to
 https://medium.com/pinata/how-to-deploy-an-ipfs-node-on-digital-ocean-c59b9e83098e
