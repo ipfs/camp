@@ -4,12 +4,20 @@ libp2p is currently stream-oriented. We want to enable message-oriented communic
 
 ## Goal
 
-<Define what we would get if the Open Problem(s) are solved for this Deep Dive>
+By specifying a protocol and architecture for a message-passing layer for libp2p, we can drastically simplify the implementation of protocols like Kademlia, various PubSub implementations, and more! Such a system would be an alternative to the streaming capabilities of libp2p. We will explore implementation details and questions such as:
+
+- Mechanisms for routing messages to relevant subsystems (named slots? route by protocol id?)
+- What is the relationship of message orientation to multistream?
+- Is guaranteed delivery (using vector clocks or something similar) a useful feature?
+- Packet relaying
+- NAT Traversal
 
 ## Requirements to consider
 
-<Do we have requirements (i.e. work with 1MM nodes)?>
+- Must operate seamlessly over streaming and packet-based transports
+- Ideally leverages IPLD
 
 ## Where to learn about it
 
-<List of talks, links to github issues, code, notes and so on>
+- [Messaging layer discussion](https://github.com/libp2p/specs/issues/71)
+- [UDP in libp2p](https://github.com/libp2p/go-udp-transport/issues/3)
