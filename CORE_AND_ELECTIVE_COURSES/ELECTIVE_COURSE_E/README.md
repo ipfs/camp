@@ -4,7 +4,7 @@
 
 ## Trainers
 
-| **Matt Ober**                                      	| **Michael Burns**                                     	| **N/A**                      	|
+| **Matt Ober**                                      	| **Michael Burns**                                     	| **Jakub Sztandera**                      	|
 |----------------------------------------------------	|-------------------------------------------------------	|------------------------------	|
 | ![](https://avatars2.githubusercontent.com/u/7811297) 	| ![](https://avatars2.githubusercontent.com/u/5170) 	| ![](https://avatars3.githubusercontent.com/u/2259282)                     	|
 | [@obo20](https://github.com/obo20/)                	| [@mburns](https://github.com/mburns)                  	| [@kubuxu](https://github.com/Kubuxu) 	|
