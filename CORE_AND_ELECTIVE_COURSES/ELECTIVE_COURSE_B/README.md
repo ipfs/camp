@@ -43,6 +43,7 @@ here so that you can easily display them on your computer and copy-paste
 relevant parts.
 
 0. Start your `ipfs` daemon (with the terminal or with IPFS Desktop should be ok).
+1. Create a `cluster-workshop` and donwload the following files in it.
 1. Download `ipfs-cluster-service`:
    1. For Mac download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc3/ipfs-cluster-service_v0.11.0-rc3_darwin-amd64.tar.gz
    2. For Linux download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc3/ipfs-cluster-service_v0.11.0-rc3_linux-amd64.tar.gz
@@ -55,7 +56,7 @@ relevant parts.
    3. For Windows download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc3/ipfs-cluster-ctl_v0.11.0-rc3_windows-amd64.zip
    4. For other platforms check: http://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc3
 
-3. Extract the downloaded `tar.gz` or `zip` files in a `cluster-workshop` folder. You should endup with something like:
+3. Extract the downloaded `tar.gz` or `zip` files in a `cluster-workshop` folder (i.e. `tar -xf <file>`). You should endup with something like:
 
 ```
 cluster-workshop/
@@ -78,7 +79,10 @@ cluster-workshop/
    2. The second one to navigate to the `ipfs-cluster-service` folder. i.e. `cd cluster-workshop/ipfs-cluster-service`.
   
 5. From the `ipfs-cluster-service` folder, run `./ipfs-cluster-service init`.
-   1. Cluster will now write a default configuration and generate a peer identity
+   1. Cluster will now write a default configuration and generate a peer
+      identity in a new `~/.ipfs-cluster` folder in your user HOME
+      folder. This is a hidden folder so it may not appear unless you do `ls
+      -la`.
    2. Navigate to the `~/.ipfs-cluster` folder using your file browser or a
   new terminal. You should see an `identity.json` and a `service.json` file in
   this folder.
