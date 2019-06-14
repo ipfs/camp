@@ -15,6 +15,14 @@
 * How to configure that node for your specific use case
 * Tips and tricks for running IPFS infrastructure in the cloud
 
+## Digital Ocean Account
+For this course, you can either:
+
+* Sign up for an account preloaded with $50 in free credits with this link: https://do.co/pinata - (Requires a credit card but you won't be charged)
+
+* Use a community account we'll provide during the course
+
+
 ## Course walkthrough / commands
 
 The following commands are provided for easy copy / pasting during the node deployment part of the course. During the course, we will go over when and why to use these commands when setting up your infrastructure.
