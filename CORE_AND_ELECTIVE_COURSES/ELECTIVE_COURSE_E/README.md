@@ -6,8 +6,8 @@
 
 | **Matt Ober**                                      	| **Michael Burns**                                     	| **N/A**                      	|
 |----------------------------------------------------	|-------------------------------------------------------	|------------------------------	|
-| ![](https://avatars2.githubusercontent.com/u/7811297) 	| ![](https://avatars2.githubusercontent.com/u/5170) 	| ![](https://avatars1.githubusercontent.com/u/583231)                     	|
-| [@obo20](https://github.com/obo20/)                	| [@mburns](https://github.com/mburns)                  	| [@na](https://github.com/na) 	|
+| ![](https://avatars2.githubusercontent.com/u/7811297) 	| ![](https://avatars2.githubusercontent.com/u/5170) 	| ![](https://avatars3.githubusercontent.com/u/2259282)                     	|
+| [@obo20](https://github.com/obo20/)                	| [@mburns](https://github.com/mburns)                  	| [@kubuxu](https://github.com/Kubuxu) 	|
 
 ## What you will learn with this Course
 
