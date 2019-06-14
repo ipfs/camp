@@ -24,8 +24,6 @@ WebDAV is often used in network storage drives, and mainstream operating systems
 
 ## Requirements to consider
 
-<Do we have requirements (i.e. work with 1MM nodes)?>
-
 - We're bound to the API's we target and depend on
 - Portability is important
 - We must be careful to remain scoped when discussing different but interconnected layers
