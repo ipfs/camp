@@ -51,9 +51,9 @@ Now, in your terminal type:
 1) `apt-get update`
 2) `apt-get upgrade`
 
-    2.1) If you get a pink screen asking whether to automatically restart, hit `LEFT ARROW` and then `ENTER`
+    2.1. If you get a pink screen asking whether to automatically restart, hit `LEFT ARROW` and then `ENTER`
 
-    2.2) If you get another pink screen asking for a confirmation, hit `ENTER`
+    2.2. If you get another pink screen asking for a confirmation, hit `ENTER`
   
 3) `apt autoremove`
 4) `shutdown -r 0`
