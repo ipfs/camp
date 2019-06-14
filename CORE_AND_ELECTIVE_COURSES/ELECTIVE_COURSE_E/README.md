@@ -49,6 +49,7 @@ In your terminal type: `ssh root@your_droplet_ip`
 
 You should now be connected to your droplet!
 
+### Updating your droplet
 Now, in your terminal type:
 1) `apt-get update`
 2) `apt-get upgrade`
