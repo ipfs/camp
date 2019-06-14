@@ -4,12 +4,12 @@ Community, evangelism, engagement, on ramp.
 
 ## Goal
 
-<Define what we would get if the Open Problem(s) are solved for this Deep Dive>
+We will get some seeds for the singularity of human cooperation 🌱🌱🌱
 
 ## Requirements to consider
 
-<Do we have requirements (i.e. work with 1MM nodes)?>
+Come as you are.
 
 ## Where to learn about it
 
-<List of talks, links to github issues, code, notes and so on>
+[Introducing Talk](https://gitpitch.com/stefanhans/building-the-ipfs-community#/)
