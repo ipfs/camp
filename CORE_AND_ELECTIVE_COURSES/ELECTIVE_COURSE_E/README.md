@@ -78,6 +78,7 @@ In your terminal:
 1) Install the latest ipfs version with: `ipfs-update install latest`
 2) Initialize ipfs with `ipfs init --profile server`
 3) Check that IPFS was installed with: `ipfs daemon`
+4) Hit `CTRL` + `C` to end the process
 
 ### Keeping IPFS running
 
