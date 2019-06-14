@@ -88,7 +88,7 @@ In your terminal:
 [Unit]
 Description=IPFS Daemon
 [Service]
-ExecStart=/root/go/bin/ipfs daemon --enable-gc
+ExecStart=/usr/local/bin/ipfs daemon --enable-gc
 Restart=always
 Environment="IPFS_PATH=/root/.ipfs"
 [Install]
@@ -99,7 +99,7 @@ WantedBy=multi-user.target
 #### Enable the system service
 1) Reload your system with: `systemctl daemon-reload`
 2) Enable your new service with: `systemctl enable ipfs`
-3) Start your new service with: `systemctl enable ipfs`
+3) Start your new service with: `systemctl start ipfs`
 4) Test that this succeeded with: `systemctl status ipfs`
 
 ## Bonus written guide for attendees to refer back to
