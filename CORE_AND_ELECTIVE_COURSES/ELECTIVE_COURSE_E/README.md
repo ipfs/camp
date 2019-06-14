@@ -103,9 +103,12 @@ WantedBy=multi-user.target
 3) Start your new service with: `systemctl start ipfs`
 4) Test that this succeeded with: `systemctl status ipfs`
 
-### Let's try pinning something
+### Pinning Content / Viewing Content with your own gateway
 1) In your terminal type: `ipfs pin add -r QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ`
-2) Now in your browser go to http://yourDropletIp:8080/ipfs/QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ
+2) In your terminal expose your gateway with: `ipfs config Addresses.Gateway /ip4/0.0.0.0/tcp/8080`
+3) Now restart ipfs with: `systemctl restart ipfs`
+4) Now in your browser go to http://yourDropletIp:8080/ipfs/QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ
+
 
 ## Bonus written guide for attendees to refer back to
 https://medium.com/pinata/how-to-deploy-an-ipfs-node-on-digital-ocean-c59b9e83098e
