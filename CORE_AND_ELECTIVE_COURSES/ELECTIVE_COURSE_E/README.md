@@ -103,11 +103,13 @@ WantedBy=multi-user.target
 3) Start your new service with: `systemctl start ipfs`
 4) Test that this succeeded with: `systemctl status ipfs`
 
-### Pinning Content / Viewing Content with your own gateway
+### Pinning content 
 1) In your terminal type: `ipfs pin add -r QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ`
-2) In your terminal expose your gateway with: `ipfs config Addresses.Gateway /ip4/0.0.0.0/tcp/8080`
-3) Now restart ipfs with: `systemctl restart ipfs`
-4) Now in your browser go to http://yourDropletIp:8080/ipfs/QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ
+
+### Viewing that content with your own gateway
+1) In your terminal expose your gateway with: `ipfs config Addresses.Gateway /ip4/0.0.0.0/tcp/8080`
+2) Now restart ipfs with: `systemctl restart ipfs`
+3) Now in your browser go to http://yourDropletIp:8080/ipfs/QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ
 
 
 ## Bonus written guide for attendees to refer back to
