@@ -104,7 +104,7 @@ WantedBy=multi-user.target
 4) Test that this succeeded with: `systemctl status ipfs`
 
 ### Pinning content 
-1) In your terminal type: `ipfs pin add -r QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ`
+1) In your terminal type: `ipfs pin add -r --progress QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ`
 
 ### Viewing that content with your own gateway
 1) In your terminal expose your gateway with: `ipfs config Addresses.Gateway /ip4/0.0.0.0/tcp/8080`
