@@ -16,25 +16,20 @@ Come as you are.
 
 ## Proposals for Group Work
 
-- Adaption of _The Boulder Thesis_ in practice 🙏@kk3wong🙏
-    1. Led by Entrepreneurs
-    1. Long-Term Commitment
-    1. Inclusive
-    1. Engage the Community
-    
-Note: https://fi.co/insight/building-a-startup-community-from-scratch-an-introduction-to-the-boulder-thesis
+- "How to start a IPFS community" Tutorial 
 
-- Strategies for Possible Cooperations
-    - Companies
-    - Big leading companies like Google
-    - Big 'bullshit job' companies like Atos
-    - Universities
-    - Start-Ups
-    - Politics
-    - NGOs
-    - Other communities
-    
-    Technology, support, and perspectives
-- Tutorials for Go
-- Master classes
-- Protocol Labs can help
+- Connecting IPFS communities
+
+- Working with ProtoSchool
+
+- Adaption of [Creative Learning](https://web.media.mit.edu/~mres/papers/kindergarten-learning-approach.pdf)
+
+- Adaption of [The Boulder Thesis](https://fi.co/insight/building-a-startup-community-from-scratch-an-introduction-to-the-boulder-thesis) in practice 🙏[@kk3wong](https://github.com/kk3wong)🙏
+
+- Cooperation with Protocol Lab
+
+- Cooperation strategies concerning other feeders
+
+- "How can we help?" Communities supporting others
+
+- The chasm between community and business
