@@ -16,13 +16,13 @@ Come as you are.
 
 ## Proposals for Group Work
 
-- "How to start a IPFS community" Tutorial 
+- "How to start an IPFS community" Tutorial 
 
 - Connecting IPFS communities
 
 - Working with ProtoSchool
 
-- Adaption of [Creative Learning](https://web.media.mit.edu/~mres/papers/kindergarten-learning-approach.pdf)
+- How to apply [Creative Learning](https://web.media.mit.edu/~mres/papers/kindergarten-learning-approach.pdf)
 
 - Cooperation with Protocol Lab
 
@@ -30,4 +30,4 @@ Come as you are.
 
 - "How can we help?" Communities supporting others
 
-- The chasm between community and business
+- Overcoming the chasm between community and business
