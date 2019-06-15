@@ -68,7 +68,7 @@ from a single shared chunking strategy.
 
 - [FastCDC: a Fast and Efficient Content-Defined Chunking Approach for Data Deduplication](https://www.usenix.org/system/files/conference/atc16/atc16-paper-xia.pdf)
 
-- [Ddelta/Gearhash](http://ranger.uta.edu/~jiang/publication/Journals/2014/2014-Perf%20Eval%20-Ddelta-%20A%20Deduplication-Inspired%20Fast%20Delta%20Compression%20Approach.pdf) ( pages 9 and 10 contain direct comp
+- [Ddelta/Gearhash](http://ranger.uta.edu/~jiang/publication/Journals/2014/2014-Perf%20Eval%20-Ddelta-%20A%20Deduplication-Inspired%20Fast%20Delta%20Compression%20Approach.pdf) ( pages 9 and 10 contain direct comparisons with Rabin-chunking )
 
 - [bup "hashsplit" implementation](https://github.com/bup/bup/blob/0.29.2/DESIGN#L138-L234) ( this is especially notable for being side-compatible with vanilla git )
 
