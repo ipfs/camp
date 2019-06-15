@@ -20,4 +20,8 @@ Use whatever resources available to you, in order to come up with a visual repre
 <https://github.com/ipfs/ipfs/issues/337>  
 <https://github.com/ipfs/in-web-browsers/blob/master/ADDRESSING.md>  
 <https://bugzilla.mozilla.org/show_bug.cgi?id=1428446>  
+<https://github.com/ipfs/in-web-browsers/issues/147>  
+<https://bugs.chromium.org/p/chromium/issues/detail?id=64100>  
+<https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/29sFh4tTdcs>  
+<https://github.com/whatwg/html/pull/3936>  
 <https://github.com/ipfs/specs/tree/master/dweb-addressing>
