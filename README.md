@@ -16,9 +16,9 @@ The schedule for the event can be found at **https://camp.ipfs.io/schedule**
 You can find the content description, speakers and trainers at:
 
 - **[👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES)**
-- **[📃 Poster Projects](POSTER_PROJECTS)**
 - **[🐋 Deep Dives](DEEP_DIVES)**
-- **[🐚 Quiet Room](QUIET_ROOM)**
 - **[⚡️ Lightning Talks](LIGHTNING_TALKS)**
-- **[🧩 Unconf](UNCONF)**
+- **[📃 Poster Projects](POSTER_PROJECTS)**
+- **[🐚 Quiet Room](QUIET_ROOM)**
 - **[🧬 Sci-Fi Fair](SCI-FI_FAIR)**
+- **[🧩 Unconf](UNCONF)**
