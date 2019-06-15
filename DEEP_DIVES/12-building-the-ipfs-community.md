@@ -16,7 +16,15 @@ Come as you are.
 
 ## Proposals for Group Work
 
-- Strategies for possible cooperations
+- Adaption of _The Boulder Thesis_ in practice 🙏@kk3wong🙏
+    1. Led by Entrepreneurs
+    1. Long-Term Commitment
+    1. Inclusive
+    1. Engage the Community
+    
+Note: https://fi.co/insight/building-a-startup-community-from-scratch-an-introduction-to-the-boulder-thesis
+
+- Strategies for Possible Cooperations
     - Companies
     - Big leading companies like Google
     - Big 'bullshit job' companies like Atos
