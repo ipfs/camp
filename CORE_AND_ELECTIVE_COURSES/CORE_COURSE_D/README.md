@@ -1,6 +1,6 @@
-# `Core D` INSERT TITLE
+# `Core D` The lifecycle of data in IPFS
 
-> INSERT DESCRIPTION
+> In this course we will cover how IPFS deals with data. This would include providing(share), pinning(store) and blocking(delete) data.
 
 ## Trainers
 
@@ -11,7 +11,10 @@
 
 ## What you will learn with this Course
 
-`TBW`
+- Providing: How it works. XOR distance and other people's routing tables, providing strategies: all, roots, pins, and their trade-offs (DHT size if we all announce all blocks)
+- Pinning: direct, recursive, transitive, MFS root best effort. IPFS command are transparent to which node happens to provide them. I can pin other people’s blocks before they are in my local blockstore.
+- Deleting: GC strategies.  current, proposed, help wanted. Do-not-replicate lists proposal, help wanted.
+
 
 ## Preparation for the course
 

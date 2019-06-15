@@ -1,6 +1,6 @@
-# IPFS metrics and usage statistics
+# Better File Chunking
 
-How to collect telemetry like application metrics and usage in a distributed world
+<Short summary of topic including Open Problem(s) to solve>
 
 ## Goal
 

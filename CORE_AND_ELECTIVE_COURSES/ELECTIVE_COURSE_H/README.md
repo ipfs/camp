@@ -1,6 +1,8 @@
-# `Elective H` INSERT TITLE
+# `Elective H` Making the Browser a True User Agent
 
-> INSERT DESCRIPTION
+What if your web browser was truly reflected your values - advocating for you, and filtering for you, running as first-class nodes in distributed networks or even light clients? What if you could build your own dweb browser, or add dweb capabilities to an existing browser? Or what’s the closest we can get to a dweb experience in today’s browsers without any core changes at all? 
+
+We’ll show examples of each of these approaches to making a browser truly an agent that represents you, and discuss the benefits and challenges of each.
 
 ## Trainers
 
