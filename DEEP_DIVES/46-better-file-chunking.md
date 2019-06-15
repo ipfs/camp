@@ -28,8 +28,9 @@ UX / game-theory-ish problems.**
 
 ## Goal
 
-It would be great if towards the end of this session we have answers to the
-following deceptively simple checklist:
+It would be great if towards the end of this session we have answers or maybe
+even consensus 🤞 regarding the following deceptively simple
+checklist:
 
 - [ ] Identify a ~dozen-or-two of realistic user-stories where IPFS could
 or already does play a central role.
@@ -46,18 +47,29 @@ from a single shared chunking strategy.
 - [ ] Identify whether the above number of algorithms could be reduced to 1
 ( **one** ) which could then viably **replace the current defaults**.
 
-## Requirements to consider
+## List of various ( often conflicting ) prior-art discussions within Protocol Labs
 
-```
-  Work-in-progress ( do not merge PR )
+- [Latest push for chunking standardization as part of UnixFSv2](https://github.com/ipfs/roadmap/issues/19#issuecomment-474699858)
 
-  <Do we have requirements (i.e. work with 1MM nodes)?>
-```
+- [Parameterizable-chunking proposal](https://github.com/ipfs/unixfs-v2/issues/15#issuecomment-429586046)
+( preliminary implementation available as [part of ipfs-pack](https://github.com/ipfs/ipfs-pack/blob/master/spec.md) )
 
-## Exhaustive list of various ( often conflicting ) prior-art discussions
+- [Musings on practical limitations of current "officially available" chunkers](https://github.com/ipfs-shipyard/ipfs-npm-registry-mirror/issues/6#issue-387056647)
 
-```
-  Work-in-progress ( do not merge PR )
-  
-  <List of talks, links to github issues, code, notes and so on>
-```
+- [Notes from ReproducibleBuildsSummit 2019](https://github.com/ipfs/notes/issues/366#issue-398124198)
+
+- [Collection of links on content-dependent-chunkers ( warnocked )](https://github.com/ipfs/notes/issues/183#issue-186397332)
+
+- [Chunking in the context of maximum block size](https://github.com/ipfs/go-ipfs/issues/3104#issuecomment-241244915)
+
+- [Inlining of small objects](https://github.com/ipfs/unixfs-v2/issues/4#issuecomment-341798613) ( this is not directly related to chunking, but is relevant to smallest-chunk-size-limitations )
+
+## Several non-specialized chunking algorithm specs/implementations
+
+- [FastCDC: a Fast and Efficient Content-Defined Chunking Approach for Data Deduplication](https://www.usenix.org/system/files/conference/atc16/atc16-paper-xia.pdf)
+
+- [Ddelta/Gearhash](http://ranger.uta.edu/~jiang/publication/Journals/2014/2014-Perf%20Eval%20-Ddelta-%20A%20Deduplication-Inspired%20Fast%20Delta%20Compression%20Approach.pdf) ( pages 9 and 10 contain direct comp
+
+- [bup "hashsplit" implementation](https://github.com/bup/bup/blob/0.29.2/DESIGN#L138-L234) ( this is especially notable for being side-compatible with vanilla git )
+
+- [pigz implementation of --rsyncable](https://github.com/madler/pigz/blob/v2.4/pigz.c#L441-L483)
