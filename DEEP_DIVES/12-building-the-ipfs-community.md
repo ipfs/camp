@@ -24,8 +24,6 @@ Come as you are.
 
 - Adaption of [Creative Learning](https://web.media.mit.edu/~mres/papers/kindergarten-learning-approach.pdf)
 
-- Adaption of [The Boulder Thesis](https://fi.co/insight/building-a-startup-community-from-scratch-an-introduction-to-the-boulder-thesis) in practice 🙏[@kk3wong](https://github.com/kk3wong)🙏
-
 - Cooperation with Protocol Lab
 
 - Cooperation strategies concerning other feeders
