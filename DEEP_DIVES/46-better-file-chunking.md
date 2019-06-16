@@ -32,7 +32,7 @@ It would be great if towards the end of this session we have answers or maybe
 even consensus 🤞 regarding the following deceptively simple
 checklist:
 
-- [ ] Identify a ~dozen-or-two of realistic user-stories where IPFS could
+- [ ] Identify about 10 distinct realistic user-stories where IPFS could
 or already does play a central role.
 
 - [ ] Clearly identify pros and cons of chunking algorithm proliferation
