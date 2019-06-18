@@ -5,8 +5,6 @@ P2P Lazer Catbot, an interplanetary network for Cats
 
 This project aim to bridge lazer, Cats and the internet.
 
-From the early days to its current form it used bleeding edge technology, so it now need to be distributed, this session will focus on the physical part of the project.
-
 It will feature amazing activities like:
 
 - use IKEA grade build instruction
@@ -14,9 +12,6 @@ It will feature amazing activities like:
 - learn how to connect your kettle to the internet
 
 Some may say this fair session is an excuse to have more cats entertained, this is the truth.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6NYyGC-wZKU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ![ikea](https://catsandsolenoids.eu/assets/build/v4/31.png)
 
