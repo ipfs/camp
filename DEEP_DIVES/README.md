@@ -93,6 +93,7 @@ The next day (graduation day), this is what happens:
 | 44 | [Decentralized Data Processing](./44-decentralized-data-processing.md) |  | |
 | 45 | [Building Dynamic P2P Applications](./45-building-dynamic-p2p-applications.md) | **[@jkarni](https://github.com/jkarni)** | |
 | 46 | [Better file chunking](./46-better-file-chunking.md) | **[@mib-kd743naq](https://github.com/mib-kd743naq)** | |
+| 47 | [Cross-protocol DAG traversal](./47-cross-protocol-dag-traversal.md) | **[@ma_parent](https://gitlab.com/hyperknowledge)** | Extend IPLD to cross between immutable and mutable references |
 
 **Note**: topics relevant to package managers have a 📦 suffix.
 
