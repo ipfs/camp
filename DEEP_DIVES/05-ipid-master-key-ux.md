@@ -1,6 +1,6 @@
 # IPID - Master key security and user-experience
 
-[IDM](https://github.com/ipfs-shipyard/pm-idm) (Identity Manager) aims to support several [DIDs](https://w3c-ccg.github.io/did-spec/) methods and [IPID](https://did-ipid.github.io/ipid-did-method) was choosen as the first DID method to be integrated.
+[IDM](https://github.com/ipfs-shipyard/pm-idm) (Identity Manager) aims to support several [DIDs](https://w3c-ccg.github.io/did-spec/) methods and [IPID](https://did-ipid.github.io/ipid-did-method) was chosen as the first DID method to be integrated.
 
 [IPID](https://did-ipid.github.io/ipid-did-method) [DIDs](https://w3c-ccg.github.io/did-spec/) are based on IPNS paths, like: `did:ipid:QmSrPmb...`. This means that the IPNS key is in complete control of the DID-Document and can never be rotated, otherwise the DID itself would change. From now on, lets call the IPNS key the Master Key.
 
