@@ -4,12 +4,23 @@ What are the hurdles to using CRDTs in dapps with IPFS? How can we make peer-bas
 
 ## Goal
 
-<Define what we would get if the Open Problem(s) are solved for this Deep Dive>
+Peer-base is a system that enables developers to building data structures from data types that can replicate efficiently between multiple peers with automatic conflict resolution. It works quite well. Unfortunately, there are difficult challenges that confront developers that want to try out peer-base for the first time:
+
+* which "delta" CRDT data type to choose?
+* understanding the encryption model
+* difficult API for nested data structures
+* documentation is primarily academic papers
+* how to use it together with IPFS
+* explaining need for websocket-star rendezvous server
 
 ## Requirements to consider
 
-<Do we have requirements (i.e. work with 1MM nodes)?>
+* can we simplify how models are constructed?
+* how can the documentation be improved?
+* what example apps would work well for learning / tutorials?
 
 ## Where to learn about it
 
-<List of talks, links to github issues, code, notes and so on>
+* https://github.com/peer-base/peer-base
+* https://github.com/ipfs-shipyard/js-delta-crdts
+
