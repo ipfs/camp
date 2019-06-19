@@ -20,5 +20,4 @@ Finally, you will get to know IDM (Identity Manager), an open Identity Wallet sp
 ## Preparation for the course
 
 - Bring your laptop
-- Make sure you have Node.js >= 10.16.0 installed
-- Clone https://github.com/ipfs-shipyard/workshop-idm-chat-dapp and follow the installation instructions
+- Follow the Prerequisites and Installation instructions at https://github.com/ipfs-shipyard/workshop-idm-chat-dapp before the course 
