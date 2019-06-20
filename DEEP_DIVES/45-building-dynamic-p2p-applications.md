@@ -18,11 +18,16 @@ A smaller, but presumably easier, improvement would be to allow configuring how 
 dissemination works. For instance, messages that have been superseded by later ones would
 not be disseminated. This should also benefit IPNS-over-pubsub.
 
-Additionally, in order to have clients consider DHT/IPNS updates successful, all we need
-is the raw IPNS pointer update, so that non-key-owners (if they have the relevantly
-signed CID) to send DHT updates. Moreover, ideally we would have a somewhat more
-pluggable DHT, since for us the entries are *either* standard signed CIDs (IPNS), *or*
-a Merkle proof that the relevant key-owner misbehaved.
+Another difficulty we've had is having to wait for IPNS/DHT updates in order to
+consider a write succesful. Non-IPNS-key-owners shouldn't have to wait; better
+would be if they were given by the key-owner, as a response to writes, the
+*raw* content of the DHT update. In our system, that's enough to guarantee that
+the write will happen (or the key-owner will be caught forking). But we've
+found no easy way to get that data.
+
+Moreover, ideally we would have a somewhat more pluggable DHT, since for us
+the entries are *either* standard signed CIDs (IPNS), *or* a Merkle proof that
+the relevant key-owner misbehaved.
 
 ## Requirements to consider
 
