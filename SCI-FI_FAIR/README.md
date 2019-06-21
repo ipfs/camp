@@ -7,14 +7,17 @@ Do you fancy Science Fairs? Always felt that there was something missing? Someth
 ## Projects (so far)
 | Project  | Presenter | Description |
 | ------------- | ------------- | ------------- |
-| RPi cluster | @hsanjuan, @lanzafame   | ipfs-cluster... on a raspberry pi?? |
+| RPi cluster | @hsanjuan, @lanzafame   | ipfs-cluster... on Raspberry Pi |
 | Actyx  |  @rklaehn  | Industrial automation on IPFS |
 | npm-in-a-box | @achingbrain | what is says on the tin |
 | The Gathering | @JustMaier | conference networking on decentralized networks |
 | Textile Photos | @andrewxhill, @carsonfarmer, @balupton | a decentralized photo booth |
 | Lazer Catbot | @gorhgorh | 😼 |
 | FAPRS | @MarneeDear | IPFS over Ham Radio |
-| Brave | @yrliou, @darkdh, @emerick | Brave browser |
+| Brave | @yrliou, @darkdh, @emerick | native IPFS in Brave browser! |
+| ENS | @makoto | resolving ENS/IPFS with DNS |
+| IPFS Spider | @magnshen | crawling the IPFS network |
+| Cluster Labs Horizon + more | @vasa-develop | viz for the RPi cluster + more |
 
 ## Instructions
 
