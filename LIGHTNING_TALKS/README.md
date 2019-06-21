@@ -52,6 +52,7 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="150" /> | Gonçalo Pestana ([@gpestana](https://github.com/gpestana)) | Privacy in P2P networks: DHTs and IPFS |
 | <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="150" /> | Benjamin Kampmann ([@gnunicorn](https://github.com/gnunicorn)) | Changing the record: Using substrate to add a custom blockchain to your IPFS dweb app |
 | <img src="https://avatars0.githubusercontent.com/u/2630?s=460&v=4" width="150" /> | Makoto Inoue ([@makoto](https://github.com/makoto))  | ENS + IPFS: Using ENS as a naming system for IPFS  |
+| <img src="https://avatars1.githubusercontent.com/u/30949000?s=400&v=4" width="150" /> | Shokunin ([@leshokunin](https://github.com/leshokunin)) | Building a Dropbox replacement on IPFS and Textile |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
