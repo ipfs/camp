@@ -25,7 +25,7 @@ In this course, attendees will build a libp2p application. The course will cover
 The course will give you the opportunity to build your application for one of three platforms/languages: Go, Node.js, and Web Browsers. See the preparation section below for your respective choice.
 
 ### Preparing for Go
-`TBW`
+Everyone will need a working go 1.12 installation. Beyond that, feel free to study up on the basic concepts on the [libp2p website](http://docs.libp2p.io/) and study the interfaces in [go-libp2p-core](https://github.com/libp2p/go-libp2p-core). 
 
 ### Preparing for Node.js
 `TBW`
