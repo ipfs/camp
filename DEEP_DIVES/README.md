@@ -94,7 +94,7 @@ The next day (graduation day), this is what happens:
 | 45 | [Building Dynamic P2P Applications](./45-building-dynamic-p2p-applications.md) | **[@jkarni](https://github.com/jkarni)** | |
 | 46 | [Better file chunking](./46-better-file-chunking.md) | **[@mib-kd743naq](https://github.com/mib-kd743naq)** | |
 | 47 | [Cross-protocol DAG traversal](./47-cross-protocol-dag-traversal.md) | **[@ma_parent](https://gitlab.com/hyperknowledge)** | Extend IPLD to cross between immutable and mutable references |
-| 48 | [Design Patterns for DWeb Apps](./48-design-patterns-for-dweb-apps.md) | **[@Shokunin](https://github.com/Shokunin)** | |
+| 48 | [Design Patterns for DWeb Apps](./48-design-patterns-for-dweb-apps.md) | **[@leshokunin](https://github.com/leshokunin)** | |
 
 **Note**: topics relevant to package managers have a 📦 suffix.
 
