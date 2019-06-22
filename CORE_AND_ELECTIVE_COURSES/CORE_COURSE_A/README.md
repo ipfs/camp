@@ -1,6 +1,6 @@
 # Understanding how the InterPlanetary File System deals with Files
 
-> INSERT DESCRIPTION
+> Deep exploration of the reasons behind immutable data, how we address immutable data, the data structures IPFS creates and the different ways of interacting with files in IPFS.
 
 ## Trainers
 
@@ -23,17 +23,17 @@ Warning, content may contain traces of the following: content vs location addres
 
 ## Preparation for the course
 
-`TBW`
+No preparation necessary. If you're keen, familiarise yourselves with the basic [IPFS concepts in the docs](https://docs.ipfs.io/guides/concepts/) and we'll expand on them in the course.
+
+Bring yourself, your laptop and a recent web browser.
 
 ---
+
 # The Course Outline & Follow Guide
 
 ## Part 1 - Why immutability
 
-Duration: 15 min
-Big wow: ???
-
-Topics:
+Duration: ~15 min
 
 * Why there's no trust in p2p networks
 * What immutable content is
@@ -47,10 +47,7 @@ Topics:
 
 ## Part 2 - Anatomy of a CID
 
-Duration: 15 min
-Big wow: CID inspector https://cid.ipfs.io/
-
-Topics:
+Duration: ~15 min
 
 * Why a CID is different from a hash (part 1 - intro to multihash)
     * The existence of different hashing algos
@@ -77,10 +74,7 @@ Topics:
 
 ## Part 3 - Merkle DAG
 
-Duration: 5 min
-Big wow: Diagrams from protoschool https://proto.school/#/data-structures/05
-
-Topics:
+Duration: ~5 min
 
 * What a DAG is
     * Direction
@@ -93,10 +87,7 @@ Topics:
 
 ## Part 4 - Importing files
 
-Duration: 20 min
-Big wow: DAG builder vis https://dag.ipfs.io
-
-Topics:
+Duration: ~20 min
 
 * What chunking is
     * What chunking algos exist
@@ -124,10 +115,7 @@ Topics:
 
 ## Part 5 - MFS
 
-Duration: 20 min
-Big wow: ProtoSchool MFS workshopper
-
-Topics:
+Duration: ~20 min
 
 * What MFS is
     * Why it exists
@@ -139,4 +127,4 @@ Topics:
     * Why the MFS root CID changes
         * How propagation up the merkle dag works
         * Where discarded branches go (gc)
-* Start the MFS ProtoSchool workshop
+* Intro to the MFS ProtoSchool workshop
