@@ -20,10 +20,13 @@ By the end of this course, you will be prepared to _kick butt_ in:
 - **Sustaining** your efforts for the long run :runner:
 - **Contributing** your own [ProtoSchool Tutorial](https://proto.school/#/build)
 
+_**NOTE: This is a non-technical reprive for our campers**_ :tent: :confetti_ball:
+
+
 ## Preparation for the course
 
 You should do a bit of homework beforehand:
 - Take a look to see what [Protoschool Chapers](https://proto.school/#/chapters) existist in your area, and take note of the organizer
 - We will have a few activities :grin: come armed with energy :lightning: and be ready to interact with your peers :raised_hands:
- - _**NOTE: This is a non-technical reprive for our campers_ :tent: :confetti_ball:
+  - Your mission: Come prepared with the **best example of a workshop/meetup that you attended**. What key things made that so? Why was it so useful?
 - Are you a meetup organizer yourself? **Please reach out to us! (Dan/Kevin/Stefan)*** We want to get you involved in the activities for this elective :grin: - no pressure. 
