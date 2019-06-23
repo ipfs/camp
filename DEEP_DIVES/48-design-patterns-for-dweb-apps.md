@@ -1,15 +1,20 @@
-# Design Patterns for DWeb Apps
+Textile, lower the permission and roles system from ~15 methods to 2
+Also did that on a number of large scale apps throughout the years.
 
-<Short summary of topic including Open Problem(s) to solve>
+# Design Patterns for DWeb Apps
+UX/design workshop. Pick any difficult IPFS problem. We'll draft a simple, ready to implement solution.
 
 ## Goal
-
-<Define what we would get if the Open Problem(s) are solved for this Deep Dive>
+The goal is something ready to code for an update.
+I've done this exercise with the Textile team, where we changed the permissions and roles model from ~15 cases to 2. Tons of code and education saved!
+Intend to achieve the same with another app during this workshop.
 
 ## Requirements to consider
-
-<Do we have requirements (i.e. work with 1MM nodes)?>
+Have a problem that requires UX/design thinking!
 
 ## Where to learn about it
-
-<List of talks, links to github issues, code, notes and so on>
+Lots and lots of UX resources!
+https://uxplanet.org/how-to-radically-simplify-your-product-727a1321bb56?gi=c71f3512bc4e
+and
+https://www.interaction-design.org/literature/article/simplicity-in-design-4-ways-to-achieve-simplicity-in-your-designs
+are a good start.
