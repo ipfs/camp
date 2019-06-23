@@ -61,7 +61,7 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 | 3 | [The design of the IPFS Repo](topic-IPFS-repo.md) | TBD |
 | 4 | [Swarming (concept)](topic-swarming.md) | TBD |
 | 5 | [Bitswap](topic-bitswap.md) | @jacobheun |
-| 6 | [Pinning & GC on IPFS](topic-pinning-gc.md)| TBD |
+| 6 | [Pinning & GC on IPFS](topic-pinning-gc.md)| @Kubuxu |
 | 7 | [HTTP gateways](topic-HTTP-gateways.md) | @dietrich |
 | 8 | [go-ipfs Infrastructure](topic-go-ipfs-infra.md) | @stebalien |
 | 9 | [js-ipfs Infrastructure](topic-js-ipfs-infra.md) | @alanshaw |
@@ -74,11 +74,11 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 | 16 | [IPFS DHT](topic-IPFS-DHT.md) | @gpestana |
 | 17 | [IPNS](topic-IPNS.md) | @aschmahmann |
 | 18 | [IPFS/Libp2p content routing](topic-content-provider-records.md) | @bigs |
-| 19 | [IPFS/libp2p PubSub](topic-pubsub.md) | TBD |
+| 19 | [IPFS/libp2p PubSub](topic-pubsub.md) | @whyrusleeping  |
 | 20 | [IPFS Cluster](topic-cluster.md) | @meiqimichelle (& maybe @hsanjuan) |
 | 21 | [IPFS HTTP API libs](topic-HTTP-API.md)  | @hugomrdias |
 | 22 | [Core API & ipfsx](topic-highlevel-apis.md) | TBD |
-| 23 | [CRDTs](topic-CRDT.md) | TBD |
+| 23 | [CRDTs](topic-CRDT.md) | @parkan  |
 | 24 | [Peerpad](topic-peerpad.md) | @jimpick |
 | 25 | [IPLD Resolver](topic-IPLD-resolvers.md) | @lanzafame |
 | 26 | [IPLD Selectors](topic-IPLD-selectors.md) | @maparent |
