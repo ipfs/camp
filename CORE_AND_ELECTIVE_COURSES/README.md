@@ -27,12 +27,24 @@ The courses list is:
 
 ## Instructions
 
-`TBW`
-
 ### Overview
 
-`TBW`
+The Core & Elective Courses will happen in the morning of Friday and Saturday at the Floor A (1st floor) of the secondary building.
+
+![](https://raw.githubusercontent.com/ipfs/camp/master/img/camp-courses-rooms.png)
+
+Each Course is allocated to a room. 4 Courses will be happening in parallel
+
+#### Friday
+
+![](https://raw.githubusercontent.com/ipfs/camp/master/img/camp-courses-friday-schedule.png)
+
+#### Saturday
+
+![](https://raw.githubusercontent.com/ipfs/camp/master/img/camp-courses-saturday-schedule.png)
 
 ### How
 
-`TBW`
+Every IPFS Camp attendee will have a chance to **attend all Core Courses**. When you check in at the event, you will learn when and which Core Course to attend at each time. 
+
+As for the **Elective Courses**, each attendee will have the chance to pick 2 out of 8 Electives (one from A to D and one from E to H). You will get the chance to make your selection while at camp
