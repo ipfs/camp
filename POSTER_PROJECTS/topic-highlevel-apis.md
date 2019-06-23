@@ -1,6 +1,6 @@
-# Unixfs Version 2
+# Core API & ipfsx
 
-UnixfsV2 is the futuristic version of Unixfs, designed to solve many of the issues of [UFSv1](topic-unixfsv1.md)
+High level API's that wrap various APIs like the [HTTP-API](topic-HTTP-API.md) to provide native language integrations.
 
 ## Goal
 
@@ -10,12 +10,10 @@ Use whatever resources available to you, in order to come up with a visual repre
 
 <Series of questions which the group should try to answer>
 
-- How will it differ from UFSv1?
-  - What problems does it solve?
-  - What formats and concepts have changed or been added?
-- How are Unixfs objects used?
+- What applications target these APIs?
+- What are the benefits of having native language integration?
 
 ## Where to learn about it
 
-<https://github.com/ipfs/unixfs-v2>  
-<https://docs.ipfs.io/guides/concepts/unixfs/>
+<https://godoc.org/github.com/ipfs/interface-go-ipfs-core>  
+<https://github.com/ipfs-shipyard/ipfsx>

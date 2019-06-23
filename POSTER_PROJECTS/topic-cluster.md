@@ -1,6 +1,6 @@
-# Circuit Relay
+# IPFS Cluster
 
-The circuit relay is a means to establish connectivity between libp2p nodes (e.g. IPFS nodes) that wouldn't otherwise be able to establish a direct connection to each other.
+IPFS Cluster is a stand-alone application and a CLI client that allocates, replicates, and tracks pins across a cluster of IPFS daemons.
 
 ## Goal
 
@@ -8,11 +8,12 @@ Use whatever resources available to you, in order to come up with a visual repre
 
 ## Questions to Answer
 
-
 - What scenarios is this useful in / what problems does this solve?
-- How is it done?
-- How can/do nodes participate as relays?
+- What technologies does it use to accomplish this?
+- How do you set up a cluster?
 
 ## Where to learn about it
-
-<https://github.com/libp2p/specs/tree/master/relay>
+<https://github.com/ipfs/ipfs-cluster>  
+<https://cluster.ipfs.io/>  
+<https://github.com/ipfs/pinbot-irc>  
+<https://github.com/hsanjuan/twitter-pinbot>
