@@ -10,11 +10,25 @@ Use whatever resources available to you, in order to come up with a visual repre
 
  - How does JS-IPFS establish connections?
    - What technologies (websockets, etc.)
-   - How is bootstrapping handled
+   - How is bootstrapping handled?
  - What limitations are imposed by different environments?
-   - browsers, nodejs, etc. 
+   - browsers, Node.js, Electron, etc.
+
+### Topics to consider
+
+* Same origin policy
+* Websocket & webtrc transports
+* Rendezvous
+* Delegated routing
+* DHT
+* Multiple tabs
+* Storage limits
+* Bundle size
+* Behaviour profiles
+* Preload servers
 
 ## Where to learn about it
-[https://github.com/ipfs/js-ipfs](<https://github.com/ipfs/js-ipfs#-------->)  
-<https://github.com/ipfs/js-ipfs/issues/1459>  
-<https://github.com/ipfs/js-ipfs/issues/2093>
+
+* https://github.com/ipfs/js-ipfs
+* https://github.com/ipfs/js-ipfs/issues/1459
+* https://github.com/ipfs/js-ipfs/issues/2093
