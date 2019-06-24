@@ -51,7 +51,7 @@ If you're just visiting, relax, check out the projects, and don't be shy! Everyo
 
 ### How
 
-1-2 dozen tables, each presenting a project. Fair runs for 2 hours on Saturday (1630-1830), opposite the [Unconference](../../UNCONF/README.md)
+1-2 dozen tables, each presenting a project. Fair runs for 2 hours on Saturday (1630-1830), opposite the [Unconference](https://github.com/ipfs/camp/tree/master/UNCONF)
 
 ### FAQ
 
