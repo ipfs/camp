@@ -15,10 +15,13 @@
 * How to configure that node for your specific use case
 * Tips and tricks for running IPFS infrastructure in the cloud
 
-## Digital Ocean Account
-For this course, you'll need a digital ocean account:
+## Preparation for the course
+
+We will use Digital Ocean, a Cloud service to host our remote and public IPFS node. To successfully complete this course, you will need to create a **Digital Ocean account**:
 
 * Sign up for an account preloaded with $50 in free credits with this link: https://do.co/pinata - (Requires a credit card but you won't be charged)
+
+--------------------------- 
 
 ## Course walkthrough / commands
 
