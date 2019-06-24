@@ -34,7 +34,7 @@ On the day, this is how y'all will Deep Dive 🐋:
 1. Groups reconvene and **send a PR to [ipfs/camp](https://github.com/ipfs/camp/tree/master/DEEP_DIVES) with their proposal**
     1. Didn't come up with any solutions?
         1. List your ideas, and why they weren't suitable so we can bootstrap future discussions
-1. Groups **customise their slide for presenting their solution** at the graduation ceremony
+1. Groups **[customise their slide](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/) for presenting their solution** at the graduation ceremony
 1. Groups are free to iterate on their PR or their slide overnight
 
 The next day (graduation day), this is what happens:
