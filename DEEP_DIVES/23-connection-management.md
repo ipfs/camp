@@ -27,7 +27,7 @@ Optimizing Connection Management can help us create a more stable backbone for d
 
 ## Where to learn about it
 
-- [Connection Manager V2 WIP Spec][https://github.com/libp2p/specs/pull/161]
+- [Connection Manager V2 WIP Spec](https://github.com/libp2p/specs/pull/161)
 - [Rethinking the PeerStore](https://github.com/libp2p/specs/issues/164)
 - [Priority Peers, js-libp2p](https://github.com/libp2p/js-libp2p/issues/369)
 - [Router Killing, go-ipfs](https://github.com/ipfs/go-ipfs/issues/3320)
