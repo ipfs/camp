@@ -28,7 +28,7 @@ On the day, this is how y'all will Deep Dive 🐋:
     1. Existing solutions should be briefly enumerated!
 1. Groups discuss their topic
     1. New ideas are suggested 💭
-    1. Groups **aim to come up one good solution**
+    1. Groups **aim to come up with one good solution**
         1. It can be a completely new solution or a change/fix to an existing one
 1. After 1 hour, groups take a **10 minute break** (phew) ☕️
 1. Groups reconvene and **send a PR to [ipfs/camp](https://github.com/ipfs/camp/tree/master/DEEP_DIVES) with their proposal**
