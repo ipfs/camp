@@ -24,26 +24,26 @@ In this course, attendees will build a libp2p application. The course will cover
 
 The course will give you the opportunity to build your application for one of three platforms/languages: Go, Node.js, and Web Browsers. See the preparation section below for your respective choice.
 
-1. Have your favorite code editor ready, such as [VSCode](https://code.visualstudio.com)
+### Instalation steps
 
-### Preparing for Go
+- Have your favorite code editor ready, if don't have one, we recommend [VSCode](https://code.visualstudio.com)
 
-Everyone will need a working go 1.12 installation. Beyond that, feel free to study up on the basic concepts on the [libp2p website](http://docs.libp2p.io/) and study the interfaces in [go-libp2p-core](https://github.com/libp2p/go-libp2p-core).
+**Preparing for Go track**
+  - You need to have the Golanguage 1.12 compiler installed, please follow the instructions at https://golang.org/doc/install
+  - Bonus: learn basic concepts on the [libp2p website](http://docs.libp2p.io/) and study the interfaces in [go-libp2p-core](https://github.com/libp2p/go-libp2p-core).
 
-### Preparing for JS
+**Preparing for the JavaScript track**
+  - Have git installed, [https://git-scm.com/downloads](https://git-scm.com/downloads).
+  - [Node.js >= 10 installed + npm >= 6 installed.](https://nodejs.org/en/download/)
+  - Download or clone the code at https://github.com/libp2p/js-libp2p-examples, `git clone https://github.com/libp2p/js-libp2p-examples.git`.
 
-1. Have git installed, [https://git-scm.com/downloads](https://git-scm.com/downloads).
-1. Node.js >= 10 installed
-1. npm >= 6 installed
-1. Download or clone the code at https://github.com/libp2p/js-libp2p-examples, `git clone https://github.com/libp2p/js-libp2p-examples.git`.
+**Specific to Node.js**
 
-#### Node.js
+  - Install dependencies by following the Setup directions at https://github.com/libp2p/js-libp2p-examples/tree/master/chat/nodejs#setup.
 
-1. Install dependencies by following the Setup directions at https://github.com/libp2p/js-libp2p-examples/tree/master/chat/nodejs#setup.
+**Specific to Browsers**
 
-#### Web Browsers
+ - Have the latest version of [Firefox](https://www.mozilla.org/firefox/new/), [Brave](https://brave.com/download/), **or** [Chrome](https://www.google.com/chrome/) installed. Firefox was tested the most during the building of this workshop, so we'd recommend having that installed just in case there is an issue with your preferred browser.
+ - Install dependencies by following the Setup directions at https://github.com/libp2p/js-libp2p-examples/tree/master/chat/browser#setup.
 
 **Windows Users**: If your npm config is not already set to support bash, you will need to do that for the Web Browser examples. Check out this [Stack Overflow Answer](https://stackoverflow.com/a/46006249) for how to do that. This will enable Parcel to correctly locate the appropriate, nested files.
-
-1. Have the latest version of [Firefox](https://www.mozilla.org/firefox/new/), [Brave](https://brave.com/download/), **or** [Chrome](https://www.google.com/chrome/) installed. Firefox was tested the most during the building of this workshop, so we'd recommend having that installed just in case there is an issue with your preferred browser.
-1. Install dependencies by following the Setup directions at https://github.com/libp2p/js-libp2p-examples/tree/master/chat/browser#setup.
