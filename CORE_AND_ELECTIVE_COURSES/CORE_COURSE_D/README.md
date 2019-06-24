@@ -11,11 +11,23 @@
 
 ## What you will learn with this Course
 
-- Providing: How it works. XOR distance and other people's routing tables, providing strategies: all, roots, pins, and their trade-offs (DHT size if we all announce all blocks)
-- Pinning: direct, recursive, transitive, MFS root best effort. IPFS command are transparent to which node happens to provide them. I can pin other people’s blocks before they are in my local blockstore.
-- Deleting: GC strategies.  current, proposed, help wanted. Do-not-replicate lists proposal, help wanted.
+Where the blocks at? We'll work through how data moves around the network. It'll be a mix of slides, _dancing_, and demonstrations. 
+
+We're covering a lot of ground in this course, to give everyone a high-level mental model of how things work, so we are all talking the same language when we go into the deep-dives later on at camp.
+
+### Providing data via IPFS
+
+We'll introduce how IPFS uses the **Kademlia** algorithm to find peers and announce the blocks they have in a way that others can find them.
+
+### Finding data on IPFS
+
+We'll go over how we use **Bitswap** to ask connected peers for the CIDs you want, and to verify the data you receive.
+
+### Managing the data in your local node
+
+By default, your IPFS node caches and provides every block it has. We'll cover how to use **Pinning** and pin types to manage what blocks your node keeps locally, and how garbage collecting keeps your repo size under control.
 
 
 ## Preparation for the course
 
-`TBW`
+No requirements. Turn up ready to learn! Bring some mechanism for taking notes, pencils or trackpads are fine. If you want to try commands out as we talk about them then a personal computation device running go-ipfs v0.4.22 is recommened.
