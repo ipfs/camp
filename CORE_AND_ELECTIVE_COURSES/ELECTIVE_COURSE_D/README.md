@@ -27,6 +27,8 @@ Some knowledge of IPFS and DWeb concepts in general. Some development experience
 
 **Preparing for Workshop**
 
+This stuff can be done in groups!
+
 - Download and extract the [latest release](https://github.com/textileio/go-textile/releases/latest) for your OS and architecture (or use `wget` etc...)
 - macOS and Linux
   - Extract the tarball (manually or via...)
@@ -40,9 +42,10 @@ Some knowledge of IPFS and DWeb concepts in general. Some development experience
 - Windows
   - Extract the zip file and move `textile.exe` anyplace in your `PATH`
 
-**Workshop Materials**
+**Workshop Materials (optional)**
 
-If you want the 'raw' workshop slides, and code beforehand:
+If you want the 'raw' workshop slides and code beforehand!
+
 1. Have git installed, [https://git-scm.com/downloads](https://git-scm.com/downloads).
 2. https://github.com/textileio/ipfs-camp-2019
 3. Clone the repo
@@ -50,12 +53,12 @@ If you want the 'raw' workshop slides, and code beforehand:
 git clone https://github.com/textileio/ipfs-camp-2019
 ```
 
-**Preparing for Hacking**
+**Preparing for Hacking (optional)**
 
 - [Node.js >= 10 installed + npm >= 6 installed.](https://nodejs.org/en/download/)
 - Download or clone the code at https://github.com/textileio/ipfs-camp-2019 (`./workshop/demo-leaderboard`), `git clone https://github.com/textileio/ipfs-camp.git`.
 - Install dependencies (`npm install`) and start the app (`npm run start`) by following the directions at https://github.com/textileio/ipfs-camp-2019/tree/master/workshop/demo-leaderboard.
 
-**Hacking on Mobile App**
+**Hacking on Mobile App (optional)**
 
 `TBA`
