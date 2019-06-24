@@ -25,9 +25,9 @@ Warning, content may contain traces of the following: content vs location addres
 
 No preparation necessary. If you're keen, familiarise yourselves with the basic [IPFS concepts in the docs](https://docs.ipfs.io/guides/concepts/) and we'll expand on them in the course.
 
-Bring yourself, your laptop and a recent web browser.
+**You will need to bring laptop and a recent web browser (preferred Chrome or Firefox).**
 
----
+------
 
 # The Course Outline & Follow Guide
 
