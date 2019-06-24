@@ -32,6 +32,7 @@ Everyone will need a working go 1.12 installation. Beyond that, feel free to stu
 
 ### Preparing for JS
 
+1. Have git installed, [https://git-scm.com/downloads](https://git-scm.com/downloads).
 1. Node.js >= 10 installed
 1. npm >= 6 installed
 1. Download or clone the code at https://github.com/libp2p/js-libp2p-examples, `git clone https://github.com/libp2p/js-libp2p-examples.git`.
@@ -42,5 +43,7 @@ Everyone will need a working go 1.12 installation. Beyond that, feel free to stu
 
 #### Web Browsers
 
-1. Have a Web Browser installed. The chat example was built and tested with [Firefox](https://www.mozilla.org/firefox/new/).
+**Windows Users**: If your npm config is not already set to support bash, you will need to do that for the Web Browser examples. Check out this [Stack Overflow Answer](https://stackoverflow.com/a/46006249) for how to do that. This will enable Parcel to correctly locate the appropriate, nested files.
+
+1. Have the latest version of [Firefox](https://www.mozilla.org/firefox/new/), [Brave](https://brave.com/download/), **or** [Chrome](https://www.google.com/chrome/) installed. Firefox was tested the most during the building of this workshop, so we'd recommend having that installed just in case there is an issue with your preferred browser.
 1. Install dependencies by following the Setup directions at https://github.com/libp2p/js-libp2p-examples/tree/master/chat/browser#setup.
