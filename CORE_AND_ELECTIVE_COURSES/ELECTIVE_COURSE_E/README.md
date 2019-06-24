@@ -16,12 +16,9 @@
 * Tips and tricks for running IPFS infrastructure in the cloud
 
 ## Digital Ocean Account
-For this course, you can either:
+For this course, you'll need a digital ocean account:
 
 * Sign up for an account preloaded with $50 in free credits with this link: https://do.co/pinata - (Requires a credit card but you won't be charged)
-
-* Use a community account we'll provide during the course
-
 
 ## Course walkthrough / commands
 
