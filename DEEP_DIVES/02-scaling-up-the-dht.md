@@ -1,15 +1,22 @@
 # Scaling up the DHT
 
-What can we do to optimise the performance of our DHT? Are there alternatives?
+Kademlia DHT is a massive distributed KV-store. It isn't reliable but has enormous other benefits.
+Can we find improvements or alternatives that would allow us to improve it futher.
 
 ## Goal
 
-<Define what we would get if the Open Problem(s) are solved for this Deep Dive>
+Finding possible schemes improving or replacing Kademlia DHT for our usecases (IPNS, provider and peer records) which would
+reduce:
+ - DHT lookup time
+ - DHT put time 
+ - Bulk DHT puts
 
-## Requirements to consider
-
-<Do we have requirements (i.e. work with 1MM nodes)?>
+## Requirements to consider:
+ - Large scale network (1Milion+ nodes)
+ - Massive put orders
 
 ## Where to learn about it
 
-<List of talks, links to github issues, code, notes and so on>
+ - https://github.com/libp2p/research-dht/issues/6
+ - https://github.com/libp2p/research-dht
+ - https://github.com/ipfs/notes/issues/291
