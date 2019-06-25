@@ -13,7 +13,17 @@ We’ll show examples of each of these approaches to making a browser truly an a
 
 ## What you will learn with this Course
 
-`TBW`
+Lunet: As close to the dweb as possible using existing web APIs (4 min)
+
+Patchfox: Using browser extensions for IPC with local nodes (4 min)
+
+Libdweb: Adding new extension APIs to enable browsers to be standalone nodes (4 min)
+
+Electron: Building dweb-capable desktop browser-based applications (4 min)
+
+React Native: Building mobile dweb applications with react-native-webview (4 min)
+
+Localhost bridge: Extending existing browser capabilities through companion app (4 min)
 
 ## Preparation for the course
 
