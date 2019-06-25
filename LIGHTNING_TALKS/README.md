@@ -41,8 +41,6 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | <img src="https://avatars1.githubusercontent.com/u/410789?s=460&v=4" width="150" /> | Dmitry Starodubcev ([@xhipster](https://github.com/xhipster))  | CYB: Your personal robot on the Great Web  |
 | <img src="https://avatars0.githubusercontent.com/u/627638?s=460&v=4" width="150" /> | Eric Myhre ([@warpfork](https://github.com/warpfork))  | Solving the distributed naming problem (!) in the applied cases of package management 📦  |
 | <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan)) | go-ds-crdt: CRDT KV stores arrive in go-land  |
-| <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan))  | An IPFS storage driver for the Docker registry  |
-| <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan))  | go-libp2p-gorpc: Simple, permissioned libp2p RPC  |
 | <img src="https://avatars1.githubusercontent.com/u/1154390?s=460&v=4" width="150" /> | Brendan O'Brien ([@b5](https://github.com/b5))  | Using dsync for point-to-point DAG transfer  |
 | <img src="https://avatars3.githubusercontent.com/u/370259?s=460&v=4" width="150" /> | Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Content addressing and personal data sovereignty |
 | <img src="https://avatars0.githubusercontent.com/u/860295?s=460&v=4" width="150" /> | Kinuko Yasuda ([@kinu](https://github.com/kinu)) and Jim Pick ([@jimpick](https://github.com/jimpick)) | Signed exchanges in Chrome |
