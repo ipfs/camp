@@ -6,7 +6,8 @@ Poster Projects are one of the all time favorite IPFS events. These sessions are
 
 This session is inspired by the famous [Feynman Technique](https://collegeinfogeek.com/feynman-technique/), developed by Richard Feynman himself. The technique is simple and powerful, it suggests that for one to understand something well, they need to be able to explain it.
 
-<img src=img/Bitswap.opt.jpg width=300 height=500> <img src=img/IPLD.opt.jpg width=300 height=500>
+<img src=img/Bitswap.opt.jpg width=300 height=500> <img src=img/IPLD.opt.jpg width=300 height=500>  
+[even more posters here](https://gist.github.com/djdv/f8712c70211848e7af23cd8d86c2b320)
 
 These sessions are a lot of fun, and enable you to meet new friends, learn in depth DWeb topics and overall boost your knowledge as a builder.
 
@@ -56,30 +57,30 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 ## Topics
 | # | Topic | Owner |
 | :---: | --- | --- |
-| 1 | [UnixfsV1](topic-unixfsv1.md) | TBD |
-| 2 | [UnixfsV2](topic-unixfsv2.md) | @mikeal |
-| 3 | [The design of the IPFS Repo](topic-IPFS-repo.md) | TBD |
-| 4 | [Swarming (concept)](topic-swarming.md) | TBD |
-| 5 | [Bitswap](topic-bitswap.md) | @jacobheun |
-| 6 | [Pinning & GC on IPFS](topic-pinning-gc.md)| @Kubuxu |
-| 7 | [HTTP gateways](topic-HTTP-gateways.md) | @dietrich |
-| 8 | [go-ipfs Infrastructure](topic-go-ipfs-infra.md) | @stebalien |
-| 9 | [js-ipfs Infrastructure](topic-js-ipfs-infra.md) | @alanshaw |
-| 10 | [Mutable File System (MFS)](topic-MFS.md) | @leshokunin |
-| 11 | [KeyStore](topic-keystore.md) | TBD |
-| 12 | [IPFS Nodes](topic-IPFS-node.md) | @carsonfarmer |
-| 13 | [Rendezvous Protocol](topic-rendezvous-protocol.md) | TBD |
-| 14 | [Libp2p Connection Flow](topic-libp2p.md) | @raulk |
-| 15 | [Circuit Relay](topic-circuit-relay.md)| @ianopolous |
-| 16 | [IPFS DHT](topic-IPFS-DHT.md) | @gpestana |
-| 17 | [IPNS](topic-IPNS.md) | @aschmahmann |
-| 18 | [IPFS/Libp2p content routing](topic-content-provider-records.md) | @bigs |
-| 19 | [IPFS/libp2p PubSub](topic-pubsub.md) | @whyrusleeping  |
-| 20 | [IPFS Cluster](topic-cluster.md) | @meiqimichelle (& maybe @hsanjuan) |
-| 21 | [IPFS HTTP API libs](topic-HTTP-API.md)  | @hugomrdias |
-| 22 | [Core API & ipfsx](topic-highlevel-apis.md) | TBD |
-| 23 | [CRDTs](topic-CRDT.md) | @parkan  |
-| 24 | [Peerpad](topic-peerpad.md) | @jimpick |
+| 1 | [Unixfs](topic-unixfs.md) | @mikeal |
+| 2 | [The design of the IPFS Repo](topic-IPFS-repo.md) | @dignifiedquire |
+| 3 | [Swarming (concept)](topic-swarming.md) | @mburns |
+| 4 | [Bitswap](topic-bitswap.md) | @jacobheun |
+| 5 | [Pinning & GC on IPFS](topic-pinning-gc.md)| @Kubuxu |
+| 6 | [HTTP gateways](topic-HTTP-gateways.md) | @autonome |
+| 7 | [go-ipfs Infrastructure](topic-go-ipfs-infra.md) | @stebalien |
+| 8 | [js-ipfs Infrastructure](topic-js-ipfs-infra.md) | @alanshaw |
+| 9 | [Mutable File System (MFS)](topic-MFS.md) | @leshokunin |
+| 10 | [KeyStore](topic-keystore.md) | @gozala |
+| 11 | [IPFS Nodes](topic-IPFS-node.md) | @carsonfarmer |
+| 12 | [Rendezvous Protocol](topic-rendezvous-protocol.md) | @stefanhans |
+| 13 | [Libp2p Connection Flow](topic-libp2p.md) | @raulk |
+| 14 | [Circuit Relay](topic-circuit-relay.md)| @ianopolous |
+| 15 | [IPFS DHT](topic-IPFS-DHT.md) | @gpestana |
+| 16 | [IPNS](topic-IPNS.md) | @aschmahmann |
+| 17 | [IPFS/Libp2p content routing](topic-content-provider-records.md) | @bigs |
+| 18 | [IPFS/libp2p PubSub](topic-pubsub.md) | @whyrusleeping |
+| 19 | [IPFS Cluster](topic-cluster.md) | @meiqimichelle (& maybe @hsanjuan) |
+| 20 | [IPFS HTTP API libs](topic-HTTP-API.md) | @hugomrdias |
+| 21 | [Core API & ipfsx](topic-highlevel-apis.md) | @olizilla |
+| 22 | [CRDTs](topic-CRDT.md) | @parkan |
+| 23 | [PeerPad internals](topic-peerpad.md) | @jimpick |
+| 24 | [Textile internals](topic-textile.md) | @andrewxhill |
 | 25 | [IPLD Resolver](topic-IPLD-resolvers.md) | @lanzafame |
 | 26 | [IPLD Selectors](topic-IPLD-selectors.md) | @maparent |
 | 27 | [DAG walking facilities in IPLD](topic-DAG-walking-in-IPLD.md) | @warpfork |
@@ -88,7 +89,7 @@ Poster teams should have a maximum of 4 people and a minimum of 2. People will c
 | 30 | [NPM-on-IPFS](topic-NPM-on-IPFS.md) | @achingbrain|
 
 ## Topic description template
-(File these under `camp/POSTER_PROJECTS/topic-<topic-name>.md`)
+(If you would like to propose a topic, add them under `camp/POSTER_PROJECTS/topic-<topic-name>.md`)
 ```markdown
 # <TOPIC NAME>
 

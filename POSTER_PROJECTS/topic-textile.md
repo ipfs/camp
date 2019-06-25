@@ -1,5 +1,6 @@
-# PeerPad internals
-PeerPad is a decentralized editor that allows concurrent writing of text. Besides making live changes to a given document, it allows read-only nodes to follow the changes in real-time.
+# Textile Internals
+Textile is a set of tools and trust-less infrastructure for building censorship resistant and privacy preserving applications.
+
 
 ## Goal
 
@@ -9,12 +10,12 @@ Use whatever resources available to you, in order to come up with a visual repre
 
 <Series of questions which the group should try to answer>
 
-- What technologies does PeerPad use? (libp2p, CRDTs, etc.)
+- What technologies does Textile use? (libp2p, CRDTs, etc.)
 - How do these technologies map to features of the project?
 - What are other uses of these patterns?
 
 ## Where to learn about it
 
-<https://peerpad.net/#/>  
-<https://github.com/ipfs-shipyard/peer-pad>  
-<https://github.com/ipfs/research-CRDT>  
+<https://textile.io/>  
+<https://github.com/textileio/>  
+<https://docs.textile.io/>
