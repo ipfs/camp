@@ -23,6 +23,11 @@ Ways to use IPFS as a building block in your application:
 ## Preparation for the course
 
 - Stay hydrated
-- Ensure `ipfs` command is available in your system, if possible
-  - Suggested: install [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop#ipfs-desktop) (GUI+CLI for MacOS/Windows/Linux)
-  - Alternative: [go-ipfs](https://docs.ipfs.io/introduction/usage/) (just CLI)
+- Bring your laptop
+- Firefox or Chromium-based browser
+- Optional (if you prefer working locally) 
+  - Have git installed, [https://git-scm.com/downloads](https://git-scm.com/downloads).
+  - [Node.js >= 10 installed + npm >= 6 installed.](https://nodejs.org/en/download/)
+  - Ensure `ipfs` command is available in your system, if possible
+    - Suggested: install [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop#ipfs-desktop) (GUI+CLI for MacOS/Windows/Linux)
+    - Alternative: [go-ipfs](https://docs.ipfs.io/introduction/usage/) (just CLI)
