@@ -18,6 +18,7 @@ Do you fancy Science Fairs? Always felt that there was something missing? Someth
 | ENS | @makoto | resolving ENS/IPFS with DNS |
 | IPFS Spider | @magnshen | crawling the IPFS network |
 | Cluster Labs Horizon + more | @vasa-develop | viz for the RPi cluster + more |
+| libp2p-bt-le | @aeddi | IPFS over other kinds of radio! |
 
 ## Instructions
 
