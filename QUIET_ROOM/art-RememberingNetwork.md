@@ -1,4 +1,4 @@
-# Seed Me Forever
+# Remembering network
 
 **A memorial to biodiversity loss, hosted on the p2p web**
 
@@ -6,6 +6,6 @@ There are 41,415 species on the International Union for Conservation of Nature�
 
 Take a deep breath and hold that in your mind. As we try to preserve and rebuild our world, we must also bear witness to the losses that came from our past carelessness. 
 
-The Svalbard Global Seed Vault is a highly secure seed bank meant to preserve genetic information for future civilizations located on a remote island in Norway. Increasingly, it serves as a memorial, but it’s not accessible to most people as anything more than an idea. Seed me forever is also a kind of monument - but one that is collaborative, local-first, diverse, and resilient - to lost and threatened wildlife. It will contain crowdsourced images and genetic information of currently threatened and endangered animals. 
+The Svalbard Global Seed Vault is a highly secure seed bank meant to preserve genetic information for future civilizations located on a remote island in Norway. Increasingly, it serves as a memorial, but it’s not accessible to most people as anything more than an idea. Remembering network is also a kind of monument - but one that is collaborative, local-first, diverse, and resilient - to lost and threatened wildlife. It will contain crowdsourced images and genetic information of currently threatened and endangered animals. 
 
 Attendees are invited to submit images of animals, to be packaged in archives on ipfs and other peer to peer protocols. Much like the seed bank, which is built to withstand many kinds of extreme climate and weather, peer to peer protocols are similarly designed to withstand network failures and takedown attempts. We'll put our memorial in the safest place we know: all over the world, everywhere.
