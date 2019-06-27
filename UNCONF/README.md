@@ -12,6 +12,14 @@ What's an unconf? An unconference! Unconf sessions are ad-hoc, participant-organ
 
 **If you want to join an unconf session**: Keep an eye on the Unconf Wall for sessions that sound interesting to you! Each page posted on the wall for a proposed session will have tear-off tabs at the bottom (ever seen a "lost dog" poster? Like that), and if a session sounds like fun to you, simply tear off one of the tabs to indicate your interest (and to remind you later which sessions you might want to go to!).
 
+## Timing
+
+Our unconf time on Saturday will be split into two halves so that presenters will still have time to attend sessions, too:
+- 16:30-17:20
+- 17:30-18:20
+
+Hosts, the Unconf Wall will have all the details you need in order to sign up for the best time for you!
+
 ## Overview
 
 - **Objective**: Create a space to host all sorts of discussions to be had in person that didn’t fit all the other sessions, or that expand on sessions

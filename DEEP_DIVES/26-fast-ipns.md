@@ -4,12 +4,15 @@ How to increase the IPNS resolution speed
 
 ## Goal
 
-<Define what we would get if the Open Problem(s) are solved for this Deep Dive>
+- We should be able to come up with new ways to publish/resolve IPNS records or improve the existing ones. 
+- We should be able to describe strategies to handle multiple ways to publish and resolve.
 
 ## Requirements to consider
 
-<Do we have requirements (i.e. work with 1MM nodes)?>
+- We need to achieve either flexibility or a good balance between speed and freshness.
+- We need at least one way to publish/resolve from the browser.
 
 ## Where to learn about it
 
-<List of talks, links to github issues, code, notes and so on>
+- https://github.com/ipfs/specs/issues/198
+- https://github.com/ipfs/specs/blob/master/naming/README.md

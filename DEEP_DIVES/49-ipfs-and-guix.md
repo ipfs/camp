@@ -1,6 +1,6 @@
-# Better File Chunking
+# IPFS and GUIX
 
-<Short summary of topic including Open Problem(s) to solve>
+Exploration into existing or potential issues with integrating IPFS with GUIX and more generally what can be done to resolve them in a way that might be beneficial to other package managers.
 
 ## Goal
 

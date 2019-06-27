@@ -4,7 +4,7 @@ IPFS uses a Distributed Hash Table (DHT) to keep track of various types of data,
 
 ## Goal
 
-<Define the goal for this poster: What information will it convey, demonstrate, etc.>
+Use whatever resources available to you, in order to come up with a visual representation of the topic that can be projected on to a poster (similar in spirit to the [poster description](README.md#description) but with whatever creative freedom your group prefers :^)
 
 ## Questions to Answer
 

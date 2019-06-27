@@ -4,12 +4,13 @@ https://github.com/ipfs/unixfs-v2/blob/master/SPEC.md, https://github.com/ipfs/r
 
 ## Goal
 
-<Define what we would get if the Open Problem(s) are solved for this Deep Dive>
+Fix all the things we don’t like about UnixFsv1.
 
 ## Requirements to consider
 
-<Do we have requirements (i.e. work with 1MM nodes)?>
+A lot of recent work in IPLD can be leveraged to solve most of the issues we have with UnixFSv1.
 
 ## Where to learn about it
 
-<List of talks, links to github issues, code, notes and so on>
+* Spec https://github.com/ipfs/unixfs-v2/pull/27
+* Implementation https://github.com/ipld/js-unixfsv2/pull/3

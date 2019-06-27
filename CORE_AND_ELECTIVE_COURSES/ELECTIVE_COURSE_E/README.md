@@ -4,16 +4,24 @@
 
 ## Trainers
 
-| **Matt Ober**                                      	| **Michael Burns**                                     	| **N/A**                      	|
+| **Matt Ober**                                      	| **Michael Burns**                                     	| **Jakub Sztandera**                      	|
 |----------------------------------------------------	|-------------------------------------------------------	|------------------------------	|
-| ![](https://avatars2.githubusercontent.com/u/7811297) 	| ![](https://avatars2.githubusercontent.com/u/5170) 	| ![](https://avatars1.githubusercontent.com/u/583231)                     	|
-| [@obo20](https://github.com/obo20/)                	| [@mburns](https://github.com/mburns)                  	| [@na](https://github.com/na) 	|
+| ![](https://avatars2.githubusercontent.com/u/7811297) 	| ![](https://avatars2.githubusercontent.com/u/5170) 	| ![](https://avatars3.githubusercontent.com/u/2259282)                     	|
+| [@obo20](https://github.com/obo20/)                	| [@mburns](https://github.com/mburns)                  	| [@kubuxu](https://github.com/Kubuxu) 	|
 
 ## What you will learn with this Course
 
 * How to deploy an IPFS node using a cloud provider
 * How to configure that node for your specific use case
 * Tips and tricks for running IPFS infrastructure in the cloud
+
+## Preparation for the course
+
+We will use Digital Ocean, a Cloud service to host our remote and public IPFS node. To successfully complete this course, you will need to create a **Digital Ocean account**:
+
+* Sign up for an account preloaded with $50 in free credits with this link: https://do.co/pinata - (Requires a credit card but you won't be charged)
+
+--------------------------- 
 
 ## Course walkthrough / commands
 
@@ -37,11 +45,19 @@ To copy your SSH Key, do either of these:
 ### Connecting to your droplet
 In your terminal type: `ssh root@your_droplet_ip`
 
+( You'll need to type `yes` when ssh-ing into your node for the first time )
+
 You should now be connected to your droplet!
 
+### Updating your droplet
 Now, in your terminal type:
 1) `apt-get update`
 2) `apt-get upgrade`
+
+    2.1. If you get a pink screen asking whether to automatically restart, hit `LEFT ARROW` and then `ENTER`
+
+    2.2. If you get another pink screen asking for a confirmation, hit `ENTER`
+  
 3) `apt autoremove`
 4) `shutdown -r 0`
 
@@ -62,6 +78,7 @@ In your terminal:
 1) Install the latest ipfs version with: `ipfs-update install latest`
 2) Initialize ipfs with `ipfs init --profile server`
 3) Check that IPFS was installed with: `ipfs daemon`
+4) Hit `CTRL + C` to end the process
 
 ### Keeping IPFS running
 
@@ -72,7 +89,7 @@ In your terminal:
 [Unit]
 Description=IPFS Daemon
 [Service]
-ExecStart=/root/go/bin/ipfs daemon --enable-gc
+ExecStart=/usr/local/bin/ipfs daemon --enable-gc
 Restart=always
 Environment="IPFS_PATH=/root/.ipfs"
 [Install]
@@ -83,8 +100,17 @@ WantedBy=multi-user.target
 #### Enable the system service
 1) Reload your system with: `systemctl daemon-reload`
 2) Enable your new service with: `systemctl enable ipfs`
-3) Start your new service with: `systemctl enable ipfs`
+3) Start your new service with: `systemctl start ipfs`
 4) Test that this succeeded with: `systemctl status ipfs`
+
+### Pinning content 
+1) In your terminal type: `ipfs pin add -r --progress QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ`
+
+### Viewing that content with your own gateway
+1) In your terminal expose your gateway with: `ipfs config Addresses.Gateway /ip4/0.0.0.0/tcp/8080`
+2) Now restart ipfs with: `systemctl restart ipfs`
+3) Now in your browser go to http://yourDropletIp:8080/ipfs/QmWcLKHWqrRB95zQnb4vX8RRgoGsVm5YAUHyZyiAw4mCMQ
+
 
 ## Bonus written guide for attendees to refer back to
 https://medium.com/pinata/how-to-deploy-an-ipfs-node-on-digital-ocean-c59b9e83098e
