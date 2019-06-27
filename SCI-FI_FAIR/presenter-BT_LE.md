@@ -1,5 +1,5 @@
 # What is the NAME of your project?
-libp2p-bt-le
+libp2p-ble-transport
 
 # What DOES THE PROJECT DO/what will you SHOW?
 libp2p transport over Bluetooth Low Energy
@@ -8,10 +8,10 @@ libp2p transport over Bluetooth Low Energy
 Antoine Eddi (@aeddi)
   
 # WHAT EQUIPMENT will you need?
-_The standard equipment is a table with a power strip. We can provide a MONITOR if needed (specify it now so we can rent one). OTHER EQUIPMENT or materials can also be provided within reason -- we want this fair to be distinctly more fun than the average conference poster session so creative execution ideas are welcome! Please include any ASSISTIVE DEVICES needed._
+We already have everything we need :)
 
 # Do you have a LOGO/HERO IMAGE for the main projector?
-?
+Yes
 
 # Any other QUESTIONS or SUGGESTIONS?
-?
+Nope
