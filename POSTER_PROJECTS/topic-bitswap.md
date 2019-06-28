@@ -20,3 +20,4 @@ Use whatever resources available to you, in order to come up with a visual repre
 <https://github.com/ipfs/specs/tree/master/bitswap>  
 <https://github.com/ipfs/go-bitswap>  
 <https://github.com/ipfs/js-ipfs-bitswap>
+<https://github.com/ipfs/specs/tree/master/bitswap>
