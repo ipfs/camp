@@ -33,7 +33,7 @@ This stuff can be done in groups!
 - macOS and Linux
   - Extract the tarball (manually or via...)
   ```
-  tar xvfz go-textile_0.4.0_{os}-amd64.tar.gz`)
+  tar xvfz go-textile_0.5.3_{os}-amd64.tar.gz`)
   ```
   - Move `textile` anyplace in your `PATH` (or via...)
   ```
