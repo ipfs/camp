@@ -45,16 +45,16 @@ relevant parts.
 0. Start your `ipfs` daemon (with the terminal or with IPFS Desktop should be ok).
 1. Create a `cluster-workshop` and donwload the following files in it.
 1. Download `ipfs-cluster-service`:
-   1. For Mac download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc3/ipfs-cluster-service_v0.11.0-rc3_darwin-amd64.tar.gz
-   2. For Linux download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc3/ipfs-cluster-service_v0.11.0-rc3_linux-amd64.tar.gz
-   3. For Windows download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc3/ipfs-cluster-service_v0.11.0-rc3_windows-amd64.zip
-   4. For other platforms check: http://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc3
+   1. For Mac download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc5/ipfs-cluster-service_v0.11.0-rc5_darwin-amd64.tar.gz
+   2. For Linux download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc5/ipfs-cluster-service_v0.11.0-rc5_linux-amd64.tar.gz
+   3. For Windows download: https://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc5/ipfs-cluster-service_v0.11.0-rc5_windows-amd64.zip
+   4. For other platforms check: http://dist.ipfs.io/ipfs-cluster-service/v0.11.0-rc5
 
 2. Similarly, download `ipfs-cluster-ctl`:
-   1. For Mac download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc3/ipfs-cluster-ctl_v0.11.0-rc3_darwin-amd64.tar.gz
-   2. For Linux download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc3/ipfs-cluster-ctl_v0.11.0-rc3_linux-amd64.tar.gz
-   3. For Windows download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc3/ipfs-cluster-ctl_v0.11.0-rc3_windows-amd64.zip
-   4. For other platforms check: http://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc3
+   1. For Mac download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc5/ipfs-cluster-ctl_v0.11.0-rc5_darwin-amd64.tar.gz
+   2. For Linux download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc5/ipfs-cluster-ctl_v0.11.0-rc5_linux-amd64.tar.gz
+   3. For Windows download: https://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc5/ipfs-cluster-ctl_v0.11.0-rc5_windows-amd64.zip
+   4. For other platforms check: http://dist.ipfs.io/ipfs-cluster-ctl/v0.11.0-rc5
 
 3. Extract the downloaded `tar.gz` or `zip` files in a `cluster-workshop` folder (i.e. `tar -xf <file>`). You should endup with something like:
 
@@ -64,12 +64,12 @@ cluster-workshop/
     ipfs-cluster-ctl
     LICENSE
     README.md
- ipfs-cluster-ctl_v0.11.0-rc3_linux-amd64.tar.gz
+ ipfs-cluster-ctl_v0.11.0-rc5_linux-amd64.tar.gz
  ipfs-cluster-service
     ipfs-cluster-service
     LICENSE
     README.md
- ipfs-cluster-service_v0.11.0-rc3_linux-amd64.tar.gz
+ ipfs-cluster-service_v0.11.0-rc5_linux-amd64.tar.gz
 
 2 directories, 8 files
 ```
@@ -112,3 +112,15 @@ cluster-workshop/
 ```
 
 7. That's all! From this point you can follow the instructions from the workshop slides!
+
+
+
+## Start your cluster peer
+
+During the workshop you will be asked to start your cluster peer.
+
+You can copy the command from here:
+
+```
+./ipfs-cluster-service daemon --consensus crdt  --bootstrap /dnsaddr/workshop.cluster.ipfs.io
+```
