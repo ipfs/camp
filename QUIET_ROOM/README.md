@@ -13,4 +13,6 @@ Come to the room, interact with the art installation, listen to the birds, medit
 
 ## Art
 
-There will be an art installation in the quiet room called [Seed Me Forever](art-SeedMeForever.md)
+
+There will be an art installation in the quiet room called [Remembering Network](art-RememberingNetwork.md)
+
