@@ -22,59 +22,59 @@
 
 - **Pain point:** Dependencies
 
-  1. Not being able to reproduce a known working set of dependencies at a later date
+  1. [Not being able to reproduce a known working set of dependencies at a later date](dependencies-laterdate.jpg)
   
 - **Pain points:** Security, verifiability and trust 
 
-  2. Can’t confirm package contents are as originally published
-  3. Hard to coordinate key-signing infra between maintainers
+  2. [Can’t confirm package contents are as originally published](security-aspublishedbyauthor.jpg)
+  3. [Hard to coordinate key-signing infra between maintainers](security-keysigning.jpg)
   
 - **Pain points:** Reliability and availability
 
-  4. Package releases get removed from registries
-  5. Can’t install or build packages when you’re offline
+  4. [Package releases get removed from registries](reliability-packagesremoved.jpg)
+  5. [Can’t install or build packages when you’re offline](reliability-offlineavailability.jpg)
   
 - **Pain point:** Cost
 
-  6. Hosting internal/private mirrors costs in both time and maintenance/infrastructure 
+  6. [Hosting internal/private mirrors costs in both time and maintenance/infrastructure](cost-mirroring.jpg) 
 
 - **Potential benefit:** Ease of use
 
-  7. Easier (and therefore less costly) to mirror a registry
+  7. [Easier (and therefore less costly) to mirror a registry](easeofuse-mirroring.jpg)
   
 - **Potential benefits:** Resource savings 
 
-  8. Save bandwidth by reducing re-downloads
-  9. Minimise storage requirements by de-duping contents
+  8. [Save bandwidth by reducing re-downloads](resourcesavings-reduceredownloads.jpg)
+  9. [Minimise storage requirements by de-duping contents](resourcesavings-dedupe.jpg)
   
 - **Potential benefit:** Performance
 
-  10. Faster to download from IPFS-powered registries/mirrors
+  10. [Faster to download from IPFS-powered registries/mirrors](performance-speed.jpg)
   
 - **Potential benefits:** Offline availability
 
-  11. Better resilience to network problems during installations
-  12. Possible to install and verify packages when offline
+  11. [Better resilience to network problems during installations](offlineavailability-networkproblems.jpg)
+  12. [Possible to install and verify packages when offline](offlineavailability-install.jpg)
   
 - **Potential benefit:** Reproducibility
 
-  13. Easy to declare/verify the provenance of everything you run
+  13. [Easy to declare/verify the provenance of everything you run](reproducibility-provenance.jpg)
   
 - **Potential benefits:** Forkability
 
-  14. Users can easily fork existing registries
-  15. Users can easily start their own registries
+  14. [Users can easily fork existing registries](forkability-forkregistries.jpg)
+  15. [Users can easily start their own registries](forkability-startregistries.jpg)
   
 - **Potential benefits:** User-hosted
 
-  16. Users can replicate and provide packages they care about
-  17. Users automatically cache items that they rely on
+  16. [Users can replicate and provide packages they care about](userhosted-favoritepackages.jpg)
+  17. [Users automatically cache items that they rely on](userhosted-caching.jpg)
   
 - **Potential benefits:** Decentralised publishing
 
-  18. Community doesn’t need to rely on centralised registries
-  19. Users can publish directly to IPFS
-  20. Not as many central points of failure — or of trust
+  18. [Community doesn’t need to rely on centralised registries](decentralizedpub-fewercentralregistries.jpg)
+  19. [Users can publish directly to IPFS](decentralizedpub-publishtoipfs.jpg)
+  20. [Not as many central points of failure — or of trust](decentralizedpub-fewercentralpoints.jpg)
 
 
 ## Key takeaways from ranking exercise
