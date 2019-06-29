@@ -33,3 +33,4 @@ Process data efficiently (low cost, low latency) in a permissionless network.
 
 ## Notes
 
+https://github.com/ipfs/camp/files/3341983/IPFS.deep.dive.pdf
