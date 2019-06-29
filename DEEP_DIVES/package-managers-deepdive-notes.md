@@ -1,3 +1,5 @@
+# Package Managers Deep Dive: Writeup and Notes
+
 ## Participants
 - Victor Grishchenko, [@gritzko](https://github.com/gritzko)
 - Molly Mackinlay, [@momack2](https://github.com/momack2)
