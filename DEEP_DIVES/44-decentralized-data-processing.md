@@ -30,3 +30,6 @@ Process data efficiently (low cost, low latency) in a permissionless network.
 - https://martin.kleppmann.com/2019/05/15/local-first-kaiserslautern.html
 - https://martin.kleppmann.com/2019/05/15/encrypted-crdts.html
 - https://www.inkandswitch.com/local-first.html
+
+## Notes
+
