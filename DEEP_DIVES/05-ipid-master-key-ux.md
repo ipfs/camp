@@ -24,3 +24,32 @@ Moreover, and if we have the time, come up with ideas for alternative ways to st
 - [DIDs](https://w3c-ccg.github.io/did-spec/)
 - [IPID](https://did-ipid.github.io/ipid-did-method)
 - [IPNS](https://docs.ipfs.io/guides/concepts/ipns/)
+
+## Participants
+
+- André Cruz [@satazor](https://github.com/satazor)
+- Masakazu Tanami [@tanamim](https://github.com/tanamim)
+- Dima Starodubcev [@xhipster](https://github.com/xhipster)
+
+## Notes
+
+There are two key risks associated with key management:
+
+- Stolen keys
+- Lost keys
+
+Any solution is a trade-off between simpicity and security. Our solution is to establish a multi-layered approach to reconstruct a master key, where the layers are:
+
+- **Something you know**:
+    - Memory based
+    - Any set of pictures, videos, music or phrases that trigger your memory into the right answer
+- **Something you have**:
+    - Something stored with you in a physical device (such as a phone or laptop) or in any other form (such as in a paper or metal plate)
+- **Something you are**:
+    - Combination of fingerprint, iris, DNA, facial attributes, etc.
+- **Something you delegated**:
+    - Something you delegate to somebody you trust, like friends, family, attorneys or custody services
+
+Then, we can leverage The M of N control policy to reconstruct the Master Key using the methods above. This is a just an idea that needs technical research for the viability of building an algorithm capable of achieving this.
+
+Even if there's viability from the technical side of things, setting up all these different layers is complicated to users. We would need also conduct UI/UX research on how we could make the overall process accessible for everyone.
