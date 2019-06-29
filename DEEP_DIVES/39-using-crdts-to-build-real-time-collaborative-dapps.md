@@ -27,4 +27,5 @@ Peer-base is a system that enables developers to building data structures from d
 * https://github.com/amark/gun
 * https://github.com/automerge/automerge
 * https://github.com/gritzko/swarm
-
+* https://github.com/mafintosh/hyperdb
+* https://medium.com/textileio/wip-textile-threads-whitepaper-just-kidding-6ce3a6624338
