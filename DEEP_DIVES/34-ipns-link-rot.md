@@ -4,12 +4,18 @@ Right now, IPNS needs to be refreshed by original publisher every day, otherwise
 
 ## Goal
 
-<Define what we would get if the Open Problem(s) are solved for this Deep Dive>
+A method for keeping IPNS records alive after the publisher goes offline.
 
 ## Requirements to consider
 
-<Do we have requirements (i.e. work with 1MM nodes)?>
+* Is it possible for _someone else_ to re-publish an IPNS record they don't own?
+    * How do we avoid nodes being a delegated re-publisher for EVERY IPNS record?
+    * How long should a delegate continue to republish?
+    * How to halt delegated republishing?
+* Should I have an option to republish IPNS records of my own accord?
+    * How I do know which records to republishing?
+    * How I do know when to stop republishing?
 
 ## Where to learn about it
 
-<List of talks, links to github issues, code, notes and so on>
+https://github.com/ipfs/specs/tree/master/naming
