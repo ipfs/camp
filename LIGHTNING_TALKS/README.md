@@ -54,7 +54,6 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 | ------------- | ------------- | ------------- |
 | <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="150" /> | Gonçalo Pestana ([@gpestana](https://github.com/gpestana)) | Privacy in P2P networks: DHTs and IPFS |
 | <img src="https://avatars2.githubusercontent.com/u/81581?s=460&v=4" width="150" /> | Victor Grishchenko ([@gritzko](https://github.com/gritzko))  | An overview of RON  |
-| <img src="https://avatars1.githubusercontent.com/u/8660482?s=460&v=4" width="150" /> | Stefan Hans ([@stefanhans](https://github.com/stefanhans)) | Thoughts about contexting |
 | <img src="https://avatars3.githubusercontent.com/u/248257?s=460&v=4" width="150" /> | Rüdiger Klaehn ([@rklaehn](https://github.com/rklaehn))  | Actyx's experiences on building with IPFS  |
 | <img src="https://avatars3.githubusercontent.com/u/11004800?s=460&v=4" width="150" /> | Jonathan Budd ([@cesarosum](https://github.com/cesarosum)) | Peergos: E2E encrypted storage and social network on IPFS |
 | <img src="https://avatars3.githubusercontent.com/u/1017236?s=460&v=4" width="150" /> | André Cruz ([@satazor](https://github.com/satazor)) | Introducing Nomios |
