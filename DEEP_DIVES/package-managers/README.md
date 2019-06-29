@@ -78,6 +78,8 @@
 
 
 ## Key takeaways from ranking exercise
+
+For the dot-ranking exercise, we discussed each of the 20 pain points/potential benefits individually, but focused the discussion on the items in which the dots were divergent between participants. Since our participants came from a variety of backgrounds and areas of focus -- particularly in that we had a mix of package manager users of various backgrounds and preferred languages, as well as a package manager maintainer -- the most interesting nuances were to be found in the areas where opinions differed. See the below for key takeaways.
 *Source: @achingbrain*
 
 - Connectivity is important, eg. working offline
