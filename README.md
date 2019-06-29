@@ -12,7 +12,7 @@ For 📸 Photos, join our [Textile feed with this invite url](https://www.textil
 
 You can upload photos, videos, documents, etc. at our [public Peergos folder](https://alpha.peergos.net/#6MDZhRRPT4ugkJuUfcP12suSaesn7NQbhXPgso4xQHSmcPdtqcZzxow4jUWUnt/6MDZhRRPT4ugkJuUfcRm7NkdVKjjHRqXKs6zQiXFTAYvkjVeMy7ArynWvX7kyM/J2GwDq4QrxuN3gW9tfS1r7RvKzHzGkoX6uTzw9XmMikD/5Pf7SvDMcknYfgfaBmBzC6wrxrFUMLTPCnXsQj6BvsWi9kTqE8B/5Pf7SugU4Jr1othwSwEFSwTy6JgEV5vaCJ4tfgoJWP6ipYQ1T6T).
 
-You can edit an [\_Prtcl-powered](www.uprtcl.io) shared notepad for the IPFS Camp. Just make sure you have a web3 provider (like Metamask) connected to the Rinkeby Testnet and head to [The Notepad](http://demo.uprtcl.io).
+You can edit an [\_Prtcl-powered](www.uprtcl.io) shared notepad for the IPFS Camp. Just make sure you have a web3 provider (like Metamask) connected to the Rinkeby Testnet and head to [The Notepad](https://demo.uprtcl.io).
 
 ## Schedule Overview
 
