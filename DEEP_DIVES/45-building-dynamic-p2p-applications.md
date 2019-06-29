@@ -35,6 +35,10 @@ Messages should be able to be delivered to well-connected nodes in at most 1 sec
 for topics with under 10 connected subscribers, and at most 5 for ~1000 connected
 subscribers
 
+## Preparation
+
+It will be helpful to have radicle installed. How to do so is described [here](https://radicle.xyz/docs/index.html#installation-setup)
+
 ## Where to learn about it
 
 - Radicle website: https://radicle.xyz/
