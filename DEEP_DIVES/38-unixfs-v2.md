@@ -1,6 +1,7 @@
 # UnixFS v2
 
-https://github.com/ipfs/unixfs-v2/blob/master/SPEC.md, https://github.com/ipfs/roadmap/issues/19
+* https://github.com/ipfs/unixfs-v2/blob/master/SPEC.md
+* https://github.com/ipfs/roadmap/issues/19
 
 ## Goal
 
@@ -8,9 +9,13 @@ Fix all the things we don’t like about UnixFsv1.
 
 ## Requirements to consider
 
-A lot of recent work in IPLD can be leveraged to solve most of the issues we have with UnixFSv1.
+![Page-01](https://user-images.githubusercontent.com/579/60385365-c0a85d80-9a88-11e9-82e1-ef94aa07f849.jpeg)
+![Page-02](https://user-images.githubusercontent.com/579/60385367-c56d1180-9a88-11e9-94c0-d9e56e8795c9.jpeg)
+![Page-03](https://user-images.githubusercontent.com/579/60385369-c9992f00-9a88-11e9-8a61-f846cc529d1b.jpeg)
+![Page-04](https://user-images.githubusercontent.com/579/60385371-cdc54c80-9a88-11e9-9847-9a68444c9349.jpeg)
 
-## Where to learn about it
+## Solution!
 
 * Spec https://github.com/ipfs/unixfs-v2/pull/27
 * Implementation https://github.com/ipld/js-unixfsv2/pull/3
+* Collaborate with https://kolmold.org who have been implementing very similar things for other use cases
