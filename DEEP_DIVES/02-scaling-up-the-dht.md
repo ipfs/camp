@@ -23,6 +23,8 @@ reduce:
 
 ## ==================================================>
 
+### team: @Stebalien @MichaelMure @gregdhill @obo20
+
 ## Nature of the problem
 1. A large number of the nodes in peer-tables are behind NATs
 2. Even if we can predict/know which nodes are behind NATs, other (potentially) malicious nodes could become unresponsive
@@ -53,3 +55,4 @@ Nodes will assign a peer "score" to each node in its peer table (a.k.a Peer or p
 - build a model of the network and run simulations with different parameters to verify convergence and performance improvement properties (i.e. what if 80% of the nodes are behind NATs, what if 20% vs. 60% nodes go offline/online evert 3 hrs vs 5 hrs)
 - further brainstorm on failure modes and attack vectors war gaming
 - build a dynamic optimization model using ML / Domain knowledge, hooked into a real time feed of network data to find and set optimal hyper-parameters (i.e. if the network nodes is switching on/off more, increase explore vs. exploit ratio; N for number of performing peers to keep etc... )
+
