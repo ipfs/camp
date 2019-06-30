@@ -2,6 +2,13 @@
 
 libp2p is currently stream-oriented. We want to enable message-oriented communication (e.g. UDP). Help us envision what the APIs would look like, and how an application could simultaneously hold stream-based and message-based conversations with peers in the world via libp2p.
 
+## Participants
+
+- Hlib Kanunnikov
+- Gonçalo Pestana
+- João Santos
+- Cole Brown
+
 ## Goal
 
 By specifying a protocol and architecture for a message-passing layer for libp2p, we can drastically simplify the implementation of protocols like Kademlia, various PubSub implementations, and more! Such a system would be an alternative to the streaming capabilities of libp2p. We will explore implementation details and questions such as:
