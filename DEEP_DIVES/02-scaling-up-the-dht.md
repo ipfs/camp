@@ -22,8 +22,8 @@ reduce:
  - https://github.com/ipfs/notes/issues/291
 
 ## ==================================================>
-
-### team: @Stebalien @MichaelMure @gregdhill @obo20
+ 
+### team: @Stebalien @koalalorenzo @prtfw @obo20 @MichaelMure @gregdhill
 
 ## Nature of the problem
 1. A large number of the nodes in peer-tables are behind NATs
