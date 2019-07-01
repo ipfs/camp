@@ -23,6 +23,10 @@ are a good start.
 
 Here's the process we went through to come up with a list of potential improvements for an app.
 
+### Introduction to Design Thinking
+
+@leshokunin gave the group an introduction to the core ideas in Design Thinking and took us through the design process used at Stanford Design School.
+
 ### First impressions
 
 Everyone was asked to thank about "what is this for?", and comment on their expectations while navigating through the app 
@@ -41,7 +45,7 @@ The process above was super-helpful in understanding how user experience can div
 
 ## Peergos user testing
 
-Four interplanetary campers had a go at using Peergos for the very first time on both mobile and web. Here are the results of the user testing.
+Four interplanetary campers (@aksanoble, @makoto, @aquigorka, @twoirtter) had a go at using Peergos for the very first time on both mobile and web. Here are the results of the user testing.
 
 ### Impressions
 
@@ -60,7 +64,7 @@ Four interplanetary campers had a go at using Peergos for the very first time on
 
 ### How should it work and jobs to be done
 
-Gorka
+@aquigorka
 
 1. Should be as seamless as going into any browser and dragging and dropping between file browser.
 2. Context menu -- when you right-click 
@@ -69,13 +73,13 @@ Gorka
 5. Only people who you've shared the folder with could read/write to the folder.
 6. Dropbox without Dropbox.
 
-Akshay
+@aksanoble
 
-1. Immediately share content with someone over a LAN (dropbox for LAN)
+1. Immediately share content with someone over a LAN (Dropbox for LAN)
 2. Find a name for someone nearby, click send, they go to a page and can then download it immediately (encrypted on the way).
 3. Mesh network solution
 
-Victor
+@twoirtter
 
 1. Sharing securely - it first tells me that I am in a safe environment. Need a visualization of "safety". Files are transformed and given a logo. 
 2. When it is sent, something that shows it was shared securely. 
@@ -83,15 +87,15 @@ Victor
 4. Has the recipient received it?
 5. OK when uploading should be 'Dismiss'
 
-Makoto
+@makoto
 
 1. Some visual handshake to verify that the person you are sharing with is who you think they are. 
 2. Some verification task?
 3. Would probably end up verifying over some channel before sharing.
-4. Need a shiboleth
-5. Finds keybase super-annoying (can copy text but can't take a screen shot)
+4. Need a shibboleth
+5. Finds Keybase super-annoying (can copy text but can't take a screen shot)
 
-Ramine
+@leshokunin
 
 1. Visualizations of encryption, manifest of what has been shared.
 2. Key folder.
