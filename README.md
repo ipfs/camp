@@ -1,24 +1,15 @@
 <p align="center">
   <a href="https://camp.ipfs.io">
-    <img src="https://gateway.ipfs.io/ipfs/QmfWNnayqgzFKP3Lf4Ganka5fxjwitVHD7fPgsL7qnR2As" alt="IPFS Camp Banner" width="400" />
+    <img src="https://gateway.ipfs.io/ipfs/QmfWNnayqgzFKP3Lf4Ganka5fxjwitVHD7fPgsL7qnR2As" alt="IPFS Camp Banner" width="250" />
   </a>
 </p>
 <br/>
 
-### Join the chat at #ipfs-camp@freenode using any IRC client or [through the Matrix bridge](https://riot.im/app/#/room/#freenode_#ipfs-camp:matrix.org)
+IPFS Camp 2019 is over! Thank you to everyone that joined us for 3 days of amazing conferencing, we are so proud and joyful for being part of such a wonderful community.
 
-#### Photos and media
-For 📸 Photos, join our [Textile feed with this invite url](https://www.textile.photos/invites/new#id=QmNfArKoyCUN5z32P9v3ZkHrhnBa8oT3MJm6gGCumnQN8v&key=26s37NuiZWJ6Eforqk7ufGQhBscyQVeQhcSiEFMw3CpXe4pmBjt9B6uuFQVKp&inviter=P4obBwkeJZvQuB2S4grkFNugfXC1Ab9j6fMW18GKgB3ddMoc&name=IPFS%20Camp%202019&referral=MSCES)
+If you missed IPFS Camp or want to revisit its content, everything will remain available in this repo. Soon we will start publishing the videos as well.
 
-You can upload photos, videos, documents, etc. at our [public Peergos folder](https://alpha.peergos.net/#6MDZhRRPT4ugkJuUfcP12suSaesn7NQbhXPgso4xQHSmcPdtqcZzxow4jUWUnt/6MDZhRRPT4ugkJuUfcRm7NkdVKjjHRqXKs6zQiXFTAYvkjVeMy7ArynWvX7kyM/J2GwDq4QrxuN3gW9tfS1r7RvKzHzGkoX6uTzw9XmMikD/5Pf7SvDMcknYfgfaBmBzC6wrxrFUMLTPCnXsQj6BvsWi9kTqE8B/5Pf7SugU4Jr1othwSwEFSwTy6JgEV5vaCJ4tfgoJWP6ipYQ1T6T).
-
-You can edit an [\_Prtcl-powered](www.uprtcl.io) shared notepad for the IPFS Camp. Just make sure you have a web3 provider (like Metamask) connected to the Rinkeby Testnet and head to [The Notepad](https://demo.uprtcl.io).
-
-## Schedule Overview
-
-The schedule for the event can be found at **https://camp.ipfs.io/schedule**
-
-## Content
+## Camp Content
 
 You can find the content description, speakers and trainers at:
 
@@ -29,3 +20,25 @@ You can find the content description, speakers and trainers at:
 - **[🐚 Quiet Room](QUIET_ROOM)**
 - **[🧬 Sci-Fi Fair](SCI-FI_FAIR)**
 - **[🧩 Unconf](UNCONF)**
+
+## Wanna join the Community Conversation?
+
+Meet us at:
+
+- [IPFS Weekly Call](https://github.com/ipfs/team-mgmt#-ipfs-weekly-call--formerly-known-as-ipfs-all-hands-call)
+- #ipfs@freenode using any IRC client or [through the Matrix bridge](https://riot.im/app/#/room/#freenode_#ipfs:matrix.org)
+
+### Photos and media
+
+For 📸 Photos, join our [Textile feed with this invite url](https://www.textile.photos/invites/new#id=QmNfArKoyCUN5z32P9v3ZkHrhnBa8oT3MJm6gGCumnQN8v&key=26s37NuiZWJ6Eforqk7ufGQhBscyQVeQhcSiEFMw3CpXe4pmBjt9B6uuFQVKp&inviter=P4obBwkeJZvQuB2S4grkFNugfXC1Ab9j6fMW18GKgB3ddMoc&name=IPFS%20Camp%202019&referral=MSCES)
+
+You can upload photos, videos, documents, etc. at our [public Peergos folder](https://alpha.peergos.net/#6MDZhRRPT4ugkJuUfcP12suSaesn7NQbhXPgso4xQHSmcPdtqcZzxow4jUWUnt/6MDZhRRPT4ugkJuUfcRm7NkdVKjjHRqXKs6zQiXFTAYvkjVeMy7ArynWvX7kyM/J2GwDq4QrxuN3gW9tfS1r7RvKzHzGkoX6uTzw9XmMikD/5Pf7SvDMcknYfgfaBmBzC6wrxrFUMLTPCnXsQj6BvsWi9kTqE8B/5Pf7SugU4Jr1othwSwEFSwTy6JgEV5vaCJ4tfgoJWP6ipYQ1T6T).
+
+You can edit an [\_Prtcl-powered](www.uprtcl.io) shared notepad for the IPFS Camp. Just make sure you have a web3 provider (like Metamask) connected to the Rinkeby Testnet and head to [The Notepad](https://demo.uprtcl.io).
+
+## Schedule Overview
+
+The schedule for the event can be found at **https://camp.ipfs.io/schedule**
+
+### Chat #ipfs-camp@freenode using any IRC client or [through the Matrix bridge](https://riot.im/app/#/room/#freenode_#ipfs-camp:matrix.org)
+
