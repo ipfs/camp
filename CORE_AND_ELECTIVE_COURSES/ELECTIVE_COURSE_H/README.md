@@ -6,6 +6,11 @@ While we're waiting for mainstream browsers to catch up with our needs, we can e
 
 We’ll show how browsers act as a value filter on our world, teach some approaches to making the browser truly be an agent that represents *you*, and break into groups to start building our own *true* user agents.
 
+🌟🌟🌟UPDATE🌟🌟🌟
+
+Thanks for joining our session! You can [view the slides](https://hackmd.io/@dietrich/rkrZEKFRV#/).
+
+
 ## Trainers
 
 | **Dietrich Ayala**                                  	| **Irakli Gozalishvili**                             	| **Andre Garzia**                                    	|
