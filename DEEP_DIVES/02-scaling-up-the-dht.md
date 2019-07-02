@@ -23,15 +23,19 @@ reduce:
 
 ## ==================================================>
  
-### team: @Stebalien @koalalorenzo @prtfw @obo20 @MichaelMure @gregdhill
+### team: @Stebalien @koalalorenzo @prtfw @obo20 @MichaelMure @gregdhill @kumavis
 
 ## Nature of the problem
 1. A large number of the nodes in peer-tables are behind NATs
 2. Even if we can predict/know which nodes are behind NATs, other (potentially) malicious nodes could become unresponsive
 3. We would like a solution that prioritizes:
+
 	3.1	fast peer lookup
+	
 	3.2	fast cid lookup
+	
 	3.3	fast/low latency IPNS
+	
 	(due to dependencies)
 4. Filecoin / Other incentive structure / crypto-economic mechanism has uncertain ETA and could be a lot of work
 5. Most nodes are likely to upgrade but we must ensure backwards compatibility
