@@ -28,7 +28,7 @@ Meet us at:
 - [IPFS Weekly Call](https://github.com/ipfs/team-mgmt#-ipfs-weekly-call--formerly-known-as-ipfs-all-hands-call)
 - #ipfs@freenode using any IRC client or [through the Matrix bridge](https://riot.im/app/#/room/#freenode_#ipfs:matrix.org)
 
-### Photos and media
+### Photos and Media
 
 For 📸 Photos, join our [Textile feed with this invite url](https://www.textile.photos/invites/new#id=QmNfArKoyCUN5z32P9v3ZkHrhnBa8oT3MJm6gGCumnQN8v&key=26s37NuiZWJ6Eforqk7ufGQhBscyQVeQhcSiEFMw3CpXe4pmBjt9B6uuFQVKp&inviter=P4obBwkeJZvQuB2S4grkFNugfXC1Ab9j6fMW18GKgB3ddMoc&name=IPFS%20Camp%202019&referral=MSCES)
 
@@ -40,5 +40,5 @@ You can edit an [\_Prtcl-powered](www.uprtcl.io) shared notepad for the IPFS Cam
 
 The schedule for the event can be found at **https://camp.ipfs.io/schedule**
 
-### Chat #ipfs-camp@freenode using any IRC client or [through the Matrix bridge](https://riot.im/app/#/room/#freenode_#ipfs-camp:matrix.org)
+Chat #ipfs-camp@freenode using any IRC client or [through the Matrix bridge](https://riot.im/app/#/room/#freenode_#ipfs-camp:matrix.org)
 
