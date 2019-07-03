@@ -19,35 +19,50 @@ and
 https://www.interaction-design.org/literature/article/simplicity-in-design-4-ways-to-achieve-simplicity-in-your-designs
 are a good start.
 
-## An outline of user testing
+## Team
+
+* [@leshokunin](https://github.com/leshokunin)
+* [@AquiGorka](https://github.com/AquiGorka)
+* [@cesarosum](https://github.com/cesarosum)
+* [@aksanoble](https://github.com/aksanoble)
+* [@vrortvedt](https://github.com/vrortvedt)
+* [@makoto](https://github.com/makoto)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c8d7f2770_17_14)
+
+## Notes
+
+### An outline of user testing
 
 Here's the process we went through to come up with a list of potential improvements for an app.
 
-### Introduction to Design Thinking
+#### Introduction to Design Thinking
 
 @leshokunin gave the group an introduction to the core ideas in Design Thinking and took us through the design process used at Stanford Design School.
 
-### First impressions
+#### First impressions
 
 Everyone was asked to thank about "what is this for?", and comment on their expectations while navigating through the app 
 
-### How should it work? What are the jobs to be done?
+#### How should it work? What are the jobs to be done?
 
 After first impressions, everyone was asked to consider how the app should work and what jobs it should perform for them. Users either described the workflow and features they want and some drew pictures to illustrate aspects of what they wanted. 
 
-### Solutions
+#### Solutions
 
 From the above considerations, we distilled features and then brainstormed how we could implement these features with as little code as possible in order to deploy them quickly. Features were ranked by cost of delay (low cost of delay --- not implementing the feature would not result in an adverse result vs high cost of delay --- delaying implementation of the feature would significantly affect adoption, revenue etc.). The challenge was always to try and make the solution simpler while still remaining effective.
 
-### Summary 
+#### Summary 
 
 The process above was super-helpful in understanding how user experience can diverge from the developer's design and intentions.
 
-## Peergos user testing
+### Peergos user testing
 
-Four interplanetary campers (@aksanoble, @makoto, @aquigorka, @twoirtter) had a go at using Peergos for the very first time on both mobile and web. Here are the results of the user testing.
+Four interplanetary campers (@aksanoble, @makoto, @aquigorka, @vrortvedt) had a go at using Peergos for the very first time on both mobile and web. Here are the results of the user testing.
 
-### Impressions
+#### Impressions
 
 1. It's a thing for uploading files
 2. It's to upload any file.
@@ -62,7 +77,7 @@ Four interplanetary campers (@aksanoble, @makoto, @aquigorka, @twoirtter) had a 
 11. Dropbox equivalent.
 12. Is it for sharing or is it for backup?
 
-### How should it work and jobs to be done
+#### How should it work and jobs to be done
 
 @aquigorka
 
@@ -79,7 +94,7 @@ Four interplanetary campers (@aksanoble, @makoto, @aquigorka, @twoirtter) had a 
 2. Find a name for someone nearby, click send, they go to a page and can then download it immediately (encrypted on the way).
 3. Mesh network solution
 
-@twoirtter
+@vrortvedt
 
 1. Sharing securely - it first tells me that I am in a safe environment. Need a visualization of "safety". Files are transformed and given a logo. 
 2. When it is sent, something that shows it was shared securely. 
@@ -100,9 +115,9 @@ Four interplanetary campers (@aksanoble, @makoto, @aquigorka, @twoirtter) had a 
 1. Visualizations of encryption, manifest of what has been shared.
 2. Key folder.
 
-### Solutions
+#### Solutions
 
-#### Triage
+##### Triage
 
 Four options ranked by cost of delay:
 
