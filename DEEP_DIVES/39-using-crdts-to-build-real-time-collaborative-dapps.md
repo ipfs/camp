@@ -30,6 +30,18 @@ Peer-base is a system that enables developers to building data structures from d
 * https://github.com/mafintosh/hyperdb
 * https://medium.com/textileio/wip-textile-threads-whitepaper-just-kidding-6ce3a6624338
 
+## Team
+
+* [@jimpick](https://github.com/jimpick)
+* [@arcalinea](https://github.com/arcalinea)
+* [@oed](https://github.com/oed)
+* [@b5](https://github.com/b5)
+* [@gritzko](https://github.com/gritzko)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_298)
+
 ## Notes
 
 Hurdles to CRDTS in Dapps?
@@ -80,7 +92,7 @@ Cons:
 - CRDTs are huge, use lots of energy
 - Scaling, how much information do you need? Can you run Wikipedia on CRDTs
 
-## Solution
+### Solution
 
 - Make a simple flow chart
 - Do some comparisons / Bake-offs
