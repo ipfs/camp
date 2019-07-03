@@ -2,7 +2,11 @@
 NPM in a box
 
 # What DOES THE PROJECT DO/what will you SHOW?
-_Briefly explain your madcap decentralized science experiment and why it will excite and inspire the fair attendees :)_
+npm in a box is your own personal mirror for the public npm registry running on a Raspberry Pi connected to your local network.
+
+Control your own little corner of the JavaScript Commons and install packages from it using [`ipfs-npm`](https://www.npmjs.com/package/ipfs-npm)
+
+Also use it to publish [IPNS](https://docs.ipfs.io/guides/concepts/ipns/) names for your own modules published on IPFS!
 
 # WHO will PRESENT the project?
 _PREFERRED NAME(S) and CONTACT EMAIL(S), please. The fair takes place 16:30 - 18:30 on Saturday, booked against the Unconference, so we recommend assigning 2-3 people in shifts, if possible. If you'll need to leave your post unattended for part of the time, please note that._ 
