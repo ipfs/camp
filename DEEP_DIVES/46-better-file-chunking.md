@@ -1,24 +1,5 @@
 # Better File Chunking
 
-## Participants
-- [@mib-kd743naq](https://github.com/mib-kd743naq)
-- [@steven004](https://github.com/steven004)
-
-## Conclusions
-
-- 3 main groups of chunking types identified:
-  - static ( currently 256k )
-  - content-based ( e.g. Rabin )
-  - content-aware ( custom per type of file, e.g. Vide, XML/JSON, etc )
-
-- Defaults are hard to change, and it is difficult to switch to something else once there is a terrible-but-working solution in place
-
-- Some assumptions about infinite scalability of IPFS need to be rethought ( UHD / VR ), and as a result the problem can be scoped better
-
-# **NOTES TAKEN DURING SESSION ARE IN BOLD IN THE ORIGINAL DESCRIPTION BELOW**
-
-## Summary
-
 Within the IPFS stack/ecosystem, just as within computing as a whole, **an
 uncompressed stream of untagged octets** is a fundamental unit of exchange.
 As a general-purpose data storage system IPFS needs to handle an unbounded
@@ -51,45 +32,20 @@ It would be great if towards the end of this session we have answers or maybe
 even consensus 🤞 regarding the following deceptively simple
 checklist:
 
-- [x] Identify about 10 distinct realistic user-stories where IPFS could
+- [ ] Identify about 10 distinct realistic user-stories where IPFS could
 or already does play a central role.
 
-**-- usecases/problems**
+- [ ] Clearly identify pros and cons of chunking algorithm proliferation
+keeping the above list in mind ( spoiler alert: the author is strongly for
+reducing proliferation, but also recognizes that there are rather few effective tools
+for doing so )
 
-**--- Ultra-High-Quality video files are large, and the current chunking of 256k is rather small for this purpose.
-Max quality 8k requires about 360mbps which translates to needing about 180 blocks per second
-without accounting for buffering. Considering aplications like VR we are looking at an order of
-magnitude increase in packet/second requirements.**
-
-**--- Video streams benefit from block boundaries coinciding with frame boundaries, ideally having an
-I-frame ( full frame ) at the start of every block**
-
-**--- In case of source code repositories on IPFS it would be desirable to have one block
-per file to reduce the access latency.**
-
-**--- In case of source code repositories on IPFS it is desirable to have semi-deterministic chunking to facilitate
-file portion deduplication, and thus reduce amount of storage required**
-
-
-- [x] Clearly identify pros and cons of chunking algorithm proliferation
-keeping the above list in mind
-
-**--- pro: content-aware chunking maximally reduces storage, transport and computation resources**
-**--- pro: content-aware chunking with built in assumptions for multiple versions with very small deltas across the same file would further magnify he effect above ( storage / transport / computation )**
-**--- con: difficult to use as a "hash function" outside of the context of IPFS**
-**--- con: efficient seeking to an arbitrary offset becomes more difficult with non-static chunking**
-**--- con: content-aware chunking is more likely to result in too many small blocks, due to there being too many "interesting" cutpoints within a given set of structured data**
-
-- [x] Regardless of above outcome identify if there exists a low ( single-digit )
+- [ ] Regardless of above outcome identify if there exists a low ( single-digit )
 number of "general-purpose types of content" that could benefit
 from a single shared chunking strategy.
 
-**--- NO**
-
-- [x] Identify whether the above number of algorithms could be reduced to 1
+- [ ] Identify whether the above number of algorithms could be reduced to 1
 ( **one** ) which could then viably **replace the current defaults**.
-
-**--- no agreement was reached within the large sample size of 2**
 
 ## List of various ( often conflicting ) prior-art discussions within Protocol Labs
 
@@ -117,3 +73,45 @@ from a single shared chunking strategy.
 - [bup "hashsplit" implementation](https://github.com/bup/bup/blob/0.29.2/DESIGN#L138-L234) ( this is especially notable for being side-compatible with vanilla git )
 
 - [pigz implementation of --rsyncable](https://github.com/madler/pigz/blob/v2.4/pigz.c#L441-L483)
+
+## Team
+
+- [@mib-kd743naq](https://github.com/mib-kd743naq)
+- [@steven004](https://github.com/steven004)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_375)
+
+## Notes
+
+### Identify about 10 distinct realistic user-stories where IPFS could or already does play a central role
+
+#### Usecases/problems
+
+Ultra-High-Quality video files are large, and the current chunking of 256k is rather small for this purpose.
+
+Max quality 8k requires about 360mbps which translates to needing about 180 blocks per second without accounting for buffering. Considering aplications like VR we are looking at an order of magnitude increase in packet/second requirements.
+
+Video streams benefit from block boundaries coinciding with frame boundaries, ideally having an
+I-frame ( full frame ) at the start of every block
+
+In case of source code repositories on IPFS it would be desirable to have one block per file to reduce the access latency.
+
+In case of source code repositories on IPFS it is desirable to have semi-deterministic chunking to facilitate file portion deduplication, and thus reduce amount of storage required.
+
+### Clearly identify pros and cons of chunking algorithm proliferation keeping the above list in mind
+
+* pro: content-aware chunking maximally reduces storage, transport and computation resources
+* pro: content-aware chunking with built in assumptions for multiple versions with very small deltas across the same file would further magnify he effect above ( storage / transport / computation )
+* con: difficult to use as a "hash function" outside of the context of IPFS
+* con: efficient seeking to an arbitrary offset becomes more difficult with non-static chunking
+* con: content-aware chunking is more likely to result in too many small blocks, due to there being too many "interesting" cutpoints within a given set of structured data
+
+### Regardless of above outcome identify if there exists a low (single-digit) number of "general-purpose types of content" that could benefit from a single shared chunking strategy
+
+NO
+
+### Identify whether the above number of algorithms could be reduced to 1 which could then viably **replace the current defaults**
+
+No agreement was reached within the large sample size of 2
