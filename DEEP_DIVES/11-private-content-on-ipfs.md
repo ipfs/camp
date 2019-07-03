@@ -28,9 +28,19 @@ Same as in the MLS requirements we should scale to 50,000 member groups.
 * [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol)
 * [Messaging Layer Security](https://github.com/mlswg/mls-architecture/blob/master/draft-ietf-mls-architecture.md)
 
+## Team
 
+* [@ianopolous](https://github.com/ianopolous)
+* [@roignpar](https://github.com/roignpar)
+* [@glouvigny](https://github.com/glouvigny)
+* [@ma82](https://github.com/ma82)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_100)
 
 ## Notes
+
 Q: Can we use MLS in an IPFS setting?
  - Tentative yes
 
