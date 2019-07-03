@@ -30,3 +30,19 @@ Process data efficiently (low cost, low latency) in a permissionless network.
 - https://martin.kleppmann.com/2019/05/15/local-first-kaiserslautern.html
 - https://martin.kleppmann.com/2019/05/15/encrypted-crdts.html
 - https://www.inkandswitch.com/local-first.html
+
+## Team
+
+* [@alari](https://github.com/alari)
+* [@rittme](https://github.com/rittme)
+* [@romaric-juniet](https://github.com/romaric-juniet)
+* [@andrewxhill](https://github.com/andrewxhill)
+* [@marneedear](https://github.com/marneedear)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_353)
+
+## Notes
+
+https://github.com/ipfs/camp/files/3341983/IPFS.deep.dive.pdf
