@@ -48,11 +48,19 @@ Mobile environments come with their own specific requirements to consider. Some 
   - [IPFS Droid](https://github.com/ligi/IPFSDroid)
   - [Moin?](https://gitlab.com/remmer.wilts/threads-ipfs)
 
-## Discussion Notes
+----------------------------------------------------------------------------
+
+# Session Notes
+
+## Participants
+
+- ??
+
+## Key Takeaway
 
 Key take home, is _not_ getting code to run, but rather, dealing with quirks of operating system.
 
-### Key issues
+## Key issues
 
 - Network problems
 - Limited resources
@@ -61,12 +69,12 @@ Key take home, is _not_ getting code to run, but rather, dealing with quirks of 
 - Moving targets
 - Etc...
 
-### Surprizing
+## Surprizing
 
 - Compiling worked pretty well
 - gomobile seems to be pretty magic
 
-### Other
+## Other
 
 - Reviewed all the best practices and tips to run IPFS node on mobile
 - Want to establish a set of guidelines
@@ -84,7 +92,7 @@ Berty Antoine:
 Textile Carson:
 - If you app goes foreground then background pretty quickly will kill your connection, your daemon
 
-### Some solutions
+## Some solutions
 
 - In France, no port forwarding
 - Depending on connection type, can check if mdns is available
