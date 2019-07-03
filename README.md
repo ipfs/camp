@@ -9,11 +9,11 @@ IPFS Camp 2019 is over! Thank you to everyone that joined us for 3 days of amazi
 
 If you missed IPFS Camp or want to revisit its content, everything will remain available in this repo. Soon we will start publishing the videos as well.
 
-## Camp Content
+# Camp Content
 
 You can find the content description, speakers and trainers at:
 
-### [👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES)
+## [👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES)
 
 | Title  | Trainers  | Short Description  | Materials  | Recording |
 |------- |---------- |------------------- | ---------- | --------- |
@@ -32,11 +32,11 @@ You can find the content description, speakers and trainers at:
 | Managing Datasets with QRI                                         | @b5                                  | An open source tool for versioned, scriptable, exportable, collaborative datasets | [ELECTIVE_COURSE_G](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_G) | soon™ |
 | Making the Browser a True User Agent                               | @autonome @Gozala @soapdog           | We’ll show how browsers act as a value filter on our world, teach some approaches to making the browser truly be an agent that represents you, and break into groups to start building our own true user agents.| [ELECTIVE_COURSE_H](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_H) | soon™ |
 
-### [📃 Poster Projects](POSTER_PROJECTS)
+## [📃 Poster Projects](POSTER_PROJECTS)
 
-TODO
+Will be listed here soon™
 
-### [🐋 Deep Dives](DEEP_DIVES)
+## [🐋 Deep Dives](DEEP_DIVES)
 
 | Topic | Owner | | Description | Recording |
 | :--- | :---: | :---: | :--- | :--- |
@@ -71,7 +71,7 @@ TODO
 
 **Note**: topics relevant to package managers have a 📦 suffix.
 
-### [⚡️ Lightning Talks](LIGHTNING_TALKS)
+## [⚡️ Lightning Talks](LIGHTNING_TALKS)
 
 | Presenter     | Name & GitHub handle  | Topic         | Recording |
 | ------------- | --------------------- | ------------- | --------- |
@@ -102,7 +102,7 @@ TODO
 
 Note: topics relevant to package managers have a 📦 suffix.
 
-### [🧬 Sci-Fi Fair](SCI-FI_FAIR)
+## [🧬 Sci-Fi Fair](SCI-FI_FAIR)
 
 | Project           | Presenter         | Description | Interview
 | -------------     | -------------     | ------------- | -- |
@@ -119,15 +119,15 @@ Note: topics relevant to package managers have a 📦 suffix.
 | Cluster Labs Horizon + more | @vasa-develop | viz for the RPi cluster + more | soon™ |
 | libp2p-ble-transport | @aeddi | IPFS over other kinds of radio! | soon™ |
 
-### [🧩 Unconf](UNCONF)
+## [🧩 Unconf](UNCONF)
 
-TODO
+Will be listed here soon™
 
-### 🎤 Project Interviews
+## 🎤 Project Interviews
 
 We will be listing the interviews done throughout camp as we publish them.
 
-### [🐚 Quiet Room](QUIET_ROOM)
+## [🐚 Quiet Room](QUIET_ROOM)
 
 The quiet room was a place for resting, reflecting, and taking space from the excitement of camp. Let your brain cool after a full day of learning. Learn more about it at [🐚 Quiet Room](QUIET_ROOM).
 
