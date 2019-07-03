@@ -121,7 +121,7 @@ Note: topics relevant to package managers have a 📦 suffix.
 
 ## [🧩 Unconf](UNCONF)
 
-Will be listed here soon™
+`Will be listed here soon™`
 
 ## 🎤 Project Interviews
 
