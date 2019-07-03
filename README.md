@@ -123,6 +123,10 @@ Note: topics relevant to package managers have a 📦 suffix.
 
 TODO
 
+### 🎤 Project Interviews
+
+We will be listing the interviews done throughout camp as we publish them.
+
 ### [🐚 Quiet Room](QUIET_ROOM)
 
 The quiet room was a place for resting, reflecting, and taking space from the excitement of camp. Let your brain cool after a full day of learning. Learn more about it at [🐚 Quiet Room](QUIET_ROOM).
