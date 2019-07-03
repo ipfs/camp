@@ -37,7 +37,7 @@ Come as you are.
 * [@stefanhans](https://github.com/stefanhans)
 * [@nukemandan](https://github.com/nukemandan)
 * [@kkwong](https://github.com/kkwong)
-* [@wancunl](https://github.com/wancunl)
+* [@Wanchunl](https://github.com/Wanchunl)
 * [@gorhgorh](https://github.com/gorhgorh)
 
 ## Presentation
