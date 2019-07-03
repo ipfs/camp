@@ -119,3 +119,21 @@ For the dot-ranking exercise, we discussed each of the 20 pain points/potential 
 
 ## Next steps
 - Discuss the dot-rankings and how they might impact overall prioritization efforts on the package manager roadmap
+
+## UnixFS v1.5?
+
+Hands down our most requested feature from package manager maintainers is to add persistent metadata to UnixFS files.  There is an unused [metadata](https://github.com/ipfs/js-ipfs-unixfs/blob/master/src/unixfs.proto.js#L22-L24) construct in the spec but implementing it would have the side-effect of changing the file's CID when it's metadata changes.
+
+Building on @hsanjuan's suggestion we could enable the majority of use cases by creating a dag-CBOR node that contains unstructured metadata and a link to a UnixFS file.  Call it UnixFSv1.5.
+
+The `content` linked to could be a UnixFSv1 file/dir/hamt/whatever which also gives users an upgrade path without having to re-encode all of their data:
+
+```javascript
+{
+  mtime: 1561879007581
+  perm: '0777',
+  // ... more metadata here
+  content: {
+    '/': 'Qmfoo' // link to a UnixFSv1 file or dir or hamt or cbor, etc..
+  }
+}
