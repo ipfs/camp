@@ -15,9 +15,26 @@ You can find the content description, speakers and trainers at:
 
 ### [👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES)
 
+|                | Title  | Trainers  | Short Description  | Materials  | Recording |
+|--------------- |------- |---------- |------------------- | ---------- | --------- |
+| **Core**       | | | | | |
+| A              | Understanding how the InterPlanetary File System deals with Files       | @alanshaw @Stebalien @mikeal              | Deep exploration of the reasons behind immutable data, how we address immutable data, the data structures IPFS creates and the different ways of interacting with files in IPFS. | [CORE_COURSE_A](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_A) | soon™ |
+| B              | Solving distributed networking problems with libp2p | @bigs @jacobheun @achingbrain            | An interactive deep dive into the capabilities of libp2p | [CORE_COURSE_B](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_B) | soon™ |
+| C              | Developing Apps with IPFS API | @lidel @jimpick @hugomrdias               |   Local, Remote or Embedded? go-ipfs or js-ipfs? Core API interface in command-line and HTTP contexts  | [CORE_COURSE_C](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_C) | soon™ |
+| D              | The lifecycle of data in DWeb.                                          | @olizilla @kishansagathiya @meiqimichelle | Providing (Share), Pinning (Store) and Blocking (Delete) Data  | [CORE_COURSE_D](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_D) | soon™ |
+| **Electives**  | | | | | |
+| A              | Identity on the DWeb                                                    | @satazor @paulobmarcos @joaosantos15      | Understand the state of decentralized identity on the DWeb and current efforts on creating open and interoperable models to solve self-sovereign identities.                                                             | [ELECTIVE_COURSE_A](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_A) | soon™ |
+| B              | Managing pinsets with IPFS Cluster                                      | @hsanjuan @lanzafame @meiqimichelle       | A workshop on operating and using IPFS Cluster to orchestrate a common pinset among multiple IPFS nodes                                                               | [ELECTIVE_COURSE_B](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_B) | soon™ |
+| C              | TBA (But will have cats with lasers...)                                                                    | @gorhgorh |                                                                                                 | [ELECTIVE_COURSE_C](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_C) | soon™ |
+| D              | Building DApps with Textile, the iCloud for the DWeb                    | @balupton @carsonfarmer @andrewxhill      |                                                                | [ELECTIVE_COURSE_D](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_D) | soon™ |
+| E              | Deploying IPFS Infrastructure                                           | @mburns @obo20                            | Take your IPFS game to the next level by learning how to deploy and manage your very own IPFS node in the cloud.                                                               | [ELECTIVE_COURSE_E](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_E) | soon™ |
+| F              | Starting, Growing, and Stewarding your IPFS Community                                                                     | @nukemandan @kk3wong @stefanhans                                  |Let's get Meta! A workshop on effective workshops! And how to foster a community                                                                | [ELECTIVE_COURSE_F](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_F) | soon™ |
+| G              | Managing Datasets with QRI                                              | @b5                    | An open source tool for versioned, scriptable, exportable, collaborative datasets | [ELECTIVE_COURSE_G](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_G) | soon™ |
+| H              | Making the Browser a True User Agent    | @autonome @Gozala @soapdog                | We’ll show how browsers act as a value filter on our world, teach some approaches to making the browser truly be an agent that represents you, and break into groups to start building our own true user agents.                                                               | [ELECTIVE_COURSE_H](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_H) | soon™ |
+
 ### [📃 Poster Projects](POSTER_PROJECTS)
 
-### [🐋 Deep Dives](DEEP_DIVES)**
+### [🐋 Deep Dives](DEEP_DIVES)
 
 ### [⚡️ Lightning Talks](LIGHTNING_TALKS)
 
