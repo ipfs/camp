@@ -6,7 +6,7 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 
 ## Instructions
 
-**❗❗ IMPORTANT! All of the available lightning talk slots at this year's IPFS Camp are now full. But if you want to give a presentation, all is not lost! Please consider using your idea as the topic of one of the [unconf sessions](https://github.com/ipfs/camp/tree/master/UNCONF) — or, if your schedule permits, apply to present at the [IPFS Core Developers & Community Meetup](https://www.meetup.com/barcelona-ipfs/events/262101190/) in central Barcelona on Tuesday, June 25.**
+**‼ IMPORTANT! All of the available lightning talk slots at this year's IPFS Camp are now full. But if you want to give a presentation, all is not lost! Please consider using your idea as the topic of one of the [unconf sessions](https://github.com/ipfs/camp/tree/master/UNCONF) — or, if your schedule permits, apply to present at the [IPFS Core Developers & Community Meetup](https://www.meetup.com/barcelona-ipfs/events/262101190/) in central Barcelona on Tuesday, June 25.**
 
 **Want to give a lightning talk at IPFS Camp? Here's what you need to do.**
 
@@ -21,47 +21,9 @@ Lightning talks are one of the most entertaining and inspiring features of IPFS 
 - While everyone in attendance at IPFS Camp has been hand-selected for dweb enthusiasm, evangelism and expertise, people's subject matter knowledge does vary quite a bit, as do individual learning styles, caffeine intake on any given day, or fluency in your home country's awesome but obscure cultural references. When you put together your presentation, cast it to a wide audience; if attendees want to zoom in deeper with you, there'll be plenty of opportunities to do so during camp.
 - And finally: No pitch decks! If you want to tell us about the awesome thing your org/company is building, that's great. If we look at your deck and it makes us feel like you're pitching to us, we're going to tell you to try again. (Also, that's great if you're hiring, but this is not the venue to actively promote that! If your talk is sufficiently amazing, folks will look you up and find your job posts. Trust us on this one.)
 
-## Confirmed Lightning Talk Presentations
+## Lightning Talk Presentations
 
-... with more to come!
-
-### Friday
-
-| Presenter | Name & GitHub handle  | Topic |
-| ------------- | ------------- | ------------- |
-| <img src="https://avatars1.githubusercontent.com/u/607609?s=460&v=4" width="150" /> | Justin Maier ([@justmaier](https://github.com/JustMaier)) and Victor Rortvedt ([@twoirtter](https://github.com/vrortvedt))  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  |
-| <img src="https://avatars0.githubusercontent.com/u/665810?s=460&v=4" width="150" /> | Alex Potsides ([@achingbrain](https://github.com/achingbrain))  | npm on IPFS: Using IPFS to install your JavaScript dependencies 📦  |
-| <img src="https://avatars1.githubusercontent.com/u/30949000?s=400&v=4" width="150" /> | Shokunin ([@leshokunin](https://github.com/leshokunin)) | Building a Dropbox replacement on IPFS and Textile |
-| <img src="https://avatars0.githubusercontent.com/u/2630?s=460&v=4" width="150" /> | Makoto Inoue ([@makoto](https://github.com/makoto))  | ENS + IPFS: Using ENS as a naming system for IPFS  |
-| <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="150" /> | Benjamin Kampmann ([@gnunicorn](https://github.com/gnunicorn)) | [Changing the record: Using substrate to add a custom blockchain to your IPFS dweb app](https://docs.google.com/presentation/d/14bC3t4BxV4raYG-HyFuYcxcuv5leciX36lc0B98WAvs/edit?usp=sharing) |
-| <img src="https://avatars2.githubusercontent.com/u/1060?s=460&v=4" width="150" /> | Andrew Nesbitt ([@andrew](https://github.com/andrew))  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  |
-| <img src="https://avatars1.githubusercontent.com/u/11023317?s=460&v=4" width="150" /> | Blake Joyce ([@bjoyce3](https://github.com/bjoyce3)) | Who wins in a fight: Superman, HTTPS, or IPFS? |
-| <img src="https://avatars0.githubusercontent.com/u/1489143?s=460&v=4" width="150" /> | Pierre Neidhardt ([@ambrevar](https://github.com/ambrevar)) | Package distribution using IPFS on Guix 📦 |
-| <img src="https://avatars2.githubusercontent.com/u/5924712?s=460&v=4" width="150" /> | Adrian Lanzafame ([@lanzafame](https://github.com/Lanzafame))  | A quick look into the Pinning API proposal  |
-| <img src="https://avatars1.githubusercontent.com/u/410789?s=460&v=4" width="150" /> | Dmitry Starodubcev ([@xhipster](https://github.com/xhipster))  | CYB: Your personal robot on the Great Web  |
-| <img src="https://avatars0.githubusercontent.com/u/627638?s=460&v=4" width="150" /> | Eric Myhre ([@warpfork](https://github.com/warpfork))  | Solving the distributed naming problem (!) in the applied cases of package management 📦  |
-| <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan)) | go-ds-crdt: CRDT KV stores arrive in go-land  |
-| <img src="https://avatars1.githubusercontent.com/u/1154390?s=460&v=4" width="150" /> | Brendan O'Brien ([@b5](https://github.com/b5))  | Using dsync for point-to-point DAG transfer  |
-| <img src="https://avatars3.githubusercontent.com/u/370259?s=460&v=4" width="150" /> | Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Content addressing and personal data sovereignty |
-| <img src="https://avatars0.githubusercontent.com/u/860295?s=460&v=4" width="150" /> | Kinuko Yasuda ([@kinu](https://github.com/kinu)) and Jim Pick ([@jimpick](https://github.com/jimpick)) | Signed exchanges in Chrome |
-| <img src="https://avatars2.githubusercontent.com/u/6493975?s=460&v=4" width="150" /> | Edgar Lee ([@hinshun](https://github.com/hinshun)) | Containerd meets IPFS |
-| <img src="https://avatars1.githubusercontent.com/u/5222525?s=460&v=4" width="150" /> | Antoine Eddi ([@aeddi](https://github.com/aeddi)) | Implementing libp2p over Bluetooth Low Energy |
-| <img src="https://avatars1.githubusercontent.com/u/21236?s=460&v=4" width="150" /> | Irakli Gozalishvili ([@gozala](https://github.com/gozala))  | Inter Planetary Data Feed (IPDF) |
-
-
-
-### Saturday
-
-| Presenter | Name & GitHub handle  | Topic |
-| ------------- | ------------- | ------------- |
-| <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="150" /> | Gonçalo Pestana ([@gpestana](https://github.com/gpestana)) | Privacy in P2P networks: DHTs and IPFS |
-| <img src="https://avatars2.githubusercontent.com/u/81581?s=460&v=4" width="150" /> | Victor Grishchenko ([@gritzko](https://github.com/gritzko))  | An overview of RON  |
-| <img src="https://avatars1.githubusercontent.com/u/8660482?s=460&v=4" width="150" /> | Stefan Hans ([@stefanhans](https://github.com/stefanhans)) | Thoughts about contexting |
-| <img src="https://avatars3.githubusercontent.com/u/248257?s=460&v=4" width="150" /> | Rüdiger Klaehn ([@rklaehn](https://github.com/rklaehn))  | Actyx's experiences on building with IPFS  |
-| <img src="https://avatars3.githubusercontent.com/u/11004800?s=460&v=4" width="150" /> | Jonathan Budd ([@cesarosum](https://github.com/cesarosum)) | Peergos: E2E encrypted storage and social network on IPFS |
-| <img src="https://avatars0.githubusercontent.com/u/17089485?s=460&v=4" width="150" /> | Alexandre Trottier ([@postables](https://github.com/postables)) | Why open source matters and how individuals can further the movement |
-
-Note: topics relevant to package managers have a 📦 suffix.
+The full list and links to videos have been moved to the main [README](https://github.com/ipfs/camp)
 
 ## Overview
 

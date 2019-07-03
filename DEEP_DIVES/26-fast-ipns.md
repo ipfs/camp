@@ -16,3 +16,7 @@ How to increase the IPNS resolution speed
 
 - https://github.com/ipfs/specs/issues/198
 - https://github.com/ipfs/specs/blob/master/naming/README.md
+
+## Solution
+
+https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_221

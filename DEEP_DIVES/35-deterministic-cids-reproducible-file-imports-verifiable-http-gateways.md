@@ -35,6 +35,13 @@
 
 ## Problems 
 
+- Reproducing CID requires ipfs add params  
+- Client trusts HTTP Gateway to return valid payload  
+- Cannot revive dead link without knowledge of input params  
+- Default params can/will change  
+- New params can be added  
+- Param space is really really really big  
+
 Due to limited time we focused on archival use case and unixfs/files.  
 We produced some solutions for Reproducible CIDs
 
@@ -68,7 +75,7 @@ Solutions:
  - we could support some sort of best-effort heuristic
    - metadata from unixfsv2 if possble
    - we can try known historical defaults
- - prototype: add `ipfs add --recreate CID file.jpg` 
+ - prototype: add `ipfs add --expected-cid CID file.jpg` 
     - tries to recreate DAG that hashes to provided CID or trows an error if does not have enough data to do that 
       - if there is access to IPFS network, we can look for root block and fetch it to get metadata from unixfsv2
         - useful when we want to revive "partially dead" DAGs 
@@ -82,15 +89,15 @@ Solutions:
 Solution:
 
 - http gateway could detect the presence of DAG parameter metadata in unixfsv2
-- if missing then fallback to matching one of known defaults (logic shared with `ipfs add --recreate CID file.jpg`)
+- if missing then fallback to matching one of known defaults (logic shared with `ipfs add --expected-cid CID file.jpg`)
 - return metadata it in HTTP Header
 - client can use it to build DAG and calculate CID for verification without running IPFS node 
 
 
 ### Interop
 
-  > how to handle old data without `[the thing]`
+> how to handle old data without `[the thing]`
 
 Solution: 
 
-- see "try historical defaults" in  `--reproduce` idea above
+- see "try historical defaults" in  `--expected-cid` idea above

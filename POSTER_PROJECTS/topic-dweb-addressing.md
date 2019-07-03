@@ -25,3 +25,8 @@ Use whatever resources available to you, in order to come up with a visual repre
 <https://groups.google.com/a/chromium.org/forum/#!topic/blink-dev/29sFh4tTdcs>  
 <https://github.com/whatwg/html/pull/3936>  
 <https://github.com/ipfs/specs/tree/master/dweb-addressing>
+
+
+## Produced Poster
+
+![the-dweb-addressing-poster](https://user-images.githubusercontent.com/157609/60351034-2b906080-99c5-11e9-9867-0ef0b3b482bd.jpg)

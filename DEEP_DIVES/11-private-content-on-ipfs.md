@@ -27,3 +27,34 @@ Same as in the MLS requirements we should scale to 50,000 member groups.
 * [Scrypt](https://en.wikipedia.org/wiki/Scrypt)
 * [Signal Protocol](https://en.wikipedia.org/wiki/Signal_Protocol)
 * [Messaging Layer Security](https://github.com/mlswg/mls-architecture/blob/master/draft-ietf-mls-architecture.md)
+
+## Team
+
+* [@ianopolous](https://github.com/ianopolous)
+* [@roignpar](https://github.com/roignpar)
+* [@glouvigny](https://github.com/glouvigny)
+* [@ma82](https://github.com/ma82)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_100)
+
+## Notes
+
+Q: Can we use MLS in an IPFS setting?
+ - Tentative yes
+
+* To handle prolonged network partitions
+  * keep group state around for all epochs from the oldest one we think any member is still in
+  
+  
+* eviction of absent/idle members
+  * this could cause a network partition to result in a fork of the group?
+  
+* possible delivery services (DS):
+  1. per member append only list of messages readable by other members ?
+  
+  
+* need a way to deduce the epoch of every other member (e.g. tail of list in 1. )
+
+* bare minimum for DS is causal order
