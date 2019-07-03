@@ -23,19 +23,20 @@ By specifying a protocol and architecture for a message-passing layer for libp2p
 - [UDP in libp2p](https://github.com/libp2p/go-udp-transport/issues/3)
 
 
-----------------------------------------------------------------------------
+## Team
 
-# Session Notes
+* [@bigs](https://github.com/bigs)
+* [@Wondertan](https://github.com/Wondertan)
+* [@joaosantos15](https://github.com/joaosantos15)
+* [@gpestana](https://github.com/gpestana)
 
-## Participants
+## Presentation
 
-- Hlib Kanunnikov
-- Gonçalo Pestana
-- João Santos
-- Cole Brown
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_331)
 
+## Notes
 
-## Overview
+### Overview
 
 Our explorations of message orientation were fruitful! UDP presents a signicant
 departure from the semantics of streams, and lip2p support for it reflects that.
@@ -61,7 +62,7 @@ for which we have an address for our peer. We will eventually consolidate to a
 single transport after receiving a packet from a peer with an ACK fequal to one
 of the transportIds provided in an Init message.
 
-## Multipacket
+### Multipacket
 
 We began experimenting with ideas for a simple packet multiplexer based on a
 simple binary packet "frame". This protocol would perform a dynamic negotiation
@@ -101,7 +102,7 @@ Reset {
 }
 ```
 
-## Interface sketches
+### Interface sketches
 
 ```golang
 package msgnet
