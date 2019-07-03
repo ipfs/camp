@@ -32,10 +32,21 @@ Come as you are.
 
 - Overcoming the chasm between community and business
 
+## Team
 
-## Summary of the Dive
+* [@stefanhans](https://github.com/stefanhans)
+* [@nukemandan](https://github.com/nukemandan)
+* [@kkwong](https://github.com/kkwong)
+* [@wancunl](https://github.com/wancunl)
+* [@gorhgorh](https://github.com/gorhgorh)
 
-## Problems we identified and proposed solutions:
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_122)
+
+## Notes
+
+### Problems we identified and proposed solutions:
  Problem | Solution
   --------|----------
 Wide potential audience to tap into, but need a place to start: diverse *Motivations* (personal, professional, ect.) and *Demographics* (mostly developers/engineers, but also privacy and/or self sov. advocates/activists, ect.) | Tool(s) to help a new person identify the best place to start (not the same for everyone) based on: What you already know about PL product(s) and tech that powers it; Why you are interested/care; what you want to do/contribute
@@ -54,7 +65,7 @@ Ways to meet your heroes in the community / big names come to you | Remote hango
 Clear mission + purpose + desired outcomes of IPFS community: bluntly - what is PL getting out of this and what d they want to back? | Not sure of the solution, must be core to decide. But whatever it is, make it *explicit* so that it is easy t understand and provide a reason for it. 
 
  
-## Other thoughts:
+### Other thoughts:
 Community is a tremendously valuable **asset**, but extremely hard to place an exact **value metric** on... What do we do with this collectively to promote the goals of us as individuals, as PL fans, and as humans? With same thoughtful structure, the energy and enthusiasm of this group can do amazing things. *what re best practices and good examples of communities being leveraged for a cause?*
 
 Reusable, forkable content, standard Template(s) and asset repository for organizers is needed.
