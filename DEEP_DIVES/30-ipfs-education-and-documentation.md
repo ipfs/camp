@@ -6,7 +6,19 @@ IPFS is kicking off a documentation revamp in Q3, with a team dedicated specific
 
 By the end of this session, we hope to pool our knowledge about the current state of IPFS documentation; the best descriptions and/or analogies of the DWeb and IPFS we've seen in the wild; favorite/least-favorite documentation approaches elsewhere; and priorities to tackle first. If there's time, we may hack on docs improvements together! #justdoit
 
-## Summary of discussion
+## Team
+
+* [@daijiale](https://github.com/daijiale)
+* [@enricomarino](https://github.com/enricomarino)
+* [@listenaddress](https://github.com/listenaddress)
+* [@meiqimichelle](https://github.com/meiqimichelle)
+* [@terichadbourne](https://github.com/terichadbourne)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_232)
+
+## Notes
 
 ### Biggest problem
 - The code/docs reflect the organization of the company -- distributed
