@@ -131,7 +131,6 @@ Note: topics relevant to package managers have a 📦 suffix.
 | <img src="https://avatars3.githubusercontent.com/u/23247?s=460&v=4" width="100" /> | [@soapdog](https://github.com/soapdog) | Secure Scuttlebutt | soon™ |
 | <img src="https://avatars0.githubusercontent.com/u/50027421?s=460&v=4" width="100" /> | [@janjanovna](https://github.com/janjanovna) | Unified User Interface for the New Web | soon™ |
 | <img src="https://avatars1.githubusercontent.com/u/10411723?s=460&v=4" width="100" /> | [@steven004](https://github.com/steven004) | A New Layer to Bridge IPFS and HTTP Apps and Users | soon™ |
-| <img src="https://avatars2.githubusercontent.com/u/179418?s=460&v=4" width="100" /> | [@ianopolous](https://github.com/ianopolous) | Peergos: Private Social Network | soon™ |
 | <img src="https://avatars0.githubusercontent.com/u/468729?s=460&v=4" width="100" /> | [@xavivives](https://github.com/xavivives) | Personal Knowledge Graphs | soon™ |
 | <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="100" /> | [@gnunicorn](https://github.com/gnunicorn) | Blockchain & IPFS, yay?!? | soon™ |
 | <img src="https://avatars3.githubusercontent.com/u/477149?s=460&v=4" width="100" /> | [@shishkabab](https://github.com/shishkabab),  [@worldbrain](https://github.com/worldbrain) | Don't Get Punished for Early Architecture Decisions | soon™ |
