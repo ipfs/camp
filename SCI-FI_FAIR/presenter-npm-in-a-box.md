@@ -1,5 +1,5 @@
 # What is the NAME of your project?
-NPM in a box
+npm in a box
 
 # What DOES THE PROJECT DO/what will you SHOW?
 npm in a box is your own personal mirror for the public npm registry running on a Raspberry Pi connected to your local network.
