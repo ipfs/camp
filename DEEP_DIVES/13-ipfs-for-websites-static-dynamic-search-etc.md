@@ -36,14 +36,29 @@ Some possible requirements...
 * [End-to-end tutorial for publishing an update-able static website with human-readable name with IPFS and IPNS](https://medium.com/coinmonks/how-to-add-site-to-ipfs-and-ipns-f121b4cfc8ee)
 * (Add yours with a PR!)
 
-# Deep Dive: Websites on IPFS
+## Team
+
+* [@autonome](https://github.com/autonome)
+* Andre
+* Sarah
+* [@litvintech](https://github.com/litvintech)
+* Johnathan
+
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_133)
+
+## Notes
+
+### Deep Dive: Websites on IPFS
 
 1. Explain the problem
 2. Design solutions
 3. Send PR to camp repo
 4. Design slide for report back
 
-## (WEBSITES ARE) THE PROBLEM
+### (WEBSITES ARE) THE PROBLEM
 
 Interests
 * search
@@ -55,7 +70,7 @@ Interests
 
 SEARCH IS THE PROBLEM
 
-## What's ok?
+### What's ok?
 
 * what privacy problems in search?
 * moral divisions?
@@ -88,14 +103,14 @@ SEARCH IS THE PROBLEM
 * cid -> content
 * name (cid) -> content (cid)
 
-## What's hard
+### What's hard
 
 * hard to find
 * hard to discover
 * hard to index
 * disambiguation
 
-## Solutionising
+### Solutionising
 
 * can have a bot?
 * push a bunch to elastic search?
@@ -170,7 +185,7 @@ SEARCH IS THE PROBLEM
 * both is best
 * if you remove the economic incentive does it still work?
 
-## Taxonomy
+### Taxonomy
 
 Active Indexing
 * deliberately crafted indexes
@@ -204,7 +219,7 @@ THE CYCLE
   * passive does that over time
   * happy/sad
 
-## web3
+### web3
 
 * distributed computing of data
 * blockchain dapps
@@ -213,7 +228,7 @@ THE CYCLE
 * web2 -> change those webpages you visit
 * web3 -> layer of trust for those webpages
 
-## QRI
+### QRI
 
 * fire off a message
 * each node looks into their local store
@@ -230,7 +245,7 @@ THE CYCLE
 * bigger problem than schemas is indexing
 * what do you index
 
-## More
+### More
 
 * what about snakes
 * index plain text search
