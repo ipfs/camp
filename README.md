@@ -13,13 +13,48 @@ If you missed IPFS Camp or want to revisit its content, everything will remain a
 
 You can find the content description, speakers and trainers at:
 
-- **[👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES)**
-- **[🐋 Deep Dives](DEEP_DIVES)**
-- **[⚡️ Lightning Talks](LIGHTNING_TALKS)**
-- **[📃 Poster Projects](POSTER_PROJECTS)**
-- **[🐚 Quiet Room](QUIET_ROOM)**
-- **[🧬 Sci-Fi Fair](SCI-FI_FAIR)**
-- **[🧩 Unconf](UNCONF)**
+### [👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES)
+
+### [📃 Poster Projects](POSTER_PROJECTS)
+
+### [🐋 Deep Dives](DEEP_DIVES)**
+
+### [⚡️ Lightning Talks](LIGHTNING_TALKS)
+
+| Presenter     | Name & GitHub handle  | Topic         | Recording |
+| ------------- | --------------------- | ------------- | --------- |
+| <img src="https://avatars1.githubusercontent.com/u/607609?s=460&v=4" width="150" /> | Justin Maier ([@justmaier](https://github.com/JustMaier)) and Victor Rortvedt ([@twoirtter](https://github.com/vrortvedt))  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/665810?s=460&v=4" width="150" /> | Alex Potsides ([@achingbrain](https://github.com/achingbrain))  | npm on IPFS: Using IPFS to install your JavaScript dependencies 📦  | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/30949000?s=400&v=4" width="150" /> | Shokunin ([@leshokunin](https://github.com/leshokunin)) | Building a Dropbox replacement on IPFS and Textile | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/2630?s=460&v=4" width="150" /> | Makoto Inoue ([@makoto](https://github.com/makoto))  | ENS + IPFS: Using ENS as a naming system for IPFS  | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="150" /> | Benjamin Kampmann ([@gnunicorn](https://github.com/gnunicorn)) | [Changing the record: Using substrate to add a custom blockchain to your IPFS dweb app](https://docs.google.com/presentation/d/14bC3t4BxV4raYG-HyFuYcxcuv5leciX36lc0B98WAvs/edit?usp=sharing) | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/1060?s=460&v=4" width="150" /> | Andrew Nesbitt ([@andrew](https://github.com/andrew))  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/11023317?s=460&v=4" width="150" /> | Blake Joyce ([@bjoyce3](https://github.com/bjoyce3)) | Who wins in a fight: Superman, HTTPS, or IPFS? | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/1489143?s=460&v=4" width="150" /> | Pierre Neidhardt ([@ambrevar](https://github.com/ambrevar)) | Package distribution using IPFS on Guix 📦 | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/5924712?s=460&v=4" width="150" /> | Adrian Lanzafame ([@lanzafame](https://github.com/Lanzafame))  | A quick look into the Pinning API proposal | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/410789?s=460&v=4" width="150" /> | Dmitry Starodubcev ([@xhipster](https://github.com/xhipster))  | CYB: Your personal robot on the Great Web  | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/627638?s=460&v=4" width="150" /> | Eric Myhre ([@warpfork](https://github.com/warpfork))  | Solving the distributed naming problem (!) in the applied cases of package management 📦 | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan)) | go-ds-crdt: CRDT KV stores arrive in go-land  | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/1154390?s=460&v=4" width="150" /> | Brendan O'Brien ([@b5](https://github.com/b5))  | Using dsync for point-to-point DAG transfer | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/370259?s=460&v=4" width="150" /> | Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Content addressing and personal data sovereignty | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/860295?s=460&v=4" width="150" /> | Kinuko Yasuda ([@kinu](https://github.com/kinu)) and Jim Pick ([@jimpick](https://github.com/jimpick)) | Signed exchanges in Chrome | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/6493975?s=460&v=4" width="150" /> | Edgar Lee ([@hinshun](https://github.com/hinshun)) | Containerd meets IPFS | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/5222525?s=460&v=4" width="150" /> | Antoine Eddi ([@aeddi](https://github.com/aeddi)) | Implementing libp2p over Bluetooth Low Energy | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/21236?s=460&v=4" width="150" /> | Irakli Gozalishvili ([@gozala](https://github.com/gozala))  | Inter Planetary Data Feed (IPDF) | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="150" /> | Gonçalo Pestana ([@gpestana](https://github.com/gpestana)) | Privacy in P2P networks: DHTs and IPFS | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/81581?s=460&v=4" width="150" /> | Victor Grishchenko ([@gritzko](https://github.com/gritzko))  | An overview of RON | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/248257?s=460&v=4" width="150" /> | Rüdiger Klaehn ([@rklaehn](https://github.com/rklaehn))  | Actyx's experiences on building with IPFS | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/11004800?s=460&v=4" width="150" /> | Jonathan Budd ([@cesarosum](https://github.com/cesarosum)) | Peergos: E2E encrypted storage and social network on IPFS | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/1017236?s=460&v=4" width="150" /> | André Cruz ([@satazor](https://github.com/satazor)) | Introducing Nomios | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/17089485?s=460&v=4" width="150" /> | Alexandre Trottier ([@postables](https://github.com/postables)) | Why open source matters and how individuals can further the movement | soon™ |
+
+Note: topics relevant to package managers have a 📦 suffix.
+
+### [🧬 Sci-Fi Fair](SCI-FI_FAIR)
+
+### [🧩 Unconf](UNCONF)
+
+### [🐚 Quiet Room](QUIET_ROOM)
 
 ## Wanna join the Community Conversation?
 
@@ -41,4 +76,3 @@ You can edit an [\_Prtcl-powered](www.uprtcl.io) shared notepad for the IPFS Cam
 The schedule for the event can be found at **https://camp.ipfs.io/schedule**
 
 Chat #ipfs-camp@freenode using any IRC client or [through the Matrix bridge](https://riot.im/app/#/room/#freenode_#ipfs-camp:matrix.org)
-
