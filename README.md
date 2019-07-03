@@ -94,6 +94,8 @@ TODO
 
 ### [🐚 Quiet Room](QUIET_ROOM)
 
+The quiet room was a place for resting, reflecting, and taking space from the excitement of camp. Let your brain cool after a full day of learning. Learn more about it at [🐚 Quiet Room](QUIET_ROOM).
+
 ## Wanna join the Community Conversation?
 
 Meet us at:
