@@ -34,7 +34,11 @@ You can find the content description, speakers and trainers at:
 
 ### [📃 Poster Projects](POSTER_PROJECTS)
 
+TODO
+
 ### [🐋 Deep Dives](DEEP_DIVES)
+
+TODO
 
 ### [⚡️ Lightning Talks](LIGHTNING_TALKS)
 
@@ -69,7 +73,24 @@ Note: topics relevant to package managers have a 📦 suffix.
 
 ### [🧬 Sci-Fi Fair](SCI-FI_FAIR)
 
+| Project           | Presenter         | Description | Interview
+| -------------     | -------------     | ------------- | -- |
+| RPi cluster       | @hsanjuan, @lanzafame   | ipfs-cluster... on Raspberry Pi | soon™ |
+| Actyx             |  @rklaehn  | Industrial automation on IPFS | soon™ |
+| npm-in-a-box      | @achingbrain | what is says on the tin | soon™ |
+| The Gathering     | @JustMaier | conference networking on decentralized networks | soon™ |
+| Textile Photos    | @andrewxhill, @carsonfarmer, @balupton | a decentralized photo booth | soon™ |
+| Lazer Catbot      | @gorhgorh | 😼 | soon™ |
+| FAPRS             | @MarneeDear | IPFS over Ham Radio | soon™ |
+| Brave             | @yrliou, @darkdh, @emerick | native IPFS in Brave browser! | soon™ |
+| ENS               | @makoto | resolving ENS/IPFS with DNS | soon™ |
+| IPFS Spider       | @magnshen | crawling the IPFS network | soon™ |
+| Cluster Labs Horizon + more | @vasa-develop | viz for the RPi cluster + more | soon™ |
+| libp2p-ble-transport | @aeddi | IPFS over other kinds of radio! | soon™ |
+
 ### [🧩 Unconf](UNCONF)
+
+TODO
 
 ### [🐚 Quiet Room](QUIET_ROOM)
 
