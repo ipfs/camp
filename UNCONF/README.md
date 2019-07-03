@@ -20,6 +20,10 @@ Our unconf time on Saturday will be split into two halves so that presenters wil
 
 Hosts, the Unconf Wall will have all the details you need in order to sign up for the best time for you!
 
+## [Added post-camp] Which unconfs happened at 2019 IPFS Camp?
+
+The full list and links to artifacts can be found in the main [README](https://github.com/ipfs/camp).
+
 ## Overview
 
 - **Objective**: Create a space to host all sorts of discussions to be had in person that didn’t fit all the other sessions, or that expand on sessions
