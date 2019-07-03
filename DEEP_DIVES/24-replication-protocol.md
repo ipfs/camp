@@ -28,7 +28,17 @@ In this session, we'll explore potential alternatives to Bitswap, and the potent
 [IPLD Selector Spec](https://github.com/ipld/specs/blob/master/block-layer/selectors/selectors.md)
 [GraphSync Spec](https://github.com/ipld/specs/blob/master/block-layer/graphsync/graphsync.md)
 
-## Discussion Summary
+## Team
+
+* [@hannahhoward](https://github.com/hannahhoward)
+* [@jacobheun](https://github.com/jacobheun)
+* [@teh-f00l](https://github.com/teh-f00l)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_188)
+
+## Notes
 
 ### Laying out the Problem
 
