@@ -73,32 +73,32 @@ Will be listed here soon™
 
 ## [⚡️ Lightning Talks](LIGHTNING_TALKS)
 
-| Presenter     | Name & GitHub handle  | Topic         | Recording |
-| ------------- | --------------------- | ------------- | --------- |
-| <img src="https://avatars1.githubusercontent.com/u/607609?s=460&v=4" width="150" /> | Justin Maier ([@justmaier](https://github.com/JustMaier)) and Victor Rortvedt ([@twoirtter](https://github.com/vrortvedt))  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  | soon™ |
-| <img src="https://avatars0.githubusercontent.com/u/665810?s=460&v=4" width="150" /> | Alex Potsides ([@achingbrain](https://github.com/achingbrain))  | npm on IPFS: Using IPFS to install your JavaScript dependencies 📦  | soon™ |
-| <img src="https://avatars1.githubusercontent.com/u/30949000?s=400&v=4" width="150" /> | Shokunin ([@leshokunin](https://github.com/leshokunin)) | Building a Dropbox replacement on IPFS and Textile | soon™ |
-| <img src="https://avatars0.githubusercontent.com/u/2630?s=460&v=4" width="150" /> | Makoto Inoue ([@makoto](https://github.com/makoto))  | ENS + IPFS: Using ENS as a naming system for IPFS  | soon™ |
-| <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="150" /> | Benjamin Kampmann ([@gnunicorn](https://github.com/gnunicorn)) | [Changing the record: Using substrate to add a custom blockchain to your IPFS dweb app](https://docs.google.com/presentation/d/14bC3t4BxV4raYG-HyFuYcxcuv5leciX36lc0B98WAvs/edit?usp=sharing) | soon™ |
-| <img src="https://avatars2.githubusercontent.com/u/1060?s=460&v=4" width="150" /> | Andrew Nesbitt ([@andrew](https://github.com/andrew))  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  | soon™ |
-| <img src="https://avatars1.githubusercontent.com/u/11023317?s=460&v=4" width="150" /> | Blake Joyce ([@bjoyce3](https://github.com/bjoyce3)) | Who wins in a fight: Superman, HTTPS, or IPFS? | soon™ |
-| <img src="https://avatars0.githubusercontent.com/u/1489143?s=460&v=4" width="150" /> | Pierre Neidhardt ([@ambrevar](https://github.com/ambrevar)) | Package distribution using IPFS on Guix 📦 | soon™ |
-| <img src="https://avatars2.githubusercontent.com/u/5924712?s=460&v=4" width="150" /> | Adrian Lanzafame ([@lanzafame](https://github.com/Lanzafame))  | A quick look into the Pinning API proposal | soon™ |
-| <img src="https://avatars1.githubusercontent.com/u/410789?s=460&v=4" width="150" /> | Dmitry Starodubcev ([@xhipster](https://github.com/xhipster))  | CYB: Your personal robot on the Great Web  | soon™ |
-| <img src="https://avatars0.githubusercontent.com/u/627638?s=460&v=4" width="150" /> | Eric Myhre ([@warpfork](https://github.com/warpfork))  | Solving the distributed naming problem (!) in the applied cases of package management 📦 | soon™ |
-| <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan)) | go-ds-crdt: CRDT KV stores arrive in go-land  | soon™ |
-| <img src="https://avatars1.githubusercontent.com/u/1154390?s=460&v=4" width="150" /> | Brendan O'Brien ([@b5](https://github.com/b5))  | Using dsync for point-to-point DAG transfer | soon™ |
-| <img src="https://avatars3.githubusercontent.com/u/370259?s=460&v=4" width="150" /> | Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Content addressing and personal data sovereignty | soon™ |
-| <img src="https://avatars0.githubusercontent.com/u/860295?s=460&v=4" width="150" /> | Kinuko Yasuda ([@kinu](https://github.com/kinu)) and Jim Pick ([@jimpick](https://github.com/jimpick)) | Signed exchanges in Chrome | soon™ |
-| <img src="https://avatars2.githubusercontent.com/u/6493975?s=460&v=4" width="150" /> | Edgar Lee ([@hinshun](https://github.com/hinshun)) | Containerd meets IPFS | soon™ |
-| <img src="https://avatars1.githubusercontent.com/u/5222525?s=460&v=4" width="150" /> | Antoine Eddi ([@aeddi](https://github.com/aeddi)) | Implementing libp2p over Bluetooth Low Energy | soon™ |
-| <img src="https://avatars1.githubusercontent.com/u/21236?s=460&v=4" width="150" /> | Irakli Gozalishvili ([@gozala](https://github.com/gozala))  | Inter Planetary Data Feed (IPDF) | soon™ |
-| <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="150" /> | Gonçalo Pestana ([@gpestana](https://github.com/gpestana)) | Privacy in P2P networks: DHTs and IPFS | soon™ |
-| <img src="https://avatars2.githubusercontent.com/u/81581?s=460&v=4" width="150" /> | Victor Grishchenko ([@gritzko](https://github.com/gritzko))  | An overview of RON | soon™ |
-| <img src="https://avatars3.githubusercontent.com/u/248257?s=460&v=4" width="150" /> | Rüdiger Klaehn ([@rklaehn](https://github.com/rklaehn))  | Actyx's experiences on building with IPFS | soon™ |
-| <img src="https://avatars3.githubusercontent.com/u/11004800?s=460&v=4" width="150" /> | Jonathan Budd ([@cesarosum](https://github.com/cesarosum)) | Peergos: E2E encrypted storage and social network on IPFS | soon™ |
-| <img src="https://avatars3.githubusercontent.com/u/1017236?s=460&v=4" width="150" /> | André Cruz ([@satazor](https://github.com/satazor)) | Introducing Nomios | soon™ |
-| <img src="https://avatars0.githubusercontent.com/u/17089485?s=460&v=4" width="150" /> | Alexandre Trottier ([@postables](https://github.com/postables)) | Why open source matters and how individuals can further the movement | soon™ |
+| Presenter     | Name & GitHub handle  | Topic         | Slides | Recording |
+| ------------- | --------------------- | ------------- | --------- | --------- |
+| <img src="https://avatars1.githubusercontent.com/u/607609?s=460&v=4" width="150" /> | Justin Maier ([@justmaier](https://github.com/JustMaier)) and Victor Rortvedt ([@twoirtter](https://github.com/vrortvedt))  | Introducing The Gathering, a web app built with Libp2p to improve in-person networking at conferences and gatherings  | soon™ | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/665810?s=460&v=4" width="150" /> | Alex Potsides ([@achingbrain](https://github.com/achingbrain))  | npm on IPFS: Using IPFS to install your JavaScript dependencies 📦  | soon™ | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/30949000?s=400&v=4" width="150" /> | Shokunin ([@leshokunin](https://github.com/leshokunin)) | Building a Dropbox replacement on IPFS and Textile | soon™ | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/2630?s=460&v=4" width="150" /> | Makoto Inoue ([@makoto](https://github.com/makoto))  | ENS + IPFS: Using ENS as a naming system for IPFS  | soon™ | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="150" /> | Benjamin Kampmann ([@gnunicorn](https://github.com/gnunicorn)) | [Changing the record: Using substrate to add a custom blockchain to your IPFS dweb app](https://docs.google.com/presentation/d/14bC3t4BxV4raYG-HyFuYcxcuv5leciX36lc0B98WAvs/edit?usp=sharing) | soon™ | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/1060?s=460&v=4" width="150" /> | Andrew Nesbitt ([@andrew](https://github.com/andrew))  | Republishing a project's npm dependencies to IPFS as a micro-registry 📦  | soon™ | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/11023317?s=460&v=4" width="150" /> | Blake Joyce ([@bjoyce3](https://github.com/bjoyce3)) | Who wins in a fight: Superman, HTTPS, or IPFS? | soon™ | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/1489143?s=460&v=4" width="150" /> | Pierre Neidhardt ([@ambrevar](https://github.com/ambrevar)) | Package distribution using IPFS on Guix 📦 | soon™ | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/5924712?s=460&v=4" width="150" /> | Adrian Lanzafame ([@lanzafame](https://github.com/Lanzafame))  | A quick look into the Pinning API proposal | soon™ | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/410789?s=460&v=4" width="150" /> | Dmitry Starodubcev ([@xhipster](https://github.com/xhipster))  | CYB: Your personal robot on the Great Web  | soon™ | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/627638?s=460&v=4" width="150" /> | Eric Myhre ([@warpfork](https://github.com/warpfork))  | Solving the distributed naming problem (!) in the applied cases of package management 📦 | soon™ | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/1027022?s=460&v=4" width="150" /> | Héctor Sanjuán ([@hsanjuan](https://github.com/hsanjuan)) | go-ds-crdt: CRDT KV stores arrive in go-land  | soon™ | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/1154390?s=460&v=4" width="150" /> | Brendan O'Brien ([@b5](https://github.com/b5))  | Using dsync for point-to-point DAG transfer | soon™ | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/370259?s=460&v=4" width="150" /> | Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Content addressing and personal data sovereignty | soon™ | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/860295?s=460&v=4" width="150" /> | Kinuko Yasuda ([@kinu](https://github.com/kinu)) and Jim Pick ([@jimpick](https://github.com/jimpick)) | Signed exchanges in Chrome | soon™ | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/6493975?s=460&v=4" width="150" /> | Edgar Lee ([@hinshun](https://github.com/hinshun)) | Containerd meets IPFS | soon™ | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/5222525?s=460&v=4" width="150" /> | Antoine Eddi ([@aeddi](https://github.com/aeddi)) | Implementing libp2p over Bluetooth Low Energy | soon™ | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/21236?s=460&v=4" width="150" /> | Irakli Gozalishvili ([@gozala](https://github.com/gozala))  | Inter Planetary Data Feed (IPDF) | soon™ | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="150" /> | Gonçalo Pestana ([@gpestana](https://github.com/gpestana)) | Privacy in P2P networks: DHTs and IPFS | soon™ | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/81581?s=460&v=4" width="150" /> | Victor Grishchenko ([@gritzko](https://github.com/gritzko))  | An overview of RON | soon™ | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/248257?s=460&v=4" width="150" /> | Rüdiger Klaehn ([@rklaehn](https://github.com/rklaehn))  | Actyx's experiences on building with IPFS | soon™ | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/11004800?s=460&v=4" width="150" /> | Jonathan Budd ([@cesarosum](https://github.com/cesarosum)) | Peergos: E2E encrypted storage and social network on IPFS | soon™ | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/1017236?s=460&v=4" width="150" /> | André Cruz ([@satazor](https://github.com/satazor)) | Introducing Nomios | soon™ | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/17089485?s=460&v=4" width="150" /> | Alexandre Trottier ([@postables](https://github.com/postables)) | Why open source matters and how individuals can further the movement | soon™ | soon™ |
 
 Note: topics relevant to package managers have a 📦 suffix.
 
@@ -121,7 +121,29 @@ Note: topics relevant to package managers have a 📦 suffix.
 
 ## [🧩 Unconf](UNCONF)
 
-Will be listed here soon™
+| Host     | GitHub handle  | Topic | Notes/Artifacts |
+| ------------- | --------------------- | ------------- | --------- | 
+| <img src="https://avatars3.githubusercontent.com/u/28847087?s=460&v=4" width="150" /> | [@vasa-develop](https://github.com/vasa-develop) | Dappbase: Firebase for Dapps | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/3278772?s=460&v=4" width="150" /> | [@pepoospina](https://github.com/pepoospina) | Underscore Protocol | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/21236?s=460&v=4" width="150" /> | [@gozala](https://github.com/gozala) | Embedding IPFS Values Into the Web | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/47656053?s=460&v=4" width="150" /> | [@caojingbin](https://github.com/caojingbin) | Video Website Based on IPNS | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/37121519?s=460&v=4" width="150" /> | [@mairkur](https://github.com/mairkur) | Medwish: A Decentralized Health Ecosystem | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/23247?s=460&v=4" width="150" /> | [@soapdog](https://github.com/soapdog) | Secure Scuttlebutt | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/50027421?s=460&v=4" width="150" /> | [@janjanovna](https://github.com/janjanovna) | Unified User Interface for the New Web | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/10411723?s=460&v=4" width="150" /> | [@steven004](https://github.com/steven004) | A New Layer to Bridge IPFS and HTTP Apps and Users | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/179418?s=460&v=4" width="150" /> | [@ianopolous](https://github.com/ianopolous) | Peergos: Private Social Network | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/468729?s=460&v=4" width="150" /> | [@xavivives](https://github.com/xavivives) | Personal Knowledge Graphs | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="150" /> | [@gnunicorn](https://github.com/gnunicorn) | Blockchain & IPFS, yay?!? | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/477149?s=460&v=4" width="150" /> | [@shishkabab](https://github.com/shishkabab),  [@worldbrain](https://github.com/worldbrain) | Don't Get Punished for Early Architecture Decisions | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/138401?s=460&v=4" width="150" /> | [@jbenet](https://github.com/jbenet) | Structuring IPFS Research | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="150" /> | [@gpestana](https://github.com/gpestana) | P3LIB: Privacy-Preserving Primitives for libp2p | soon™ |
+| <img src="https://avatars0.githubusercontent.com/u/1489143?s=460&v=4" width="150" /> | [@ambrevar](https://github.com/ambrevar) | Next Browser | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/30993489?s=460&v=4" width="150" /> | [@solangegueiros](https://github.com/solangegueiros) | Index and Search in Web3 | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/5526331?s=460&v=4" width="150" /> | [@adria0](https://github.com/adria0) | Zk-Snarks & IDEN3 Circom Compiler | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/35669742?s=460&v=4" width="150" /> | [@nukemandan](https://github.com/nukemandan) | Resource-Sharing Incentives Without Cryptocurrency | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/1657498?s=460&v=4" width="150" /> | [@jkarni](https://github.com/jkarni) | The Radicle Stack | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/13193437?s=460&v=4" width="150" /> | [@prtfw](https://github.com/Prtfw) | Federated Learning on the Chain/IPFS | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/6885592?s=460&v=4" width="150" /> | [@codynhat](https://github.com/codynhat) | Retiring Web 2.0 | soon™ |
 
 ## 🎤 Project Interviews
 
