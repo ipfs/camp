@@ -29,7 +29,17 @@ Reliable IPFS node accessible by web applications across all the mainstream brow
 - [ipfs-shipyard/ipfs-service-worker](https://github.com/ipfs-shipyard/ipfs-service-worker)
 - [Lunet](https://github.com/gozala/lunet)
 
-## Deep Dive Conclusions
+## Team
+
+* [@gozala](https://github.com/gozala)
+* [@aknuds1](https://github.com/aknuds1)
+* [@zeckli](https://github.com/zeckli)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_276)
+
+## Notes
 
 ### Browser should act as a single IPFS node rather than each app embedding a separate node
 https://sharednode.ipfs.io/shared-ipfs.js when loaded creates a hidden iframe in the document and loads https://sharednode.ipfs.io/proxy.html. proxy.html spawns a shared worker, which has a JS-IPFS node in it. shared-ipfs.js directs all requests to proxy.html through the message port, which proxy.html forwards to the shared worker. js-ipfs serves the request and the response is routed back.
