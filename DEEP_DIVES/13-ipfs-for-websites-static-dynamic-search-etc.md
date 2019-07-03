@@ -39,10 +39,10 @@ Some possible requirements...
 ## Team
 
 * [@autonome](https://github.com/autonome)
-* Andre
-* Sarah
+* [@soapdog](https://github.com/soapdog)
+* [@ana0](https://github.com/ana0)
 * [@litvintech](https://github.com/litvintech)
-* Johnathan
+* [@schwartz10](https://github.com/schwartz10)
 
 
 ## Presentation
