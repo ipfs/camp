@@ -14,42 +14,43 @@ Peer to peer systems (IPNS, DAT, SSB, etc.) rely on public keys to identify peer
 - Eventually consistent (i.e. once a revocation makes eventually makes its way around the network it should be clear a revocation occurred)
 - UX
   
-  
-----------------------------------------------------------------------------
+## Team
 
-# Session Notes
+* [@smihaylov](https://github.com/smihaylov)
+* [@adria0](https://github.com/adria0)
+* [@jonnycrunch](https://github.com/jonnycrunch)
+* [@eshon](https://github.com/eshon)
+* [@aschmahmann](https://github.com/aschmahmann)
 
-## Participants
+## Presentation
 
-- Stanislav Mihaylov ( @smihaylov )  
-- Adrià Massanet ( IDEN3, @adria0 )
-- jonnycrunch ( @jonnycrunch) 
-- Eva PL ( @eshon ) - tried to order stuff below but feel free to edit anything!
-- Adin Schmahmann (@aschmahmann ) 
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_144)
 
-##  Problem statement
+## Notes
+
+###  Problem statement
 
 - So much is reliant on the security of the control of the IPNS keys
 - How do we declare that a particular key has been compromised, lost and just updated? 
 - How do we update and rotate a key to a new key? 
 - There is no sense of time in the DWeb 
 
-### Why are we updating the key? 
+#### Why are we updating the key? 
 
 1. Machine has been compromised ( thief may also rotate keys )
 2. Good housekeeping to rotate the keys 
 3. Lost your key and want to be safe ( not in scope )
 
-### Zooko's triangle 
+#### Zooko's triangle 
 - non-consensus, uniqueness, human-readable 
 
-## Top Solutions
+### Top Solutions
 
 **TODO**
 - ZkSnark of Revocation proof?
 - Consensus within a smaller namespace???
 
-## Solutions
+### Solutions
 
 ###### What happens when you invalidate your IPNS record?
 - Set the incrementer to max integer & Set the (Validity/End of Life) EOL to infinity.  
@@ -95,7 +96,7 @@ Peer to peer systems (IPNS, DAT, SSB, etc.) rely on public keys to identify peer
 - 2 new field that includes `previous` and `set revoke`, even if a malicious actor has access, as long has you can write once and set to revoked, the check whether valid = 0 ever existed in any previous entry.  
 
 
-### ZkSnark of Revocation proof? 
+#### ZkSnark of Revocation proof? 
 - master key + operational keys - Alabama maze problem
 - pre-derived certified chain of rotation keys based on master key with derivations hidden by zkSnarks
 - Benefits: pre-rotation can provide time/global ordering and solves how to rotate keys after keys are compromised 
@@ -114,7 +115,7 @@ Peer to peer systems (IPNS, DAT, SSB, etc.) rely on public keys to identify peer
 
 
 
-### Notes 
+#### Notes 
 - there is a bug in the documentation that doesn't state that the signature includes the sequence number 
 - "it's turtles all the way down" key protecting a key protecting a key protecting a key 
 - just present user all the options?
@@ -122,6 +123,6 @@ Peer to peer systems (IPNS, DAT, SSB, etc.) rely on public keys to identify peer
 
 
 
-## References
+### References
 
 https://github.com/jonnycrunch/ipid/issues/4#issuecomment-503897437
