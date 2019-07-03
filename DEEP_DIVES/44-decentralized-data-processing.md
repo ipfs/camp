@@ -35,7 +35,7 @@ Process data efficiently (low cost, low latency) in a permissionless network.
 
 * [@alari](https://github.com/alari)
 * [@rittme](https://github.com/rittme)
-* [@romaricjuniet](https://github.com/romaricjuniet)
+* [@romaric-juniet](https://github.com/romaric-juniet)
 * [@andrewxhill](https://github.com/andrewxhill)
 * [@marneedear](https://github.com/marneedear)
 
