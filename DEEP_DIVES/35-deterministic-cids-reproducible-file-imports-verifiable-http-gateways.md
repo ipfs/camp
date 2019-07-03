@@ -24,11 +24,14 @@
 - Prioritizing unixfs-v2 ([ipfs/roadmap/issues/19](https://github.com/ipfs/roadmap/issues/19))
 
 
-# Notes from Deep Dive
+----------------------------------------------------------------------------
 
-## Team
+# Session Notes
 
-@lidel @drbh
+## Participants
+
+- [@lidel](http://github.com/lidel)
+- [@drbh](http://github.com/drbh)
 
 ## Problems 
 
@@ -48,7 +51,6 @@ Solutions:
 ###  Reproducible Archives
 
 > a way to do specify parameter space for ipfs add that is guaranteed to produce the same CID even if defaults change (package managers and other use cases that require convergence of past and future identifiers)
-  
   
 Solutions:
 
