@@ -14,7 +14,12 @@ Peer to peer systems (IPNS, DAT, SSB, etc.) rely on public keys to identify peer
 - Eventually consistent (i.e. once a revocation makes eventually makes its way around the network it should be clear a revocation occurred)
 - UX
   
-# Notes for Revocation/Rotating on IPNS keys
+  
+----------------------------------------------------------------------------
+
+# Session Notes
+
+## Participants
 
 - Stanislav Mihaylov ( @smihaylov )  
 - Adrià Massanet ( IDEN3, @adria0 )
@@ -29,8 +34,8 @@ Peer to peer systems (IPNS, DAT, SSB, etc.) rely on public keys to identify peer
 - How do we update and rotate a key to a new key? 
 - There is no sense of time in the DWeb 
 
-
 ### Why are we updating the key? 
+
 1. Machine has been compromised ( thief may also rotate keys )
 2. Good housekeeping to rotate the keys 
 3. Lost your key and want to be safe ( not in scope )
