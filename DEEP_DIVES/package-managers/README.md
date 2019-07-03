@@ -11,7 +11,7 @@
 
 ## What we did
 - Presented a summary of the [IPFS Package Managers Special Interest Group](https://github.com/ipfs/package-managers)'s work so far this year
-- Walked through the group's roadmap for next steps in 2019
+- [Walked through the group's roadmap](https://github.com/ipfs/camp/blob/master/DEEP_DIVES/package-managers/IPFS%20Camp%20Package%20Managers%20Deep%20Dive.pdf) for next steps in 2019
 - Discussed and ranked key pain points in the current package manager landscape that could be solved by incorporating IPFS, as well as potential benefits presented by IPFS-enabled package managers
 - In conjunction with [Pierre Niedhardt](https://github.com/ambrevar)'s [deep dive on problem solving for IPFS and Guix](https://github.com/ipfs/camp/blob/master/DEEP_DIVES/49-ipfs-and-guix.md), worked through open questions in the IPFS patch for Guix at [https://issues.guix.gnu.org/issue/33899](https://issues.guix.gnu.org/issue/33899)
 
