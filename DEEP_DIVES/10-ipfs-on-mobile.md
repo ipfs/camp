@@ -47,3 +47,60 @@ Mobile environments come with their own specific requirements to consider. Some 
   - [Android IPFS](https://github.com/Illinois-LCS/android-IPFS)
   - [IPFS Droid](https://github.com/ligi/IPFSDroid)
   - [Moin?](https://gitlab.com/remmer.wilts/threads-ipfs)
+
+## Team
+
+* [@carsonfarmer](https://github.com/carsonfarmer)
+* [@aeddi](https://github.com/aeddi)
+* [@codynhat](https://github.com/codynhat)
+* [@makcanca](https://github.com/makcanca)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_89)
+
+## Notes
+
+### Key Takeaway
+
+Key take home, is _not_ getting code to run, but rather, dealing with quirks of operating system.
+
+### Key issues
+
+- Network problems
+- Limited resources
+- Memory, CPU, battery
+- iOS background stuff
+- Moving targets
+- Etc...
+
+### Surprizing
+
+- Compiling worked pretty well
+- gomobile seems to be pretty magic
+
+### Other
+
+- Reviewed all the best practices and tips to run IPFS node on mobile
+- Want to establish a set of guidelines
+
+- Berty problems:
+  - To much goroutines (app sometimes killed on iOS)
+  - Need to optimize CPU and battery consumption
+
+Mustafa:
+- IPFS Cluster can be a solution because you can enter/quit the cluster anytime you want
+
+Berty Antoine:
+- We found a hack using voip notification on iOS to wake up the app more often
+
+Textile Carson:
+- If you app goes foreground then background pretty quickly will kill your connection, your daemon
+
+### Some solutions
+
+- In France, no port forwarding
+- Depending on connection type, can check if mdns is available
+- If in cellular mode, quic transport in libp2p, 
+- Bluetooth, good range (200m), still same issues with other protocols in terms of run time
+- Silent push notifications are possible but not ideal
