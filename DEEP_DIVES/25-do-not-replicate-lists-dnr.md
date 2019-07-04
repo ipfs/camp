@@ -42,7 +42,7 @@ Technical challenges:
 * [@olizilla](https://github.com/olizilla)
 * [@mburns](https://github.com/mburns)
 * [@frankieb](https://github.com/frankieb)
-* [@zhanna](https://github.com/zhanna)
+* [@janjanovna](https://github.com/janjanovna)
 * [@jnthnvctr](https://github.com/jnthnvctr)
 
 ## Presentation
