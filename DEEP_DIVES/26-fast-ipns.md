@@ -4,7 +4,7 @@ How to increase the IPNS resolution speed
 
 ## Goal
 
-- We should be able to come up with new ways to publish/resolve IPNS records or improve the existing ones. 
+- We should be able to come up with new ways to publish/resolve IPNS records or improve the existing ones.
 - We should be able to describe strategies to handle multiple ways to publish and resolve.
 
 ## Requirements to consider
@@ -17,6 +17,15 @@ How to increase the IPNS resolution speed
 - https://github.com/ipfs/specs/issues/198
 - https://github.com/ipfs/specs/blob/master/naming/README.md
 
-## Solution
+## Team
 
-https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_221
+* [@hugomrdias](https://github.com/hugomrdias)
+* [@postables](https://github.com/postables)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_221)
+
+# Notes
+
+TODO

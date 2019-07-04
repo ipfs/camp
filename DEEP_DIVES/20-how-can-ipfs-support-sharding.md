@@ -19,3 +19,16 @@ We should be able to shard arbitrarily large DAGs.
 https://cluster.ipfs.io/documentation/developer/rfcs/dag-sharding-rfc/
 
 (warning, might be a little bit old and innacurate, but gives a good overview!)
+
+## Team
+
+* [@huangyuming95](https://github.com/huangyuming95)
+* [@hsanjuan](https://github.com/hsanjuan)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c8d7f2770_11_0)
+
+## Notes
+
+TODO

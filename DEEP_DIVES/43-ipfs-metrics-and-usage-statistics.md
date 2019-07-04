@@ -15,9 +15,9 @@ We should be able to provide that list to the IPFS development team to help focu
   - Is metric collection done by a separate kind of IPFS node? If so, who runs these collector nodes?
 - Storage Logistics
   - Where do the collected metrics go?
-  - How is the metrics datastore accessed? 
-  - Who can access this metrics datastore? 
-- Meaningful Statistics 
+  - How is the metrics datastore accessed?
+  - Who can access this metrics datastore?
+- Meaningful Statistics
   - What information can we reliably extract from the network?
     - How to determine the distribution of a file across the network?
     - What is the average lifetime of a file on IPFS?
@@ -36,5 +36,19 @@ We should be able to provide that list to the IPFS development team to help focu
 - https://github.com/ipfs/go-ipfs/issues/5912
 - https://github.com/ipfs/integration-mini-projects/issues/14
 - https://github.com/whyrusleeping/ipfs-counter
+
+## Team
+
+* [@lanzafame](https://github.com/lanzafame)
+* [@abn](https://github.com/abn)
+* [@meiqimichelle](https://github.com/meiqimichelle)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_342)
+
+## Notes
+
+TODO
 
 [^1]: https://github.com/ipfs/integration-mini-projects/issues/14#issuecomment-495279240

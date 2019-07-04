@@ -15,7 +15,7 @@ In this session we'll be diving into a variety of related concerns, such as (but
 
 Our goal is to explore the current state of mounting IPFS, problems with it, and see what we can do to improve the next iterations.
 
-Long term we seek to acheive the ability to mount IPFS as a filesystem for use with existing systems and applications as well as a flexible way to craft new systems on top of. 
+Long term we seek to acheive the ability to mount IPFS as a filesystem for use with existing systems and applications as well as a flexible way to craft new systems on top of.
 When given a flexible filesystem API, developers are enabled to create a broad range of things at many levels.
 
 The operating system Plan9, takes heavy advantage of the [union mount](https://en.wikipedia.org/wiki/Union_mount) concept to construct trees of trees that transparently handle network traversal among other things.
@@ -33,3 +33,18 @@ https://github.com/ipfs/go-ipfs/blob/v0.4.21/docs/fuse.md
 https://github.com/ipfs/go-ipfs/issues/5003  
 https://github.com/ipfs/interface-go-ipfs-core/pull/30  
 https://github.com/tableflip/ipfs-fuse  
+
+## Team
+
+* [@djdv](https://github.com/djdv)
+* [@hinshun](https://github.com/hinshun)
+* [@vojtechsimetka](https://github.com/vojtechsimetka)
+* [@ianamunoz](https://github.com/ianamunoz)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_243)
+
+## Notes
+
+TODO

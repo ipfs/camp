@@ -25,11 +25,15 @@ Moreover, and if we have the time, come up with ideas for alternative ways to st
 - [IPID](https://did-ipid.github.io/ipid-did-method)
 - [IPNS](https://docs.ipfs.io/guides/concepts/ipns/)
 
-## Participants
+## Team
 
 - André Cruz [@satazor](https://github.com/satazor)
 - Masakazu Tanami [@tanamim](https://github.com/tanamim)
 - Dima Starodubcev [@xhipster](https://github.com/xhipster)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_67)
 
 ## Notes
 

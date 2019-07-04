@@ -31,3 +31,16 @@ Summary of the open questions:
 ## Where to learn about it
 
 - https://issues.guix.gnu.org/issue/33899
+
+## Team
+
+* [@ambrevar](https://github.com/ambrevar)
+* [@hsanjuan](https://github.com/hsanjuan)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c76a9d2d4_0_83)
+
+## Notes
+
+TODO
