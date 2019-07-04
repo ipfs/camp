@@ -23,17 +23,18 @@
 - Verifiable HTTP Gateway Responses: ([ipfs/in-web-browsers/issues/128](https://github.com/ipfs/in-web-browsers/issues/128))
 - Prioritizing unixfs-v2 ([ipfs/roadmap/issues/19](https://github.com/ipfs/roadmap/issues/19))
 
-
-----------------------------------------------------------------------------
-
-# Session Notes
-
-## Participants
+ ## Team
 
 - [@lidel](http://github.com/lidel)
 - [@drbh](http://github.com/drbh)
 
-## Problems 
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_265)
+
+## Notes
+
+### Problems 
 
 - Reproducing CID requires ipfs add params  
 - Client trusts HTTP Gateway to return valid payload  
@@ -45,7 +46,7 @@
 Due to limited time we focused on archival use case and unixfs/files.  
 We produced some solutions for Reproducible CIDs
 
-### Growing parameter space of `ipfs add`
+#### Growing parameter space of `ipfs add`
 
 `ipfs add --hash A --chunker B  --cid-version n [--trickle] [--raw-leaves] [--inline-limit] [--something-new]`
 
@@ -55,7 +56,7 @@ Solutions:
 - (B) improve UX of reading and passing entire parameter space 
   - `ipfs add --fmt fmtstr`
 
-###  Reproducible Archives
+####  Reproducible Archives
 
 > a way to do specify parameter space for ipfs add that is guaranteed to produce the same CID even if defaults change (package managers and other use cases that require convergence of past and future identifiers)
   
@@ -66,7 +67,7 @@ Solutions:
 - (B) Reproducible File Imports (parameter metadata embedded in unixfs-v2 - [ipfs/unixfs-v2/issues/15](https://github.com/ipfs/unixfs-v2/issues/15))
 
 
-### Data Preservation 
+#### Data Preservation 
  
 > ability to "revive" dead IPFS links even if the original DAG is not available anymore on the network
   
@@ -82,7 +83,7 @@ Solutions:
       - tries to build a DAG matching CID using known historical defaults 
     - throw an error if it was not possible to reproduce DAG matching provided CID 
   
-### Data Validation and HTTP Gateway Response Verification
+#### Data Validation and HTTP Gateway Response Verification
 
 > being able to confirm that payload returned by a HTTP Gateway is matching requested CID without running full IPFS node
 
@@ -94,7 +95,7 @@ Solution:
 - client can use it to build DAG and calculate CID for verification without running IPFS node 
 
 
-### Interop
+#### Interop
 
 > how to handle old data without `[the thing]`
 
