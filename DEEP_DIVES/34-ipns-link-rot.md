@@ -20,8 +20,19 @@ A method for keeping IPNS records alive after the publisher goes offline.
 
 https://github.com/ipfs/specs/tree/master/naming
 
+## Team
 
-## Proposed approach to improving IPNS link rot
+* [@alanshaw](https://github.com/alanshaw)
+* [@kanej](https://github.com/kanej)
+* [@auhau](https://github.com/auhau)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_254)
+
+## Notes
+
+### Proposed approach to improving IPNS link rot
 
 IPNS record have two values that affect how long they survive in the network.
 
@@ -34,8 +45,7 @@ We considered the problem of GC of the old version conflicting with an existing 
 
 This will enable a user to pin and republish a website, telling the IPFS node to keep the pinned website up to date and provide it to the network for the good of all.
 
-
-----------------------
+---
 
 IPNS records have a TTL of 1hr
 
@@ -55,38 +65,30 @@ Maybe end of life should be varied by performance profiles? Server that isn't ex
 Is the shortness of End of Life due to potential for spamming the network.
 
 Closest nodes are published to in the DHT (the same as )
-	IPNS record contains (see github but value, sequence number, )
+	IPNS record contains (see github but value, sequence number)
 
+#### Possible Approaches
 
+1. Delegated IPNS publishing - tell someone to republish, how do you get agreement?
+1. Tell node to continuously republish some other nodes IPNS - add an api call
+1. Auto IPNS republishing - Why don't readers of the IPNS record auto-republish, as they are likely to be interested?
+1. Pin IPNS records
+1. Auto pin IPNS records while the content is in your repo
 
+#### Concerns/problems
 
-Possible Approaches
--------------------
+* What does DAT do differently that allows them to republish?
+* Are we going to spam the DHT?
 
-Delegated Republish - tell someone to republish, how do you get agreement
-Why don't readers of the IPNS record auto-republish, as they are linked to be interested
-Tell node to continuously republish some other nodes IPNS - add an api call
-
-What does DAT do differently that allows them to republish
-
-Are we going to spam the DHT?
-
-
-IPNS over pubsub
------------------
+#### IPNS over pubsub
 
 Faster updates for users that have registered an interested. If your not online you aren't getting the message. Could you ask for resolution over a pubsub channel.
 
-
-
 What about multi-writers? If that gets solved
-
 
 Folder in MFS for pinned records
 
-
-What is the problem
--------------------
+#### What is the problem
 
 A method for keeping IPNS records alive after the publisher goes offline
 
@@ -99,5 +101,4 @@ The one we liked
 * detail
 * Trade-offs
 
-
-Introducint a new type of pin for IPNS.
+Introducing a new type of pin for IPNS.
