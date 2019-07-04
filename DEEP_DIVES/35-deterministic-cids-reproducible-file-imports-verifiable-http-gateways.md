@@ -23,21 +23,18 @@
 - Verifiable HTTP Gateway Responses: ([ipfs/in-web-browsers/issues/128](https://github.com/ipfs/in-web-browsers/issues/128))
 - Prioritizing unixfs-v2 ([ipfs/roadmap/issues/19](https://github.com/ipfs/roadmap/issues/19))
 
+ ## Team
 
-## Graphical interlude
+- [@lidel](http://github.com/lidel)
+- [@drbh](http://github.com/drbh)
 
-![](https://i.kym-cdn.com/photos/images/original/001/077/550/1d9.jpg)
+## Presentation
 
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_265)
 
-# Deep Dive Notes
+## Notes
 
-About session: [deterministic-cids-reproducible-file-imports-verifiable-http-gateways.md](https://github.com/ipfs/camp/blob/master/DEEP_DIVES/35-deterministic-cids-reproducible-file-imports-verifiable-http-gateways.md)
-
-
-## Team
-@lidel @drbh
-
-## Problems
+### Problems 
 
 - Reproducing CID requires ipfs add params  
 - Client trusts HTTP Gateway to return valid payload  
@@ -46,45 +43,62 @@ About session: [deterministic-cids-reproducible-file-imports-verifiable-http-gat
 - New params can be added  
 - Param space is really really really big  
 
-## Proposed Solutions
+Due to limited time we focused on archival use case and unixfs/files.  
+We produced some solutions for Reproducible CIDs
 
-### Growing parameter space of `ipfs add`
+#### Growing parameter space of `ipfs add`
 
 `ipfs add --hash A --chunker B  --cid-version n [--trickle] [--raw-leaves] [--inline-limit] [--something-new]`
 
+Solutions:
 
-###  Reproducible Archives
+- (A) remove parameters, make things deterministic
+- (B) improve UX of reading and passing entire parameter space 
+  - `ipfs add --fmt fmtstr`
+
+####  Reproducible Archives
 
 > a way to do specify parameter space for ipfs add that is guaranteed to produce the same CID even if defaults change (package managers and other use cases that require convergence of past and future identifiers)
   
-- hardcoding explicit parameters 
-  - what happens when new one is added?
-- Reproducible File Imports (parameter metadata embedded in unixfs-v2)
-- `ipfs add --fmt fmtstr`
+Solutions:
+
+- (A) Archive creator can pass explicit parameters every time `ipfs add` is called 
+  - Question: what happens when new one is added?
+- (B) Reproducible File Imports (parameter metadata embedded in unixfs-v2 - [ipfs/unixfs-v2/issues/15](https://github.com/ipfs/unixfs-v2/issues/15))
 
 
-
-### Data Preservation 
+#### Data Preservation 
  
 > ability to "revive" dead IPFS links even if the original DAG is not available anymore on the network
   
- -  track default parameters over time 
- 	- add `ipfs add --recreate CID file.jpg` 
-      - uses parameter space from CID root (if available)
-      - brute-forces CID using known historical defaults ([ipfs-catify](https://github.com/MichaelMure/ipfs-catify)-style))
+ Soution:
+ 
+ - we could support some sort of best-effort heuristic
+   - metadata from unixfsv2 if possble
+   - we can try known historical defaults
+ - prototype: add `ipfs add --expected-cid CID file.jpg` 
+    - tries to recreate DAG that hashes to provided CID or trows an error if does not have enough data to do that 
+      - if there is access to IPFS network, we can look for root block and fetch it to get metadata from unixfsv2
+        - useful when we want to revive "partially dead" DAGs 
+      - tries to build a DAG matching CID using known historical defaults 
+    - throw an error if it was not possible to reproduce DAG matching provided CID 
   
-  
-### Data Validation and HTTP Gateway Response Verification
+#### Data Validation and HTTP Gateway Response Verification
 
 > being able to confirm that payload returned by a HTTP Gateway is matching requested CID without running full IPFS node
 
+Solution:
 
-- detect parameter space metadata in unixfsv2, if missing then fallback to matching one of known defaults 
-  - A) use it to calculate CID for verification
-  - B) return it in HTTP Header
+- http gateway could detect the presence of DAG parameter metadata in unixfsv2
+- if missing then fallback to matching one of known defaults (logic shared with `ipfs add --expected-cid CID file.jpg`)
+- return metadata it in HTTP Header
+- client can use it to build DAG and calculate CID for verification without running IPFS node 
 
 
-### Interop
-  > how to handle old data without `[the thing]`
+#### Interop
 
-(see `--reproduce` idea above)
+> how to handle old data without `[the thing]`
+
+Solution: 
+
+- see "try historical defaults" in  `--expected-cid` idea above
