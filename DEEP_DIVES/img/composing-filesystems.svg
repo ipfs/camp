@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" xmlns:xl="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" viewBox="258.114 631.8584 388.924 405.64156" width="388.924" height="405.64156">
+  <defs>
+    <font-face font-family="Avenir" font-size="13" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Avenir-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <font-face font-family="Avenir" font-size="16" panose-1="2 11 7 3 2 2 3 2 2 4" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="480" cap-height="708" ascent="1e3" descent="-365.9973" font-weight="800">
+      <font-face-src>
+        <font-face-name name="Avenir-Heavy"/>
+      </font-face-src>
+    </font-face>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <metadata> Produced by OmniGraffle 7.10.2 
+    <dc:date>2019-06-29 14:36:22 +0000</dc:date>
+  </metadata>
+  <g id="Canvas_2" stroke-opacity="1" fill="none" stroke="none" fill-opacity="1" stroke-dasharray="none">
+    <title>Canvas 2</title>
+    <rect fill="white" x="258.114" y="631.8584" width="388.924" height="405.64156"/>
+    <g id="Canvas_2: Layer 1">
+      <title>Layer 1</title>
+      <g id="Graphic_68">
+        <path d="M 285.576 680 L 619.576 680 C 621.78514 680 623.576 681.7909 623.576 684 L 623.576 844.5 C 623.576 846.7091 621.78514 848.5 619.576 848.5 L 285.576 848.5 C 283.36686 848.5 281.576 846.7091 281.576 844.5 L 281.576 684 C 281.576 681.7909 283.36686 680 285.576 680 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_69">
+        <path d="M 282.614 894 L 416.538 894 C 418.74714 894 420.538 895.7909 420.538 898 L 420.538 1012 C 420.538 1014.2091 418.74714 1016 416.538 1016 L 282.614 1016 C 280.40486 1016 278.614 1014.2091 278.614 1012 L 278.614 898 C 278.614 895.7909 280.40486 894 282.614 894 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Graphic_75">
+        <path d="M 488.614 895 L 622.538 895 C 624.74714 895 626.538 896.7909 626.538 899 L 626.538 1013 C 626.538 1015.2091 624.74714 1017 622.538 1017 L 488.614 1017 C 486.40486 1017 484.614 1015.2091 484.614 1013 L 484.614 899 C 484.614 896.7909 486.40486 895 488.614 895 Z" stroke="#b9c0c1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="4.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_43">
+        <line x1="450.5" y1="721" x2="450.5" y2="758.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_44">
+        <line x1="456.78366" y1="778.5309" x2="485.61634" y2="819.9691" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_45">
+        <line x1="444.3093" y1="778.595" x2="416.1907" y2="819.905" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Group_51">
+        <g id="Graphic_38">
+          <circle cx="450.5" cy="710" r="11.0000175769208" fill="white"/>
+          <circle cx="450.5" cy="710" r="11.0000175769208" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_46">
+          <text transform="translate(476.232 701)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="0" y="13">/</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_52">
+        <g id="Graphic_39">
+          <circle cx="450.5" cy="769.5" r="11.0000175769208" fill="white"/>
+          <circle cx="450.5" cy="769.5" r="11.0000175769208" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_47">
+          <text transform="translate(473.8 760.5)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="0" y="13">/</tspan>
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" y="13">home</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Group_50">
+        <g id="Graphic_40">
+          <circle cx="410" cy="829" r="11.0000175769208" fill="white"/>
+          <circle cx="410" cy="829" r="11.0000175769208" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_41">
+          <circle cx="491.9" cy="829" r="11.0000175769208" fill="white"/>
+          <circle cx="491.9" cy="829" r="11.0000175769208" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        </g>
+        <g id="Graphic_48">
+          <text transform="translate(516.2 820)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="0" y="13">/</tspan>
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" y="13">bar</tspan>
+          </text>
+        </g>
+        <g id="Graphic_49">
+          <text transform="translate(432.07143 820)" fill="#515556">
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" x="0" y="13">/</tspan>
+            <tspan font-family="Avenir" font-size="13" font-weight="800" fill="#515556" y="13">foo</tspan>
+          </text>
+        </g>
+      </g>
+      <g id="Line_54">
+        <line x1="355.85966" y1="934.5309" x2="384.69234" y2="975.9691" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_55">
+        <line x1="343.3853" y1="934.595" x2="315.2667" y2="975.905" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_61">
+        <circle cx="349.576" cy="925.5" r="11.0000175769208" fill="white"/>
+        <circle cx="349.576" cy="925.5" r="11.0000175769208" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_66">
+        <circle cx="309.076" cy="985" r="11.0000175769208" fill="white"/>
+        <circle cx="309.076" cy="985" r="11.0000175769208" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_65">
+        <circle cx="390.976" cy="985" r="11.0000175769209" fill="white"/>
+        <circle cx="390.976" cy="985" r="11.0000175769209" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_67">
+        <text transform="translate(430.944 656.8584)" fill="#515556">
+          <tspan font-family="Avenir" font-size="16" font-weight="800" fill="#515556" x="0" y="16">VIPFS</tspan>
+        </text>
+      </g>
+      <g id="Line_70">
+        <line x1="561.85966" y1="935.5309" x2="590.69234" y2="976.9691" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Line_71">
+        <line x1="549.3853" y1="935.595" x2="521.2667" y2="976.905" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_72">
+        <circle cx="555.576" cy="926.5" r="11.0000175769207" fill="white"/>
+        <circle cx="555.576" cy="926.5" r="11.0000175769207" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_73">
+        <circle cx="515.076" cy="986" r="11.0000175769208" fill="white"/>
+        <circle cx="515.076" cy="986" r="11.0000175769208" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_74">
+        <circle cx="596.976" cy="986" r="11.0000175769207" fill="white"/>
+        <circle cx="596.976" cy="986" r="11.0000175769207" stroke="gray" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_76">
+        <text transform="translate(318.616 866.5)" fill="#515556">
+          <tspan font-family="Avenir" font-size="16" font-weight="800" fill="#515556" x="0" y="16">CampFS</tspan>
+        </text>
+      </g>
+      <g id="Graphic_77">
+        <text transform="translate(531.728 866.5)" fill="#515556">
+          <tspan font-family="Avenir" font-size="16" font-weight="800" fill="#515556" x="0" y="16">POSIX</tspan>
+        </text>
+      </g>
+      <g id="Line_78">
+        <path d="M 411.946 839.8275 C 413.1415 851.1547 412.7626 869.6526 401.976 886.8793 C 393.21804 900.8662 379.70595 910.6502 368.5966 916.8708" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+      <g id="Line_79">
+        <path d="M 488.6467 839.5102 C 482.3473 860.957 469.5281 910.6067 474.5517 944.6379 C 477.5767 965.1297 486.4158 975.5192 495.0697 980.7654" marker-end="url(#FilledArrow_Marker)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.0,4.0" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
