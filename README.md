@@ -127,7 +127,7 @@ Note: topics relevant to package managers have a 📦 suffix.
 | <img src="https://avatars1.githubusercontent.com/u/3278772?s=460&v=4" width="100" /> | [@pepoospina](https://github.com/pepoospina) | Underscore Protocol | soon™ |
 | <img src="https://avatars1.githubusercontent.com/u/21236?s=460&v=4" width="100" /> | [@gozala](https://github.com/gozala) | Embedding IPFS Values Into the Web | soon™ |
 | <img src="https://avatars2.githubusercontent.com/u/47656053?s=460&v=4" width="100" /> | [@caojingbin](https://github.com/caojingbin) | Video Website Based on IPNS | soon™ |
-| <img src="https://avatars1.githubusercontent.com/u/37121519?s=460&v=4" width="100" /> | [@mairkur](https://github.com/mairkur) | Medwish: A Decentralized Health Ecosystem | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/37121519?s=460&v=4" width="100" /> | [@mairkur](https://github.com/mairkur) | Medwish: A Decentralized Health Ecosystem | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-medwish-decentralized-health-ecosystem.md) |
 | <img src="https://avatars3.githubusercontent.com/u/23247?s=460&v=4" width="100" /> | [@soapdog](https://github.com/soapdog) | Secure Scuttlebutt | soon™ |
 | <img src="https://avatars0.githubusercontent.com/u/50027421?s=460&v=4" width="100" /> | [@janjanovna](https://github.com/janjanovna) | Unified User Interface for the New Web | soon™ |
 | <img src="https://avatars1.githubusercontent.com/u/10411723?s=460&v=4" width="100" /> | [@steven004](https://github.com/steven004) | A New Layer to Bridge IPFS and HTTP Apps and Users | soon™ |
