@@ -47,3 +47,18 @@ It will be helpful to have radicle installed. How to do so is described [here](h
 - Floodsub spec: https://github.com/libp2p/specs/tree/master/pubsub
 - Pubsub based on Epidemic Broadcast Trees: https://github.com/libp2p/specs/blob/master/pubsub/gossipsub/episub.md
 - Pubsub research: https://github.com/libp2p/research-pubsub
+
+## Team
+
+* [@jkarni](https://github.com/jkarni)
+* [@avras](https://github.com/avras)
+* [@guoliu](https://github.com/guoliu)
+* [@glouvigny](https://github.com/glouvigny)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_364)
+
+## Notes
+
+TODO

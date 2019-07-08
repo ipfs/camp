@@ -22,3 +22,21 @@ No specific requirements, since this is a discussion-based ideation session, but
 - [Package manager (pre-IPFS) pain points, sorted by user type](https://app.mural.co/t/protocollabs6957/m/protocollabs6957/1557168696127/577c9453a3c51199c8163cf0fe5701294e55f99b)
 - [Package manager goals in the 2019 IPFS roadmap](https://github.com/ipfs/roadmap#-package-managers-d1-e5-i3)
 - [Directory of existing package managers](https://github.com/ipfs/package-managers/blob/master/package-managers) with notes on language, categorization, clients and more
+
+## Team
+
+- Victor Grishchenko, [@gritzko](https://github.com/gritzko)
+- Molly Mackinlay, [@momack2](https://github.com/momack2)
+- Pierre Niedhardt, [@ambrevar](https://github.com/ambrevar)
+- Daniel Petranek, [@dpetranek](https://github.com/dpetranek)
+- Alex Potsides, [@achingbrain](https://github.com/achingbrain)
+- Héctor Sanjuán, [@hsanjuan](https://github.com/hsanjuan)
+- Jessica Schilling, [@jessicaschilling](https://github.com/jessicaschilling)
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_78)
+
+## Notes
+
+https://github.com/ipfs/camp/tree/master/DEEP_DIVES/package-managers
