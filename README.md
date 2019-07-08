@@ -125,7 +125,6 @@ Note: topics relevant to package managers have a 📦 suffix.
 | ------------- | --------------------- | ------------- | --------- | 
 | <img src="https://avatars3.githubusercontent.com/u/28847087?s=460&v=4" width="100" /> | [@vasa-develop](https://github.com/vasa-develop) | Dappbase: Firebase for Dapps | soon™ |
 | <img src="https://avatars1.githubusercontent.com/u/3278772?s=460&v=4" width="100" /> | [@pepoospina](https://github.com/pepoospina) | Underscore Protocol | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-knowledge-graphs_and_uprtcl.md) |
-| <img src="https://avatars1.githubusercontent.com/u/21236?s=460&v=4" width="100" /> | [@gozala](https://github.com/gozala) | Embedding IPFS Values Into the Web | soon™ |
 | <img src="https://avatars2.githubusercontent.com/u/47656053?s=460&v=4" width="100" /> | [@caojingbin](https://github.com/caojingbin) | Video Website Based on IPNS | soon™ |
 | <img src="https://avatars1.githubusercontent.com/u/37121519?s=460&v=4" width="100" /> | [@mairkur](https://github.com/mairkur) | Medwish: A Decentralized Health Ecosystem | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-medwish-decentralized-health-ecosystem.md) |
 | <img src="https://avatars3.githubusercontent.com/u/23247?s=460&v=4" width="100" /> | [@soapdog](https://github.com/soapdog) | Secure Scuttlebutt | soon™ |
