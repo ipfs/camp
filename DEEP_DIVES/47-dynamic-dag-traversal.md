@@ -1,28 +1,6 @@
 # DAG traversal of mutable resources
 
-## Overview
 
-I am developing an event-based data model for extended topic graphs. A key element is cross-protocol deep addressing of data elements. I would want to have a discussion with people interested in addressability, and especially a cross-protocol generalization of IPLD selectors to allow crossing mutable/immutable boundaries. Though I share the conviction that we need to focus more on immutable content, I think we need a hybrid scheme that can also handle references to objects that mutate rapidly, as in the case of high-throughput event streams.
-
-In particular, I'm interested in a data model where resources are built of a multitude of events, on a massive event queue, and a small client will want a subset of events pertaining to a meaningful subset of resources. Notably, the resources are not necessarily objects on the queue themselves, though references to immutable snapshots could be introduced on the queue.
-
-## Considerations
-
-A reference to a resource can be rooted either in an immutable snapshot, in a mutable resource, or both. The key to bridging those worlds is the ability to resolve references to mutable data into references to immutable data, and conversely the immutable reference should be aware of a mutable source so it can be updated.
-The reference to the service holding the mutable state of an immutable object is unique, and could itself be mutable, though those changes should be rare.
-
-## Goal
-
-So we would need to agree on:
-
-1. Ways to point to immutable resources from the mutable reference. This will be protocol-dependent; IPNS does exactly that, so nothing to add there, but we need to allow other methods for highly volatile systems. (I will present an proof of concept for a high-throughput event queue backed by kafka but made visible on IPFS.)
-2. Plugins to extract a reference to a mutable source from an immutable block, the way that IPLD extracts other immutable references. If this reference is not itself IPNS-based, it could be accessed through an IPNS layer, to avoid brittleness. (We need to distinguish those cases)
-3. A generalized IPLD selector syntax, that is not necessarily rooted in a CID
-4. Ensure that the selector syntax allows selecting a set of events based on conditions based on related references.
-
-## Where to learn about it
-
-[Hyperknowledge](https://gitlab.com/hyperknowledge/hyperknowledge) has some of the background and motivation for this, but this is about what we can develop together.
 
 ## Team
 
@@ -35,17 +13,38 @@ So we would need to agree on:
 
 🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_386)
 
-## Notes
+## Context
 
-### Motivation
-
-IPLD works on immutable DAG nodes. It may be possible to include refereces to external resources that are mutable, such as a collaborative document obtained through a URL. In fact, many "mutable" resources are the result of a computational process applied to data, which itself might be immutable, or composed of immutable elements, such as an event queue.
+IPLD works on immutable DAG nodes. It may be possible to include references to external resources that are mutable, such as a collaborative document obtained through a URL. In fact, many "mutable" resources are the result of a computational process applied to data, which itself might be immutable, or composed of immutable elements, such as an event queue.
 
 As such, instead of thinking of such a resource as mutable, we can think of it as a chain of immutable computation results that follows (a subset of) the chain of events. Each computation result could be made to contain a reference to its originating data (a point in an event chain) in such a way that the subsequent state may be retrieved (the head of the chain) and the result of the computation could be "updated", or more accurately replaced with the new value.
 
-### Elements of solution
+## Original motivation
 
-#### Remote process pointers
+I (@maparent) am developing [Hyperknowledge](https://gitlab.com/hyperknowledge/hyperknowledge), an event-based data model for extended topic graphs. A key element is cross-protocol deep addressing of data elements. I would want to have a discussion with people interested in addressability, and especially a cross-protocol generalization of IPLD selectors to allow crossing mutable/immutable boundaries. Though I share the conviction that we need to focus more on immutable content, I think we need a hybrid scheme that can also handle references to objects that mutate rapidly, as in the case of high-throughput event streams.
+
+In particular, I'm interested in a data model where resources are built of a multitude of events, on a massive event queue, and a small client will want a subset of events pertaining to a meaningful subset of resources. Notably, the resources are not necessarily objects on the queue themselves, though references to immutable snapshots could be introduced on the queue.
+
+### Considerations
+
+A reference to a resource can be rooted either in an immutable snapshot, in a mutable resource, or both. The key to bridging those worlds is the ability to resolve references to mutable data into references to immutable data, and conversely the immutable reference should be aware of a mutable source so it can be updated.
+
+The reference to the service holding the mutable state of an immutable object is unique, and could itself be mutable, though those changes should be rare.
+
+## Original goal
+
+So I thought we would need to agree on:
+
+1. Ways to point to immutable resources from the mutable reference. This will be protocol-dependent; IPNS does exactly that, so nothing to add there, but we need to allow other methods for highly volatile systems. (I intended to present an proof of concept for a high-throughput event queue backed by kafka but made visible on IPFS; but I realized that my design needed serious rework.)
+2. Plugins to extract a reference to a mutable source from an immutable block, the way that IPLD extracts other immutable references. If this reference is not itself IPNS-based, it could be accessed through an IPNS layer, to avoid brittleness. (We need to distinguish those cases)
+3. A generalized IPLD selector syntax, that is not necessarily rooted in a CID
+4. Ensure that the selector syntax allows selecting a set of events based on conditions based on related references.
+
+In the dive, inspired in part by the @warpfork's talk on [distributed naming](https://github.com/ipfs/camp/blob/master/LIGHTNING_TALKS/ipfscamp2019-lightningtalk-distributednaming.pdf), we focused on including provenance information in an immutable process product; (modified point 1), so we could bridge to an updated version on-demand (point 2).
+
+## Elements of solution
+
+### Remote process pointers
 
 It should be possible to describe a set of methods to apply a computation to data, so as to build a reference to an execution context. There would be as many types of process pointers as there are ways to execute a remote procedure call, but we will assume that the process
 
@@ -64,7 +63,7 @@ In particular, it would be useful to identify a process running in a node throug
 
 (Processes whose main role is to associate a queue name to the head of queue are a distinguished special case of such processes, with no argument.)
 
-#### Provenance descriptors
+### Provenance descriptors
 
 A provenance descriptor is a DAG record consisting of two elements:
 
@@ -73,11 +72,11 @@ A provenance descriptor is a DAG record consisting of two elements:
 
 Such a descriptor should accompany a computation result, in a new "@provenance" tag. (Note: we could consider a variant usage of processes that would be used by non-IPFS technologies, where the computation results would have format constraints that do not allow the presence of the provenance tag. In that case, the provenance could be provided in a http link header)
 
-#### Multipointers
+### Multipointers
 
 A multipointer (MPt) is a pointer consisting of a CID, and a list of provenance descriptors.
 
-#### Dynamic traversal strategy
+### Dynamic traversal strategy
 
 When a DAG path traverses a multipointer, the multipointer can be interpreted statically or dynamically.
 
