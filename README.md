@@ -132,7 +132,7 @@ Note: topics relevant to package managers have a 📦 suffix.
 | <img src="https://avatars0.githubusercontent.com/u/50027421?s=460&v=4" width="100" /> | [@janjanovna](https://github.com/janjanovna) | Unified User Interface for the New Web | soon™ |
 | <img src="https://avatars1.githubusercontent.com/u/10411723?s=460&v=4" width="100" /> | [@steven004](https://github.com/steven004) | A New Layer to Bridge IPFS and HTTP Apps and Users | soon™ |
 | <img src="https://avatars0.githubusercontent.com/u/468729?s=460&v=4" width="100" /> | [@xavivives](https://github.com/xavivives) | Knowledge Graphs | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-knowledge-graphs_and_uprtcl.md) |
-| <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="100" /> | [@gnunicorn](https://github.com/gnunicorn) | Blockchain & IPFS, yay?!? | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="100" /> | [@gnunicorn](https://github.com/gnunicorn) | Blockchain & IPFS, yay?!? | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/blockchain-ipfs-unconf.md) |
 | <img src="https://avatars3.githubusercontent.com/u/477149?s=460&v=4" width="100" /> | [@shishkabab](https://github.com/shishkabab),  [@worldbrain](https://github.com/worldbrain) | Don't Get Punished for Early Architecture Decisions | soon™ |
 | <img src="https://avatars1.githubusercontent.com/u/138401?s=460&v=4" width="100" /> | [@jbenet](https://github.com/jbenet) | Structuring IPFS Research | soon™ |
 | <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="100" /> | [@gpestana](https://github.com/gpestana) | P3LIB: Privacy-Preserving Primitives for libp2p | soon™ |
