@@ -61,4 +61,35 @@ It will be helpful to have radicle installed. How to do so is described [here](h
 
 ## Notes
 
-TODO
+### Preamble
+
+Using
+
+### Problems
+
+1. Network overlay isn't ideal for PubSub and other applications. Most
+   obviously, nodes just currently connect to other nodes at random. This means
+   they have to connect to many more nodes to have a high probability of
+   dissemination (compare this to PolderCast), and send and receive more
+   messages.
+2. There's no obvious way to change overlays, short of forking IPFS or going
+   down to libp2p. Radicle for example would benefit from more of a
+   tree-structure than the ring-structure of PolderCast, since the priorities
+   are: (a) getting the message to a specific node quickly; (b) getting a
+   "large enough" number of other nodes to see the message eventually.
+3. Messages in PubSub may become outdated. Think of IPNS-over-pubsub -
+   disseminating an update you know is old (because you've seen a newer one)
+   isn't useful. This increases network usage. The problem is compounds
+   (multiplicatively) problem (1).
+4. Again, there's no easy way to modify this without forking IPFS or going down
+   to libp2p.
+
+### Ideas for next steps
+
+It seems IPFS already has a plugin system. It would be interesting to explore a
+pluggable network overlay, as well as a pluggable generalization of the message
+dissemination system currently available. (The current one relies on whether a
+message has been seen before; the obvious generalization is taking a function
+from message and recent-messages to bool indicating whether the message should
+be disseminated. This would allow for recency, but also for
+application-specific validity.)
