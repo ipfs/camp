@@ -142,7 +142,7 @@ Note: topics relevant to package managers have a 📦 suffix.
 | <img src="https://avatars1.githubusercontent.com/u/35669742?s=460&v=4" width="100" /> | [@nukemandan](https://github.com/nukemandan) | Resource-Sharing Incentives Without Cryptocurrency | soon™ |
 | <img src="https://avatars2.githubusercontent.com/u/1657498?s=460&v=4" width="100" /> | [@jkarni](https://github.com/jkarni) | The Radicle Stack | soon™ |
 | <img src="https://avatars2.githubusercontent.com/u/13193437?s=460&v=4" width="100" /> | [@prtfw](https://github.com/Prtfw) | Federated Learning on the Chain/IPFS | soon™ |
-| <img src="https://avatars2.githubusercontent.com/u/6885592?s=460&v=4" width="100" /> | [@codynhat](https://github.com/codynhat) | Retiring Web 2.0 | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/6885592?s=460&v=4" width="100" /> | [@codynhat](https://github.com/codynhat) | Retiring Web 2.0 | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/retiring-web2.md) |
 
 ## 🎤 Project Interviews
 
