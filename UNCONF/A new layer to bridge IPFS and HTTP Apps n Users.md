@@ -1,5 +1,5 @@
 # ForcePlatform : A new layer to bridge IPFS and HTTP Apps and Users 
-![Force-Platform](Materials/IPFS-Force.png)
+![Force-Platform](https://forceup.cn/pro/img/logo.png)
 
 Hosted by : [@Steven004](https://github.com/steven004)<br/>
 Participants : [Molly Mackinlay](https://github.com/momack2);  [Colin Evran](mailto:colin@protocol.ai); 
