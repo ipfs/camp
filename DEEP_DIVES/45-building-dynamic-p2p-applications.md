@@ -54,16 +54,13 @@ It will be helpful to have radicle installed. How to do so is described [here](h
 * [@avras](https://github.com/avras)
 * [@guoliu](https://github.com/guoliu)
 * [@glouvigny](https://github.com/glouvigny)
+* [@guillemcordoba](https://github.com/guillemcordoba)
 
 ## Presentation
 
 🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_364)
 
 ## Notes
-
-### Preamble
-
-Using
 
 ### Problems
 
