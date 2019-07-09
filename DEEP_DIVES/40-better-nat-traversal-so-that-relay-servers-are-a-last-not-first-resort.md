@@ -29,3 +29,43 @@ One challenge we'll also address is the adaptation of certain protocols (such as
 * [RFC5389: Session Traversal Utilities for NAT (STUN)](https://tools.ietf.org/html/rfc5389)
 * [RFC8445: Interactive Connectivity Establishment (ICE): A Protocol for Network Address Translator (NAT) Traversal](https://tools.ietf.org/html/rfc8445)
 * [RFC6544: TCP Candidates with Interactive Connectivity Establishment (ICE)](https://tools.ietf.org/html/rfc6544)
+
+## Team
+
+* [@raulk](https://github.com/raulk)
+* [@cpacia](https://github.com/cpacia)
+* Dmitriy
+* Aleksander
+
+## Presentation
+
+🎤 [Slides](https://docs.google.com/presentation/d/105KwT6ZmcneywGnvUyww5y-u_GHSY0FFQ0yIXZQf7Y0/edit#slide=id.g5c6a5171f6_0_309)
+
+## Notes
+
+Auto Nat and auto relay startup time not ideal for all applications.
+
+Possible option to specify default bootstrap which are used immediately while auto Nat and auto relay runs
+
+Tcp hole punching timing issue.
+
+Udp holepunching 80% success rate.
+
+TCP hole punching 60%.
+
+TCP hole punching simultaneous connect. Doesn't work with role based protocols. 
+
+Using poison bit with highest ip/port to determine roles. 
+
+Libp2p event bus to get events about nat status which can be used to show users nat type so they can take action to forward ports.
+
+Automatically change dht to client if not dialable.
+
+How to migrate protocol session from relayed connection to direct connection after hole punching succeeds. 
+
+Push migration responsibility to protocols when event is triggered.
+Freeze stream and rewirel
+
+When you have multilayer nats look for nodes in each layer to help you through. 
+
+Traceroute for multi nat. 
