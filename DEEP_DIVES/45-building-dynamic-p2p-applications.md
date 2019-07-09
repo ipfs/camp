@@ -53,7 +53,6 @@ It will be helpful to have radicle installed. How to do so is described [here](h
 * [@jkarni](https://github.com/jkarni)
 * [@avras](https://github.com/avras)
 * [@guoliu](https://github.com/guoliu)
-* [@glouvigny](https://github.com/glouvigny)
 * [@guillemcordoba](https://github.com/guillemcordoba)
 
 ## Presentation
