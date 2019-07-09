@@ -34,7 +34,7 @@ You can find the content description, speakers and trainers at:
 
 ## [📃 Poster Projects](POSTER_PROJECTS)
 
-Will be listed here soon™
+?????
 
 ## [🐋 Deep Dives](DEEP_DIVES)
 
