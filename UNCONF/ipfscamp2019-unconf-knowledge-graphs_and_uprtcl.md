@@ -26,3 +26,21 @@ We were a large number of participants with a wide and abstract topic to cover. 
 We agreed that defining a data model is the hardest and more critical element to resolve, but to move forward we need to outline clear use-cases. We focused on collecting use cases (awaiting notes from @JustMaier).
 
 We have created a [Telegram group](https://t.me/knowledgegraphs) to move the conversation forward.
+
+
+## Notes of session
+
+The designated goal of this session was to brainstorm use cases that an interoperable data model for knowledge management data need to cover in order to work. The notes should provide ground for further discussion on how exactly a model could look like
+
+So far we collected the following input: 
+- Traceability > causality > sequence of actions (e.g. merge history)
+- Flexibility in interpretation, aka. "views"
+- Connect anything with anything. (e.g. with a graph)
+- Ability to break or modify hierarchical social structures > fluidity 
+- Hierarchy of context > local hierarchies
+- Federation > coral explanations
+- Deduplication, (local) merging and forking of arguments, ontologies, facts, reasonings and concepts. 
+- Support for public and private sharing and encryption
+- Extensible metadata, even as invisible payload
+- Indexability & Searchability > ideally with different indexes
+- Interoperability with existing standards 
