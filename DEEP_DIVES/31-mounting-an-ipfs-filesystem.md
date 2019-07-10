@@ -29,10 +29,10 @@ WebDAV is often used in network storage drives, and mainstream operating systems
 - We must be careful to remain scoped when discussing different but interconnected layers
 
 ## Where to learn about it
-https://github.com/ipfs/go-ipfs/blob/v0.4.21/docs/fuse.md
-https://github.com/ipfs/go-ipfs/issues/5003
-https://github.com/ipfs/interface-go-ipfs-core/pull/30
-https://github.com/tableflip/ipfs-fuse
+- https://github.com/ipfs/go-ipfs/blob/v0.4.21/docs/fuse.md
+- https://github.com/ipfs/go-ipfs/issues/5003
+- https://github.com/ipfs/interface-go-ipfs-core/pull/30
+- https://github.com/tableflip/ipfs-fuse
 
 ## Team
 
