@@ -14,9 +14,9 @@ Cost of cybercrime damages will cost $6 trillion annually.<br/>
 93% of data breaches happen within minutes.<br/>
 83% aren’t discovered for weeks.<br/>
 <br/>
-**We need to have a decentralized web!**<br/>
-Janus Platform is an Ethereum Blockchain system that help us. <br/>
-Here you will find tools to register, store and explore the Web 3.0<br/>
+If the web was decentralized, that would be different.  <br/>
+That's why we are working on Janus Platform. <br/>
+The Ethereum Blockchain system that allows users to register, store and explore the real 3.0 web.<br/>
 <br/>
 ## Why IPFS?
 ### Documentation
