@@ -127,4 +127,4 @@ Duration: ~20 min
     * Why the MFS root CID changes
         * How propagation up the merkle dag works
         * Where discarded branches go (gc)
-* Intro to the MFS ProtoSchool workshop
+* Intro to the [MFS ProtoSchool tutorial](https://proto.school/#/mutable-file-system)
