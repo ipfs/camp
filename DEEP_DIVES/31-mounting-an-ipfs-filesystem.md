@@ -6,7 +6,7 @@ In this session we'll be diving into a variety of related concerns, such as (but
  - What do we have today?
    - Explore other filesystems/APIs (e.g. Unix, Plan9/9P, SPRING, FUSE, et al.)
    - Explore IPFS formats
- - What design requirements and implentation challenges do we have for tomorrow?
+ - What design requirements and implementation challenges do we have for tomorrow?
    - What features do we want to consider "standard" (IPFS, IPNS, FilesAPI, etc.)
    - System/API target support and limitations; (kernel interfaces (\*nix, Win32/NT), network protocols (WebDAV), language runtimes (Go, JS), etc.)
  - Efficiency patterns and data structures / caching
@@ -109,7 +109,7 @@ interface
   - filesystem
     - create named objects of various types
     - remove named objects
-    - `OpenFile`, `OpenDirectory`, `OpenReference` syntatic sugar for developers
+    - `OpenFile`, `OpenDirectory`, `OpenReference` syntactic sugar for developers
     - expose a lookup a named reference to get a object, then you can typecheck it
     - everything is a reference for a filesystem to use
     - needs backwards compatibility with POSIX
@@ -134,8 +134,8 @@ Resource management, and tooling can take inspiration from ZFS and other systems
   - even reads are writes (updating atime)
   - IPFS needs to implement it nevertheless because there are programs that depend on atime (if we want to be POSIX compliant)
   - we should decouple file metadata from the file data
-  - unixv1 - has metadata as the first block of the chunke ddata
-  - unixv2 - aim to have 2 seperate merkle dags for metadata and data
+  - unixv1 - has metadata as the first block of the chunked data
+  - unixv2 - aim to have 2 separate merkle dags for metadata and data
 
 ### Links & Resources:
 - https://github.com/djdv/interface-go-ipfs-core/tree/feat/filesystem/filesystem
