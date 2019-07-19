@@ -123,7 +123,7 @@ You can find the content description, speakers and trainers at:
 | <img src="https://avatars3.githubusercontent.com/u/1017236?s=460&v=4" width="100" /> | André Cruz ([@satazor](https://github.com/satazor)) | Introducing Nomios | [Website](https://nomios.io/) | [Video](https://youtu.be/EEIq6Eu9ug4) |
 | <img src="https://avatars0.githubusercontent.com/u/17089485?s=460&v=4" width="100" /> | Alexandre Trottier ([@postables](https://github.com/postables)) | Why open source matters and how individuals can further the movement | [PDF](https://github.com/ipfs/camp/blob/master/LIGHTNING_TALKS/ipfscamp2019-lightningtalk-opensource.pdf) | [Video](https://youtu.be/usa796ebEnI) |
 | <img src="https://avatars3.githubusercontent.com/u/370259?s=460&v=4" width="100" /> | Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Textile | SLIDES | [Video](https://youtu.be/uI9eEZQZpfw)
-| | Matt Ober ([@obo20](https://github.com/obo20)) | IPFS Industry Trends | SLIDES | [Video](https://youtu.be/LumqUfWd6g0)
+| <img src="https://avatars2.githubusercontent.com/u/7811297" width="100" /> | Matt Ober ([@obo20](https://github.com/obo20)) | IPFS Industry Trends | SLIDES | [Video](https://youtu.be/LumqUfWd6g0)
 | | Zhanna Sharipova ([]()) | Anytype | SLIDES | [Video](https://youtu.be/NAF-4AFSqIo)
 
 Note: topics relevant to package managers have a 📦 suffix.
