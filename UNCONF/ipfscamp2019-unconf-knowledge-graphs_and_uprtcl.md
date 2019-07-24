@@ -8,29 +8,22 @@ Prior to and through the camp, several of the participants had met already. Ther
 
 ## Participants
 
-Guillem Córdoba (@guillemcordoba) [_Prtcl](https://github.com/uprtcl)
-Vincent den Boer (@ShishKebab) WorldBrain and [Storex](https://github.com/worldBrain/storex)
-Akshay Kanthi (@aksanoble)
-Roman Khafizianov (@requilence)
-Justin Maire (@JustMaier)
-Jose Ospina (@pepoospina) [_Prtcl](https://github.com/uprtcl) and [CollectiveOne](http://www.collectiveone.org)
-Marc-Antoine Parent (@maparent) [hyperknowledge](https://hyperknoweldge.org)
-Anton Pronkin (@pronkin) [Anytype](https://www.anytype.io/)
-Oliver Sauter (@blackforestboi)  [WorldBrain](https://worldbrain.io/)
-Xavier Vives (@xavivives) [Interplanetary mind maps](https://github.com/interplanetarymindmap/mind-map)
+* Guillem Córdoba (@guillemcordoba) [_Prtcl](https://github.com/uprtcl)
+* Vincent den Boer (@ShishKebab) WorldBrain and [Storex](https://github.com/worldBrain/storex)
+* Akshay Kanthi (@aksanoble)
+* Roman Khafizianov (@requilence)
+* Justin Maire (@JustMaier)
+* Jose Ospina (@pepoospina) [_Prtcl](https://github.com/uprtcl) and [CollectiveOne](http://www.collectiveone.org)
+* Marc-Antoine Parent (@maparent) [hyperknowledge](https://hyperknoweldge.org)
+* Anton Pronkin (@pronkin) [Anytype](https://www.anytype.io/)
+* Oliver Sauter (@blackforestboi)  [WorldBrain](https://worldbrain.io/)
+* Xavier Vives (@xavivives) [Interplanetary mind maps](https://github.com/interplanetarymindmap/mind-map)
 
 ## Unconf event
 
 We were a large number of participants with a wide and abstract topic to cover. The timeframe of the event it barely gives us time to expose our personal perspective with a high level of abstraction.
 
-We agreed that defining a data model is the hardest and more critical element to resolve, but to move forward we need to outline clear use-cases. We focused on collecting use cases (awaiting notes from @JustMaier).
-
-We have created a [Telegram group](https://t.me/knowledgegraphs) to move the conversation forward.
-
-
-## Notes of session
-
-The designated goal of this session was to brainstorm use cases that an interoperable data model for knowledge management data need to cover in order to work. The notes should provide ground for further discussion on how exactly a model could look like
+We agreed that defining a data model is the hardest and more critical element to resolve, but to move forward we need to outline clear use-cases. We decided that a first step in this session was to brainstorm use cases that an interoperable data model for knowledge management data need to cover in order to work. The notes should provide ground for further discussion on how exactly a model could look like
 
 So far we collected the following input: 
 - Traceability > causality > sequence of actions (e.g. merge history)
@@ -38,9 +31,12 @@ So far we collected the following input:
 - Connect anything with anything. (e.g. with a graph)
 - Ability to break or modify hierarchical social structures > fluidity 
 - Hierarchy of context > local hierarchies
-- Federation > coral explanations
+- Federation > [choral explanations](https://hapgood.us/2016/05/13/choral-explanations/)
 - Deduplication, (local) merging and forking of arguments, ontologies, facts, reasonings and concepts. 
 - Support for public and private sharing and encryption
 - Extensible metadata, even as invisible payload
 - Indexability & Searchability > ideally with different indexes
 - Interoperability with existing standards 
+
+
+We have created a [Telegram group](https://t.me/knowledgegraphs) to move the conversation forward.
