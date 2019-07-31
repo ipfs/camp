@@ -123,8 +123,8 @@ You can find the content description, speakers and trainers at:
 | <img src="https://avatars3.githubusercontent.com/u/1017236?s=460&v=4" width="100" /> | André Cruz ([@satazor](https://github.com/satazor)) | Introducing Nomios | [Website](https://nomios.io/) | [Video](https://youtu.be/EEIq6Eu9ug4) |
 | <img src="https://avatars0.githubusercontent.com/u/17089485?s=460&v=4" width="100" /> | Alexandre Trottier ([@postables](https://github.com/postables)) | Why open source matters and how individuals can further the movement | [PDF](https://github.com/ipfs/camp/blob/master/LIGHTNING_TALKS/ipfscamp2019-lightningtalk-opensource.pdf) | [Video](https://youtu.be/usa796ebEnI) |
 | <img src="https://avatars3.githubusercontent.com/u/370259?s=460&v=4" width="100" /> | Andrew Hill ([@andrewxhill](https://github.com/andrewxhill)) | Textile | [PDF](https://github.com/ipfs/camp/blob/master/LIGHTNING_TALKS/ipfscamp2019-lightningtalk-textile.pdf) | [Video](https://youtu.be/uI9eEZQZpfw)
-| <img src="https://avatars2.githubusercontent.com/u/7811297" width="100" /> | Matt Ober ([@obo20](https://github.com/obo20)) | IPFS Industry Trends | SLIDES | [Video](https://youtu.be/LumqUfWd6g0)
-| <img src="https://avatars1.githubusercontent.com/u/687840" width="100" /> | Zhanna Sharipova ([@sharipova](https://github.com/sharipova)) | Anytype | SLIDES | [Video](https://youtu.be/NAF-4AFSqIo)
+| <img src="https://avatars2.githubusercontent.com/u/7811297" width="100" /> | Matt Ober ([@obo20](https://github.com/obo20)) | IPFS Industry Trends |  | [Video](https://youtu.be/LumqUfWd6g0)
+| <img src="https://avatars1.githubusercontent.com/u/687840" width="100" /> | Zhanna Sharipova ([@sharipova](https://github.com/sharipova)) | Anytype |  | [Video](https://youtu.be/NAF-4AFSqIo)
 
 Note: topics relevant to package managers have a 📦 suffix.
 
@@ -151,21 +151,21 @@ Note: topics relevant to package managers have a 📦 suffix.
 | ------------- | --------------------- | ------------- | --------- |
 | <img src="https://avatars3.githubusercontent.com/u/28847087?s=460&v=4" width="100" /> | [@vasa-develop](https://github.com/vasa-develop) | Dappbase: Firebase for Dapps | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-dappbase.md) |
 | <img src="https://avatars1.githubusercontent.com/u/3278772?s=460&v=4" width="100" /> | [@pepoospina](https://github.com/pepoospina) | Underscore Protocol | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-knowledge-graphs_and_uprtcl.md) |
-| <img src="https://avatars2.githubusercontent.com/u/47656053?s=460&v=4" width="100" /> | [@caojingbin](https://github.com/caojingbin) | Video Website Based on IPNS | soon™ |
+| <img src="https://avatars2.githubusercontent.com/u/47656053?s=460&v=4" width="100" /> | [@caojingbin](https://github.com/caojingbin) | Video Website Based on IPNS |  |
 | <img src="https://avatars1.githubusercontent.com/u/37121519?s=460&v=4" width="100" /> | [@mairkur](https://github.com/mairkur) | Medwish: A Decentralized Health Ecosystem | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-medwish-decentralized-health-ecosystem.md) |
 | <img src="https://avatars3.githubusercontent.com/u/23247?s=460&v=4" width="100" /> | [@soapdog](https://github.com/soapdog) | Secure Scuttlebutt | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-secure-scuttlebutt.md) |
 | <img src="https://avatars1.githubusercontent.com/u/10411723?s=460&v=4" width="100" /> | [@steven004](https://github.com/steven004) | ForcePlatform: A New Layer to Bridge IPFS and HTTP Apps and Users | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/A%20new%20layer%20to%20bridge%20IPFS%20and%20HTTP%20Apps%20n%20Users.md) |
 | <img src="https://avatars0.githubusercontent.com/u/468729?s=460&v=4" width="100" /> | [@xavivives](https://github.com/xavivives) | Knowledge Graphs | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-knowledge-graphs_and_uprtcl.md) |
 | <img src="https://avatars1.githubusercontent.com/u/40496?s=460&v=4" width="100" /> | [@gnunicorn](https://github.com/gnunicorn) | Blockchain & IPFS, yay?!? | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/blockchain-ipfs-unconf.md) |
-| <img src="https://avatars3.githubusercontent.com/u/477149?s=460&v=4" width="100" /> | [@shishkabab](https://github.com/shishkabab),  [@worldbrain](https://github.com/worldbrain) | Don't Get Punished for Early Architecture Decisions | soon™ |
+| <img src="https://avatars3.githubusercontent.com/u/477149?s=460&v=4" width="100" /> | [@shishkabab](https://github.com/shishkabab),  [@worldbrain](https://github.com/worldbrain) | Don't Get Punished for Early Architecture Decisions |  |
 | <img src="https://avatars1.githubusercontent.com/u/138401?s=460&v=4" width="100" /> | [@jbenet](https://github.com/jbenet) | Structuring IPFS Research | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-ipfs-research.md) |
 | <img src="https://avatars1.githubusercontent.com/u/1398860?s=460&v=4" width="100" /> | [@gpestana](https://github.com/gpestana) | P3LIB: Privacy-Preserving Primitives for libp2p | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-p3lib.md) |
 | <img src="https://avatars0.githubusercontent.com/u/1489143?s=460&v=4" width="100" /> | [@ambrevar](https://github.com/ambrevar) | Next Browser | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfs-next.md) |
 | <img src="https://avatars2.githubusercontent.com/u/30993489?s=460&v=4" width="100" /> | [@solangegueiros](https://github.com/solangegueiros) | Index and Search in Web3 | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-janusproj-index-and-search-inweb3.md) |
 | <img src="https://avatars3.githubusercontent.com/u/5526331?s=460&v=4" width="100" /> | [@adria0](https://github.com/adria0) | Zk-Snarks & IDEN3 Circom Compiler | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/Materials/zkSnarks.pdf) |
-| <img src="https://avatars1.githubusercontent.com/u/35669742?s=460&v=4" width="100" /> | [@nukemandan](https://github.com/nukemandan) | Resource-Sharing Incentives Without Cryptocurrency | soon™ |
-| <img src="https://avatars2.githubusercontent.com/u/1657498?s=460&v=4" width="100" /> | [@jkarni](https://github.com/jkarni) | The Radicle Stack | soon™ |
-| <img src="https://avatars2.githubusercontent.com/u/13193437?s=460&v=4" width="100" /> | [@prtfw](https://github.com/Prtfw) | Federated Learning on the Chain/IPFS | soon™ |
+| <img src="https://avatars1.githubusercontent.com/u/35669742?s=460&v=4" width="100" /> | [@nukemandan](https://github.com/nukemandan) | Resource-Sharing Incentives Without Cryptocurrency |  |
+| <img src="https://avatars2.githubusercontent.com/u/1657498?s=460&v=4" width="100" /> | [@jkarni](https://github.com/jkarni) | The Radicle Stack |  |
+| <img src="https://avatars2.githubusercontent.com/u/13193437?s=460&v=4" width="100" /> | [@prtfw](https://github.com/Prtfw) | Federated Learning on the Chain/IPFS |  |
 | <img src="https://avatars2.githubusercontent.com/u/6885592?s=460&v=4" width="100" /> | [@codynhat](https://github.com/codynhat) | Retiring Web 2.0 | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/retiring-web2.md) |
 
 ## 🎤 Project Interviews
