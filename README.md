@@ -164,7 +164,7 @@ Note: topics relevant to package managers have a 📦 suffix.
 | <img src="https://avatars2.githubusercontent.com/u/30993489?s=460&v=4" width="100" /> | [@solangegueiros](https://github.com/solangegueiros) | Index and Search in Web3 | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-janusproj-index-and-search-inweb3.md) |
 | <img src="https://avatars3.githubusercontent.com/u/5526331?s=460&v=4" width="100" /> | [@adria0](https://github.com/adria0) | Zk-Snarks & IDEN3 Circom Compiler | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/Materials/zkSnarks.pdf) |
 | <img src="https://avatars2.githubusercontent.com/u/1657498?s=460&v=4" width="100" /> | [@jkarni](https://github.com/jkarni) | The Radicle Stack |  |
-| <img src="https://avatars2.githubusercontent.com/u/13193437?s=460&v=4" width="100" /> | [@prtfw](https://github.com/Prtfw) | Federated Learning on the Chain/IPFS |  |
+| <img src="https://avatars2.githubusercontent.com/u/13193437?s=460&v=4" width="100" /> | [@prtfw](https://github.com/Prtfw) | Federated Learning on the Chain/IPFS | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/ipfscamp2019-unconf-federatedlearning.md) |
 | <img src="https://avatars2.githubusercontent.com/u/6885592?s=460&v=4" width="100" /> | [@codynhat](https://github.com/codynhat) | Retiring Web 2.0 | [Notes](https://github.com/ipfs/camp/blob/master/UNCONF/retiring-web2.md) |
 
 ## 🎤 Project Interviews
