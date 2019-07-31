@@ -6,7 +6,7 @@ Do you fancy Science Fairs? Always felt that there was something missing? Someth
 
 ## Projects presented
 
-The list has moved to the main [README](https://github.com/ipfs/camp)
+The list has moved to the main [README](https://github.com/ipfs/camp#-sci-fi-fair)
 
 ## Instructions
 
