@@ -24,7 +24,7 @@ Technical challenges:
 ## Where to learn about it
 
 - The original issue: https://github.com/ipfs/notes/issues/284
-- Ian's proposal for content-deciders: https://github.com/ipfs/notes/issues/284
+- Ian's proposal for content-deciders: https://github.com/ianjdarrow/content-decider
 - Radiolab Podcast: https://www.wnycstudios.org/story/post-no-evil
 - More facebook: https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions-arizona
 - haveIbeenpwnd? email -> list of leaks your email has appeared
