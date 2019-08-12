@@ -30,3 +30,7 @@ You should do a bit of homework beforehand:
 - We will have a few activities :grin: come armed with energy :lightning: and be ready to interact with your peers :raised_hands:
   - Your mission: Come prepared with the **best example of a workshop/meetup that you attended**. What key things made that so? Why was it so useful?
 - Are you a meetup organizer yourself? **Please reach out to us! (Dan/Kevin/Stefan)*** We want to get you involved in the activities for this elective :grin: - no pressure. 
+
+## Course Materials
+
+[Slides from the class](https://docs.google.com/presentation/d/1OLmSfOMjffl7z2ODxHaBcQBmyVEGdt8O7h3bxYv_VVI/edit?usp=sharing)
