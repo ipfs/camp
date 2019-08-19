@@ -31,3 +31,8 @@ Ways to use IPFS as a building block in your application:
   - Ensure `ipfs` command is available in your system, if possible
     - Suggested: install [ipfs-desktop](https://github.com/ipfs-shipyard/ipfs-desktop#ipfs-desktop) (GUI+CLI for MacOS/Windows/Linux)
     - Alternative: [go-ipfs](https://docs.ipfs.io/introduction/usage/) (just CLI)
+
+## Course materials
+
+- Try the [demo](https://github.com/ipfs-shipyard/camp-course-c-demo)
+- View the [slide deck](https://docs.google.com/presentation/d/1cbJD5j_jRpm3yJiE6hLIOzMn8iMhvzyci7Ut3NLjqxs/edit?usp=sharing)
