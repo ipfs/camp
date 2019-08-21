@@ -34,5 +34,5 @@ Ways to use IPFS as a building block in your application:
 
 ## Course materials
 
-- Try the [demo](https://github.com/ipfs-shipyard/camp-course-c-demo)
-- View the [slide deck](https://docs.google.com/presentation/d/1cbJD5j_jRpm3yJiE6hLIOzMn8iMhvzyci7Ut3NLjqxs/edit?usp=sharing)
+- Try running the [demo app](https://github.com/ipfs-shipyard/camp-course-c-demo)
+- View the slide deck: [PDF](https://github.com/ipfs/camp/files/3525750/IPFS.Camp.2019.-.Core.Course.C.-.Slide.Deck.pdf), [Google Docs](https://docs.google.com/presentation/d/1cbJD5j_jRpm3yJiE6hLIOzMn8iMhvzyci7Ut3NLjqxs/edit?usp=sharing)
