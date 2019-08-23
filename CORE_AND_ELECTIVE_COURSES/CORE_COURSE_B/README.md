@@ -24,7 +24,7 @@ In this course, attendees will build a libp2p application. The course will cover
 
 The course will give you the opportunity to build your application for one of three platforms/languages: Go, Node.js, and Web Browsers. See the preparation section below for your respective choice.
 
-### Instalation steps
+### Installation steps
 
 - Have your favorite code editor ready, if don't have one, we recommend [VSCode](https://code.visualstudio.com)
 
@@ -47,3 +47,6 @@ The course will give you the opportunity to build your application for one of th
  - Install dependencies by following the Setup directions at https://github.com/libp2p/js-libp2p-examples/tree/master/chat/browser#setup.
 
 **Windows Users**: If your npm config is not already set to support bash, you will need to do that for the Web Browser examples. Check out this [Stack Overflow Answer](https://stackoverflow.com/a/46006249) for how to do that. This will enable Parcel to correctly locate the appropriate, nested files.
+
+## Course Materials
+- View the [slide deck](https://docs.google.com/presentation/d/1a_BjIM4ORQchnMNjOMO-wCDW2VS5nXeKXIbWSEqf9jY/edit?usp=sharing) with speaker notes
