@@ -11,7 +11,7 @@
 
 ## What you will learn with this Course
 
-Where the blocks at? We'll work through how data moves around the network. It'll be a mix of slides, _dancing_, and demonstrations. 
+Where the blocks at? We'll work through how data moves around the network. It'll be a mix of slides, _dancing_, and demonstrations.
 
 We're covering a lot of ground in this course, to give everyone a high-level mental model of how things work, so we are all talking the same language when we go into the deep-dives later on at camp.
 
@@ -31,3 +31,7 @@ By default, your IPFS node caches and provides every block it has. We'll cover h
 ## Preparation for the course
 
 No requirements. Turn up ready to learn! Bring some mechanism for taking notes, pencils or trackpads are fine. If you want to try commands out as we talk about them then a personal computation device running go-ipfs v0.4.22 is recommened.
+
+## Course materials
+
+- View the slide deck: [PDF](https://github.com/ipfs/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_D/IPFS_Camp_Core_Course_D_Slides.pdf)
