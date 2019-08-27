@@ -2,6 +2,12 @@
 
 > In this course we will cover how IPFS deals with data. This would include providing(share), pinning(store) and blocking(delete) data.
 
+## Course materials
+
+View the slide deck:
+- [Google Slides with speaker notes](https://docs.google.com/presentation/d/1UOX-a1lCxi-LOyEOe9VEFRcxg_j93Xkywwa4Y95TJaw/edit?usp=sharing)
+- [PDF](https://github.com/ipfs/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_D/IPFS_Camp_Core_Course_D_Slides.pdf)
+
 ## Trainers
 
 | **Oliver Evans**                                    	| **Kishan Sagathiya**                                   	| **Michelle Hertzfeld**                                	|
@@ -31,7 +37,3 @@ By default, your IPFS node caches and provides every block it has. We'll cover h
 ## Preparation for the course
 
 No requirements. Turn up ready to learn! Bring some mechanism for taking notes, pencils or trackpads are fine. If you want to try commands out as we talk about them then a personal computation device running go-ipfs v0.4.22 is recommened.
-
-## Course materials
-
-- View the slide deck: [PDF](https://github.com/ipfs/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_D/IPFS_Camp_Core_Course_D_Slides.pdf)
