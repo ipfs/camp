@@ -27,6 +27,11 @@ No preparation necessary. If you're keen, familiarise yourselves with the basic 
 
 **You will need to bring a laptop and a recent web browser (preferred Chrome or Firefox).**
 
+## Course materials
+
+- View the slide deck: [PDF](https://github.com/ipfs/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_A/IPFS_Camp_Core_Course_A_Slides.pdf)
+
+
 ------
 
 # The Course Outline & Follow Guide

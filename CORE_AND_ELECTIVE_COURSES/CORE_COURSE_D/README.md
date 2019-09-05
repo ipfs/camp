@@ -2,6 +2,12 @@
 
 > In this course we will cover how IPFS deals with data. This would include providing(share), pinning(store) and blocking(delete) data.
 
+## Course materials
+
+View the slide deck:
+- [Google Slides with speaker notes](https://docs.google.com/presentation/d/1UOX-a1lCxi-LOyEOe9VEFRcxg_j93Xkywwa4Y95TJaw/edit?usp=sharing)
+- [PDF](https://github.com/ipfs/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_D/IPFS_Camp_Core_Course_D_Slides.pdf)
+
 ## Trainers
 
 | **Oliver Evans**                                    	| **Kishan Sagathiya**                                   	| **Michelle Hertzfeld**                                	|
@@ -11,7 +17,7 @@
 
 ## What you will learn with this Course
 
-Where the blocks at? We'll work through how data moves around the network. It'll be a mix of slides, _dancing_, and demonstrations. 
+Where the blocks at? We'll work through how data moves around the network. It'll be a mix of slides, _dancing_, and demonstrations.
 
 We're covering a lot of ground in this course, to give everyone a high-level mental model of how things work, so we are all talking the same language when we go into the deep-dives later on at camp.
 
