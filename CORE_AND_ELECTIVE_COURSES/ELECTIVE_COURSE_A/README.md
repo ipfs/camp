@@ -2,6 +2,8 @@
 
 > Understand the state of decentralized identity on the DWeb and current efforts on creating open and interoperable models to solve self-sovereign identities
 
+Course slides: [https://docs.google.com/presentation/d/1HbydOI0w-T_FY23zCACAyHmzDq1ZvyG2tklpPSm6OQQ](https://docs.google.com/presentation/d/1HbydOI0w-T_FY23zCACAyHmzDq1ZvyG2tklpPSm6OQQ)
+
 ## Trainers
 
 | **André Cruz**                                        	| **Paulo Marcos**                                       	| **João Santos**                                        	|
@@ -20,4 +22,4 @@ Finally, you will get to know IDM (Identity Manager), an open Identity Wallet sp
 ## Preparation for the course
 
 - Bring your laptop
-- Follow the Prerequisites and Installation instructions at https://github.com/ipfs-shipyard/workshop-idm-chat-dapp before the course 
+- Follow the Prerequisites and Installation instructions at https://github.com/ipfs-shipyard/workshop-idm-chat-dapp before the course
