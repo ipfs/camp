@@ -6,7 +6,7 @@
 
 View the slide deck:
 - [Google Slides with speaker notes](https://docs.google.com/presentation/d/1UOX-a1lCxi-LOyEOe9VEFRcxg_j93Xkywwa4Y95TJaw/edit?usp=sharing)
-- [PDF](https://github.com/ipfs/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_D/IPFS_Camp_Core_Course_D_Slides.pdf)
+- [PDF](https://github.com/ipfs/camp/blob/master/CORE_AND_ELECTIVE_COURSES/CORE_COURSE_D/IPFS_Camp_Core_Course_D_Slides.pdf) 
 
 ## Trainers
 
