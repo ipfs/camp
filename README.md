@@ -144,20 +144,20 @@ Note: topics relevant to package managers have a 📦 suffix.
 
 | Project           | Presenter         | Description | Interview
 | -------------     | -------------     | ------------- | -- |
-| RPi cluster       | @hsanjuan, @lanzafame   | ipfs-cluster... on Raspberry Pi | [video](https://youtu.be/JoC9Fkgzt8U) |
+| RPi cluster       | @hsanjuan, @lanzafame   | ipfs-cluster... on Raspberry Pi | [video](https://youtu.be/7pFf5gUnQ24) |
 | Actyx             |  @rklaehn  | Industrial automation on IPFS | n/a™ |
 | npm-in-a-box      | @achingbrain | what is says on the tin | n/a™ |
 | The Gathering     | @JustMaier | conference networking on decentralized networks | n/a™ |
-| Textile Photos    | @andrewxhill, @carsonfarmer, @balupton | a decentralized photo booth | [video](https://youtu.be/u_mUUyGJ0-I) |
+| Textile Photos    | @andrewxhill, @carsonfarmer, @balupton | a decentralized photo booth | [video](https://youtu.be/34lVgp1snvg) |
 | Lazer Catbot      | @gorhgorh | 😼 | n/a™ |
 | FAPRS             | @MarneeDear | IPFS over Ham Radio | n/a™ |
-| Brave             | @yrliou, @darkdh, @emerick | native IPFS in Brave browser! | [video](https://youtu.be/lafDvUNDoUQ) |
-| ENS               | @makoto | resolving ENS/IPFS with DNS | [video](https://youtu.be/RYHRFO2isr0) |
+| Brave             | @yrliou, @darkdh, @emerick | native IPFS in Brave browser! | [video](https://youtu.be/JTAMeBrul6k) |
+| ENS               | @makoto | resolving ENS/IPFS with DNS | [video](https://youtu.be/8aC4eaI7Lx4) |
 | IPFS Spider       | @magnshen | crawling the IPFS network | n/a™ |
 | Cluster Labs Horizon + more | @vasa-develop | viz for the RPi cluster + more | n/a™ |
-| Berty | @aeddi | IPFS over other kinds of radio! | [video](https://youtu.be/P7k-vE0dABo)  |
-| MetaMask | @kumavis | DHT visualizer and more | [video](https://youtu.be/Y1OtaBpoBBQ) |
-| Janus    | @solangegueiros | an IPFS search engine | [video](https://youtu.be/5_LTZftM9y0) |
+| Berty | @aeddi | IPFS over other kinds of radio! | [video](https://youtu.be/B3fUHtdVBn0)  |
+| MetaMask | @kumavis | DHT visualizer and more | [video](https://youtu.be/7HDVgjQnNdM) |
+| Janus    | @solangegueiros | an IPFS search engine | [video](https://youtu.be/hRTBQd_o1oM) |
 
 ## [🧩 Unconf](UNCONF)
 
