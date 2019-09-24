@@ -21,6 +21,10 @@ We will use Digital Ocean, a Cloud service to host our remote and public IPFS no
 
 * Sign up for an account preloaded with $50 in free credits with this link: https://do.co/pinata - (Requires a credit card but you won't be charged)
 
+## Materials
+- [Written Guide](https://medium.com/pinata/how-to-deploy-an-ipfs-node-on-digital-ocean-c59b9e83098e)
+- View [Recording](https://youtu.be/PD0e89b4NBk)
+
 --------------------------- 
 
 ## Course walkthrough / commands
