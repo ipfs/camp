@@ -27,3 +27,6 @@ To prepare for the course, please download the Qri command-line client. Availabl
 Optional tools that will be helpful:
 * [go-ipfs](https://dist.ipfs.io)
 * [jq](https://stedolan.github.io/jq/)
+
+## Materials
+- View [Recording](https://youtu.be/ZN1mPBECsvA)
