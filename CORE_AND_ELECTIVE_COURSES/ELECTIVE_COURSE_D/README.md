@@ -19,13 +19,14 @@ While real-world app development is our goal, the workshop will also delve into 
 
 ### Slides and all materials
 
-[Slides and materials](https://github.com/textileio/ipfs-camp-2019)
+- [Slides and materials](https://github.com/textileio/ipfs-camp-2019)
+- View [Recording](https://youtu.be/4r7_lOyv4W8)
 
 ### Requirements
 
 Some knowledge of IPFS and DWeb concepts in general. Some development experience, though not necessarily mobile or DApps. A working laptop with a modern development setup (Nodejs, React, or even iOS would be great). That's about it. There will be working code for all examples and demos. The course will give you the opportunity to hack on Textile tooling using one of three platforms/languages: Go, Node.js, and Web Browsers. See the preparation section below for your respective choice.
 
-### Instalation steps
+### Installation steps
 
 - Have your favorite code editor ready, if don't have one, we recommend [VSCode](https://code.visualstudio.com).
 
