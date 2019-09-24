@@ -15,6 +15,9 @@ This course will show use and administer an IPFS Cluster.
 
 It will explore different ways of configuring and running IPFS Cluster peers, interacting with peers and integrating on top of them.
 
+## Materials
+- View [Recording](https://youtu.be/wmxaVrAFfeE)
+
 ## Requirements
 
 In order to take full advantage of this course:
