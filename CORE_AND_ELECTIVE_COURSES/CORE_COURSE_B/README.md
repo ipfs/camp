@@ -50,3 +50,4 @@ The course will give you the opportunity to build your application for one of th
 
 ## Course Materials
 - View the [slide deck](https://docs.google.com/presentation/d/1a_BjIM4ORQchnMNjOMO-wCDW2VS5nXeKXIbWSEqf9jY/edit?usp=sharing) with speaker notes
+- View the [Recording](https://youtu.be/Q4IH5rWEO-E)
