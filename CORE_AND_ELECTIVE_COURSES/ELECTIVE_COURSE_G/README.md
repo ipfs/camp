@@ -29,4 +29,4 @@ Optional tools that will be helpful:
 * [jq](https://stedolan.github.io/jq/)
 
 ## Materials
-- View [Recording](https://youtu.be/ZN1mPBECsvA)
+- [Video Recording](https://youtu.be/ZN1mPBECsvA)
