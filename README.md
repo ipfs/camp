@@ -13,7 +13,19 @@ If you missed IPFS Camp or want to revisit its content, everything will remain a
 
 You can find the content description, speakers and trainers at:
 
-## [👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES)
+## 👨‍🚀 👩‍🚀 Keynotes // [YouTube Playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSkKM3Rzp4MQ0Z1nf5Kq0tl)
+| Title | Recording |
+| :---- |  :-------- |
+| Introduction to IPFS Camp - Molly Mackinlay |  [Video](https://youtu.be/cQJXnJDbXv4) |
+| Welcome to IPFS Camp 2019 - David Dias |   [Video](https://youtu.be/gUE5vhZoavQ) |
+| Why IPFS? - Juan Benet |   [Video](https://youtu.be/zE_WSLbqqvo) |
+| IPFS Ecosystem Progress Report - Molly Mackinlay |   [Video](https://youtu.be/jpQnQbfhuBc) |
+| Space Training Program & IPFS Camp Content - David Dias |   [Video](https://youtu.be/AJvng8Z2W2I) |
+| Camp Sendoff - Juan Benet |   [Video](https://youtu.be/HDc7kEYHang) |
+| Space Training Program Graduation & Awards - David Dias & Molly Mackinlay |   [Video](https://youtu.be/INVQPepMMMU) |
+
+
+## [👩🏽‍🏫 Core & Elective Courses](CORE_AND_ELECTIVE_COURSES) // [YouTube Playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSsHMhjeWpfOzr8tonPaePu)
 
 | Course | Title  | Trainers  | Short Description  | Materials  | Video Recording |
 |------- | :-------: |------------------- | ---------- | --------- | --- | 
@@ -32,7 +44,7 @@ You can find the content description, speakers and trainers at:
 | Elective G |Managing Datasets with QRI                                         | @b5                                  | An open source tool for versioned, scriptable, exportable, collaborative datasets | [Course Repo](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_G) | [Video](https://youtu.be/ZN1mPBECsvA) |
 | Elective H |Making the Browser a True User Agent                               | @autonome @Gozala @soapdog           | We’ll show how browsers act as a value filter on our world, teach some approaches to making the browser truly be an agent that represents you, and break into groups to start building our own true user agents.| [Course Repo](https://github.com/ipfs/camp/tree/master/CORE_AND_ELECTIVE_COURSES/ELECTIVE_COURSE_H), Slides ([HackMD](https://hackmd.io/@dietrich/rkrZEKFRV#/)) | N/A |
 
-## [📃 Poster Projects](POSTER_PROJECTS)
+## [📃 Poster Projects](POSTER_PROJECTS) // [YouTube Playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtRIawC2wSJVo9nbfjypTaDh)
 
 | Topic | Owner | Description | Recording |
 | :---- | :---: | :---------- | :-------- |
@@ -59,7 +71,7 @@ You can find the content description, speakers and trainers at:
 | [Swarming (concept)](POSTER_PROJECTS/topic-swarming.md)                          | <a href="https://github.com/mburns"><img src="https://github.com/mburns.png?size=200" alt="mburns" width="100" /></a>                         <br>[@mburns](https://github.com/mburns)                 | Swarming is a software method that takes advantage of multiple peers (the "swarm") to fulfill a task which may be easily distributed.                                                     | [Video](https://youtu.be/1yboo0T16IU) |
 | [IPNS](POSTER_PROJECTS/topic-IPNS.md)                                            | <a href="https://github.com/aschmahmann"><img src="https://github.com/aschmahmann.png?size=200" alt="aschmahmann" width="100" /></a>          <br>[@aschmahmann](https://github.com/aschmahmann)       | IPNS is a system for creating and updating mutable links to IPFS content.                                                                                                                 | [Video](https://youtu.be/51eacKgZjak) |
 
-## [🐋 Deep Dives](DEEP_DIVES)
+## [🐋 Deep Dives](DEEP_DIVES) // [YouTube Playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtTkiVb-pfIb9Lk7VLWp4Giq)
 
 | Topic | Owner | Description | Recording |
 | :---- | :---: | :---------- | :-------- |
@@ -94,7 +106,7 @@ You can find the content description, speakers and trainers at:
 
 **Note**: topics relevant to package managers have a 📦 suffix.
 
-## [⚡️ Lightning Talks](LIGHTNING_TALKS)
+## [⚡️ Lightning Talks](LIGHTNING_TALKS) // [YouTube Playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtQVNQcBaCKg5kKhfOBv45Jb)
 
 | Presenter     | Name & GitHub handle  | Topic         | Slides | Recording |
 | ------------- | --------------------- | ------------- | --------- | --------- |
@@ -128,22 +140,24 @@ You can find the content description, speakers and trainers at:
 
 Note: topics relevant to package managers have a 📦 suffix.
 
-## [🧬 Sci-Fi Fair](SCI-FI_FAIR)
+## [🧬 Sci-Fi Fair](SCI-FI_FAIR) // [YouTube Playlist](https://www.youtube.com/playlist?list=PLuhRWgmPaHtTWCyJcTgLFhsg8Bi2dFPCo)
 
 | Project           | Presenter         | Description | Interview
 | -------------     | -------------     | ------------- | -- |
-| RPi cluster       | @hsanjuan, @lanzafame   | ipfs-cluster... on Raspberry Pi | soon™ |
-| Actyx             |  @rklaehn  | Industrial automation on IPFS | soon™ |
-| npm-in-a-box      | @achingbrain | what is says on the tin | soon™ |
-| The Gathering     | @JustMaier | conference networking on decentralized networks | soon™ |
-| Textile Photos    | @andrewxhill, @carsonfarmer, @balupton | a decentralized photo booth | soon™ |
-| Lazer Catbot      | @gorhgorh | 😼 | soon™ |
-| FAPRS             | @MarneeDear | IPFS over Ham Radio | soon™ |
-| Brave             | @yrliou, @darkdh, @emerick | native IPFS in Brave browser! | soon™ |
-| ENS               | @makoto | resolving ENS/IPFS with DNS | soon™ |
-| IPFS Spider       | @magnshen | crawling the IPFS network | soon™ |
-| Cluster Labs Horizon + more | @vasa-develop | viz for the RPi cluster + more | soon™ |
-| libp2p-ble-transport | @aeddi | IPFS over other kinds of radio! | soon™ |
+| RPi cluster       | @hsanjuan, @lanzafame   | ipfs-cluster... on Raspberry Pi | [video](https://youtu.be/7pFf5gUnQ24) |
+| Actyx             |  @rklaehn  | Industrial automation on IPFS | n/a™ |
+| npm-in-a-box      | @achingbrain | what is says on the tin | n/a™ |
+| The Gathering     | @JustMaier | conference networking on decentralized networks | n/a™ |
+| Textile Photos    | @andrewxhill, @carsonfarmer, @balupton | a decentralized photo booth | [video](https://youtu.be/34lVgp1snvg) |
+| Lazer Catbot      | @gorhgorh | 😼 | n/a™ |
+| FAPRS             | @MarneeDear | IPFS over Ham Radio | n/a™ |
+| Brave             | @yrliou, @darkdh, @emerick | native IPFS in Brave browser! | [video](https://youtu.be/JTAMeBrul6k) |
+| ENS               | @makoto | resolving ENS/IPFS with DNS | [video](https://youtu.be/8aC4eaI7Lx4) |
+| IPFS Spider       | @magnshen | crawling the IPFS network | n/a™ |
+| Cluster Labs Horizon + more | @vasa-develop | viz for the RPi cluster + more | n/a™ |
+| Berty | @aeddi | IPFS over other kinds of radio! | [video](https://youtu.be/B3fUHtdVBn0)  |
+| MetaMask | @kumavis | DHT visualizer and more | [video](https://youtu.be/7HDVgjQnNdM) |
+| Janus    | @solangegueiros | an IPFS search engine | [video](https://youtu.be/hRTBQd_o1oM) |
 
 ## [🧩 Unconf](UNCONF)
 
