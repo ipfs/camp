@@ -10,7 +10,7 @@ This elective course is about creating the catroulette protocol, allowing cats a
 | [@gorhgorh](https://github.com/gorhgorh/)                         	| [@na](https://github.com/na)         	| [@na](https://github.com/na) 	|
 
 ## Materials
-- View [Recording](https://youtu.be/kVzHE4MRPOM)
+- View [video recording](https://youtu.be/kVzHE4MRPOM)
 
 ## What you will learn with this Course
 
