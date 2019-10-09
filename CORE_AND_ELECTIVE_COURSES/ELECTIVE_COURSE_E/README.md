@@ -23,7 +23,7 @@ We will use Digital Ocean, a Cloud service to host our remote and public IPFS no
 
 ## Materials
 - [Written Guide](https://medium.com/pinata/how-to-deploy-an-ipfs-node-on-digital-ocean-c59b9e83098e)
-- View [Recording](https://youtu.be/PD0e89b4NBk)
+- [Video Recording](https://youtu.be/PD0e89b4NBk)
 
 --------------------------- 
 
