@@ -2,7 +2,8 @@
 
 > Understand the state of decentralized identity on the DWeb and current efforts on creating open and interoperable models to solve self-sovereign identities
 
-Course slides: [https://docs.google.com/presentation/d/1HbydOI0w-T_FY23zCACAyHmzDq1ZvyG2tklpPSm6OQQ](https://docs.google.com/presentation/d/1HbydOI0w-T_FY23zCACAyHmzDq1ZvyG2tklpPSm6OQQ)
+- [Course slides (Google Slides)](https://docs.google.com/presentation/d/1HbydOI0w-T_FY23zCACAyHmzDq1ZvyG2tklpPSm6OQQ)
+- [Video recording](https://youtu.be/EsLqjFEN-MM)
 
 ## Trainers
 
