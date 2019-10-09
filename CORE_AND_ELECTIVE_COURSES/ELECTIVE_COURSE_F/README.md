@@ -33,4 +33,5 @@ You should do a bit of homework beforehand:
 
 ## Course Materials
 
-[Slides from the class](https://docs.google.com/presentation/d/1OLmSfOMjffl7z2ODxHaBcQBmyVEGdt8O7h3bxYv_VVI/edit?usp=sharing)
+- [Slides from the class](https://docs.google.com/presentation/d/1OLmSfOMjffl7z2ODxHaBcQBmyVEGdt8O7h3bxYv_VVI/edit?usp=sharing)
+- [Video Recording](https://youtu.be/crTa1j3FRac)
