@@ -19,6 +19,7 @@ While real-world app development is our goal, the workshop will also delve into 
 
 ### Slides and all materials
 
+- [Slides as PDF](./Slides.pdf)
 - [Slides and materials](https://github.com/textileio/ipfs-camp-2019)
 - [Video recording](https://youtu.be/4r7_lOyv4W8)
 
