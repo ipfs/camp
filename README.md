@@ -5,6 +5,8 @@
 </p>
 <br/>
 
+__note - if you are looking for content for 2022 IPFS Camp, it is located at https://github.com/ipfs/ipfs-camp-2022__
+
 IPFS Camp 2019 is over! Thank you to everyone that joined us for 3 days of amazing conferencing, we are so proud and joyful for being part of such a wonderful community.
 
 If you missed IPFS Camp or want to revisit its content, everything will remain available in this repo. Soon we will start publishing the videos as well.
