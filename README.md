@@ -1,3 +1,11 @@
+## IPFS Camp is back in 2022
+
+**October 28-30, 2022 Lisbon, Portugal**
+
+[IPFS Camp 2022](https://2022.ipfs.camp/) is a gathering for the entire IPFS community: builders, operators, researchers… and you! There will be talks, workshops, discussion circles, hacking time, and more — all focused on celebrating and advancing IPFS.
+
+## IPFS Camp 2019
+
 <p align="center">
   <a href="https://camp.ipfs.io">
     <img src="https://gateway.ipfs.io/ipfs/QmfWNnayqgzFKP3Lf4Ganka5fxjwitVHD7fPgsL7qnR2As" alt="IPFS Camp Banner" width="250" />
