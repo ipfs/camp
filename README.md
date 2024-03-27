@@ -1,11 +1,14 @@
-<p align="center">
-  <a href="https://camp.ipfs.io">
-    <img src="https://gateway.ipfs.io/ipfs/QmfWNnayqgzFKP3Lf4Ganka5fxjwitVHD7fPgsL7qnR2As" alt="IPFS Camp Banner" width="250" />
-  </a>
-</p>
-<br/>
+# IPFS Camp
 
-__note - if you are looking for content for 2022 IPFS Camp, it is located at https://github.com/ipfs/ipfs-camp-2022__
+**IPFS Camp is for those who want to bend the arc of the Internet to be more open, efficient, and secure.**
+
+[IPFS Camp is back in 2024](https://2024.ipfs.camp/)
+
+## 2022
+
+[website for IPFS Camp 2022](https://2022.ipfs.camp/)
+
+## 2019
 
 IPFS Camp 2019 is over! Thank you to everyone that joined us for 3 days of amazing conferencing, we are so proud and joyful for being part of such a wonderful community.
 
