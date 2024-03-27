@@ -6,7 +6,8 @@
 
 ## 2022
 
-[website for IPFS Camp 2022](https://2022.ipfs.camp/)
+[IPFS Camp 2022 Website](https://2022.ipfs.camp/)
+[IPFS Camp 2022 Talks](https://www.youtube.com/playlist?list=PLuhRWgmPaHtSEv2DM9J7nSvN7dnVFMM6q)
 
 ## 2019
 
